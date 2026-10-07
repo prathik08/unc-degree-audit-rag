@@ -1,0 +1,250 @@
+{
+  "major": "Political Science Major, B.A.",
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/political-science-major-ba/",
+  "total_hours": 27.0,
+  "sections": [
+    {
+      "name": "Core Requirements",
+      "required_courses": [
+        {
+          "code": "POLI 100",
+          "title": "American Democracy in Changing Times",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "POLI 150",
+          "title": "International Relations and Global Politics",
+          "hours": 3.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [
+        {
+          "n": 1,
+          "trigger_text": "One course in comparative politics chosen from: 3",
+          "options": [
+            {
+              "code": "POLI 130",
+              "title": "Introduction to Comparative Politics",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 232",
+              "title": "Politics of the United Kingdom",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 233",
+              "title": "Comparative Politics of the Middle East",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 234",
+              "title": "Comparative Politics of the Global South",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 235",
+              "title": "The Politics of Russia and Eurasia",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 236",
+              "title": "Politics of East-Central Europe",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 237",
+              "title": "The Politics of China",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 238",
+              "title": "Politics of the Global South: Latin America",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 239",
+              "title": "Introduction to European Government",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 241",
+              "title": "Comparative Political Behavior",
+              "hours": null,
+              "alternatives": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "n": 1,
+          "trigger_text": "One course in political theory chosen from: 3",
+          "options": [
+            {
+              "code": "POLI 265",
+              "title": "Feminism and Political Theory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 270",
+              "title": "Classical Political Thought",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 271",
+              "title": "Modern Political Thought",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 272",
+              "title": "The Ethics of Peace, War, and Defense",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 275",
+              "title": "Nationalism, Immigration and the Politics of Identity",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 276",
+              "title": "Major Issues in Political Theory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 280",
+              "title": "American Political Thought After the Civil War",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 470",
+              "title": "Social and Political Philosophy",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 471",
+              "title": "Contemporary Political Thought",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 472",
+              "title": "Problems of Modern Democratic Theory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 475",
+              "title": "Environmental Political Theory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 476",
+              "title": "The Political Theory of the American Founding",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 478",
+              "title": "The Politics, Philosophy, and Economics of Education",
+              "hours": null,
+              "alternatives": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "n": 1,
+          "trigger_text": "One course in research methods chosen from: 3",
+          "options": [
+            {
+              "code": "POLI 209",
+              "title": "Analyzing Public Opinion",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 281",
+              "title": "Data in Politics I: An Introduction",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 285",
+              "title": "Applied Experimental Research: Politics in the US and Europe",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 287",
+              "title": "Strategy and International Relations",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 288",
+              "title": "Strategy and Politics",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 381",
+              "title": "Data in Politics II: Frontiers and Applications",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 417",
+              "title": "Advanced Political Psychology",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 487",
+              "title": "Networks in International Relations",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 488",
+              "title": "Game Theory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "POLI 691H",
+              "title": "Honors Seminar in Research Design",
+              "hours": null,
+              "alternatives": []
+            }
+          ],
+          "notes": [
+            "Four political science (POLI) electives at the 100 level or above 1,2 12"
+          ]
+        }
+      ],
+      "notes": [
+        "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1290 @@
+[
+  {
+    "code": "COMP 50",
+    "title": "First-Year Seminar: Everyday Computing",
+    "credits": 3.0,
+    "description": "The goal of this first-year seminar is to understand the use of computing technology in our daily activities.  In this course, we will study various examples of how computing solves problems in different aspects in our daily life. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 60",
+    "title": "First-Year Seminar: Robotics with LEGO\u00ae",
+    "credits": 3.0,
+    "description": "This seminar explores the process of design and the nature of computers by designing, building, and programming LEGO robots.  Competitions to evaluate various robots are generally held at the middle and at the end of the semester.  Previous programming experience is not required. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 65",
+    "title": "First-Year Seminar: Folding, from Paper to Proteins",
+    "credits": 3.0,
+    "description": "Explore the art of origami, the science of protein, and the mathematics of robotics through lectures, discussions, and projects involving artistic folding, mathematical puzzles, scientific exploration, and research. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 89",
+    "title": "First -Year Seminar: Special Topics",
+    "credits": 3.0,
+    "description": "Special topics course.  Content will vary each semester. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 110",
+    "title": "Introduction to Programming",
+    "credits": 3.0,
+    "description": "Introduces students to programming from a computational perspective. With an emphasis on modern applications in society, students gain experience with problem decomposition, algorithms for data analysis, abstraction design, and ethics in computing. No prior programming experience expected. Foundational concepts include data types, sequences, boolean logic, control flow, functions/methods, recursion, classes/objects, input/output, and data organization and transformations. Students may not enroll in COMP\u00a0110 after receiving credit for COMP\u00a0210 . Honors version available.",
+    "requisites_text": "Prerequisite,  A C or better in one of the following courses: MATH\u00a0130 , 152 , 210 , 231 , 129P , or PHIL\u00a0155 , or STOR\u00a0120 , 151 , 155 .",
+    "requisite_codes": [
+      "MATH 130",
+      "MATH 152",
+      "MATH 210",
+      "MATH 231",
+      "MATH 129P",
+      "PHIL 155",
+      "STOR 120",
+      "STOR 151",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "COMP 116",
+    "title": "Introduction to Scientific Programming",
+    "credits": 3.0,
+    "description": "An introduction to programming for computationally oriented scientists. Fundamental programming skills, typically using MATLAB or Python. Problem analysis and algorithm design with examples drawn from simple numerical and discrete problems.",
+    "requisites_text": "Prerequisite,  A grade of C or better in one of the following courses: MATH\u00a0130 , 152 , 210 , 231 , 129P , or PHIL\u00a0155 , or STOR\u00a0120 , 151 , 155 .",
+    "requisite_codes": [
+      "MATH 130",
+      "MATH 152",
+      "MATH 210",
+      "MATH 231",
+      "MATH 129P",
+      "PHIL 155",
+      "STOR 120",
+      "STOR 151",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "COMP 126",
+    "title": "Practical Web Design and Development for Everyone",
+    "credits": 3.0,
+    "description": "A ground-up introduction to current principles, standards, and best practice in website design, usability, accessibility, development, and management through project-based skills development in HTML5, CSS, and basic JavaScript. Intended for nonmajors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 190",
+    "title": "Topics in Computing",
+    "credits": 3.0,
+    "description": "Special topics in computing targeted primarily for students with no computer science background. This course has variable content and may be taken multiple times for credit. As the content will vary with each offering, there are no set requisites but permission from instructor is required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 210",
+    "title": "Data Structures and Analysis",
+    "credits": 3.0,
+    "description": "This course will teach you how to organize the data used in computer programs so that manipulation of that data can be done efficiently on large problems and large data instances.  Rather than learning to use the data structures found in the libraries of programming languages, you will be learning how those libraries are constructed, and why the items that are included in them are there (and why some are excluded).",
+    "requisites_text": "Prerequisites, COMP\u00a0110 and MATH\u00a0231 ; a grade of C or better is required; Pre- or corequisites, COMP\u00a0283 or MATH\u00a0381 or STOR\u00a0315 .",
+    "requisite_codes": [
+      "COMP 110",
+      "MATH 231",
+      "COMP 283",
+      "MATH 381",
+      "STOR 315"
+    ]
+  },
+  {
+    "code": "COMP 211",
+    "title": "Systems Fundamentals",
+    "credits": 3.0,
+    "description": "Systems programming fundamentals including data representation, pointers, execution models, memory management, and runtime environments. Process model, input/output, and system calls. Lexical analysis, parsing, interpretation, and translation. Command-line interface tools including shell, editor, compiler, linker, test harness, debugger, version control, and build tooling. The overarching goal is to bridge the gap between a students' knowledge of a high-level programming language ( COMP\u00a0110 , 210 ) and computer organization ( COMP\u00a0311 ).",
+    "requisites_text": "Prerequisite, COMP\u00a0210 ; COMP\u00a0283 or MATH\u00a0381 or STOR\u00a0315 ; a grade of C or better is required in both prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 283",
+      "MATH 381",
+      "STOR 315"
+    ]
+  },
+  {
+    "code": "COMP 222",
+    "title": "ACM Programming Competition Practice",
+    "credits": 1.0,
+    "description": "Structured practice to develop and refine programming skills in preparation for the ACM programming competition.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 227",
+    "title": "Effective Peer Teaching in Computer Science",
+    "credits": 3.0,
+    "description": "Fundamentals of computer science pedagogy and instructional practice with primary focus on training undergraduate learning assistants for computer science courses. Emphasis on awareness of social identity in learning, active learning in the computer science classroom, and effective mentorship. All students must be granted a computer science learning assistantship or obtain prior approval to substitute relevant practicum experience prior to enrollment.",
+    "requisites_text": "Pre- or corequisite, COMP\u00a0210 or 401 .",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 401"
+    ]
+  },
+  {
+    "code": "COMP 283",
+    "title": "Discrete Structures",
+    "credits": 3.0,
+    "description": "Introduces discrete structures (sets, tuples, relations, functions, graphs, trees) and the formal mathematics (logic, proof, induction) used to establish their properties and those of algorithms that work with them. Develops problem-solving skills through puzzles and applications central to computer science. Honors version available.",
+    "requisites_text": "Prerequisite, MATH\u00a0231 or MATH 241; a grade of C or better is required.",
+    "requisite_codes": [
+      "MATH 231"
+    ]
+  },
+  {
+    "code": "COMP 290",
+    "title": "Special Topics in Computer Science",
+    "credits": 1.0,
+    "description": "Non-technical topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 293",
+    "title": "Internship in Computer Science",
+    "credits": 3.0,
+    "description": "Computer science majors only. A signed learning contract is required before a student may register. Work experience in non-elementary computer science. Permission of instructor and  director of undergraduate studies required.",
+    "requisites_text": "Prerequisites, MATH\u00a0231 or 241; COMP\u00a0210 , COMP\u00a0211 , and COMP\u00a0301 ; a grade of C or better is required in COMP\u00a0210 , 211 , and 301 .",
+    "requisite_codes": [
+      "MATH 231",
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 210",
+      "COMP 211",
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 301",
+    "title": "Foundations of Programming",
+    "credits": 3.0,
+    "description": "Students will learn how to reason about how their code is structured, identify whether a given structure is effective in a given context, and look at ways of organizing units of code that support larger programs. In a nutshell, the primary goal of the course is to equip students with tools and techniques that will help them not only in later courses in the major but also in their careers afterwards.",
+    "requisites_text": "Prerequisite, COMP\u00a0210 ; COMP\u00a0283 or MATH\u00a0381 or STOR\u00a0315 ; a grade of C or better is required in both prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 283",
+      "MATH 381",
+      "STOR 315"
+    ]
+  },
+  {
+    "code": "COMP 311",
+    "title": "Computer Organization",
+    "credits": 3.0,
+    "description": "Introduction to computer organization and design. Students will be introduced to the conceptual design of a basic microprocessor, along with assembly programming.  The course includes fundamental concepts such as binary numbers, binary arithmetic, and representing information as well as instructions. Students learn to program in assembly (i.e., machine) language.  The course covers the fundamentals of computer hardware design,  transistors and logic gates, progressing through basic combinational and sequential components, culminating in the conceptual design CPU.",
+    "requisites_text": "Prerequisite, COMP\u00a0211 ; a grade of C or better is required.",
+    "requisite_codes": [
+      "COMP 211"
+    ]
+  },
+  {
+    "code": "COMP 380",
+    "title": "Technology, Ethics, & Culture",
+    "credits": 3.0,
+    "description": "This discussion-based, participatory course explores the personal, sociocultural, and ethical effects and implications of the development and use of computing technologies and the Internet. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 388",
+    "title": "The Internet: Studies and Stories",
+    "credits": 3.0,
+    "description": "An interdisciplinary look at historical, social, cultural, ethical, psychological and other dimensions of the Internet through the lenses of works in Internet studies and science fiction. Students design and lead class sessions, conduct and present on research, and create digital art and artifacts.",
+    "requisites_text": "Prerequisite, COMP\u00a0380 ; a grade of C or better is required.",
+    "requisite_codes": [
+      "COMP 380"
+    ]
+  },
+  {
+    "code": "COMP 390",
+    "title": "Computer Science Elective Topics",
+    "credits": 3.0,
+    "description": "Elective topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 393",
+    "title": "Software Engineering Practicum",
+    "credits": 1.0,
+    "description": "Students develop a software program for a real client under the supervision of a faculty member. Projects may be proposed by the student but must have real users. Course is intended for students desiring practical experiences in software engineering but lacking the experience required for external opportunities. Majors only.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and 301 , or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 401",
+    "title": "Foundation of Programming",
+    "credits": 4.0,
+    "description": "Required preparation, a first formal course in computer programming (e.g., COMP\u00a0110 , COMP\u00a0116 ). Advanced programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions. Students may not receive credit for this course after receiving credit for COMP\u00a0301 . Honors version available.",
+    "requisites_text": "Prerequisite, MATH\u00a0231 or MATH 241; a grade of C or better is required.",
+    "requisite_codes": [
+      "MATH 231"
+    ]
+  },
+  {
+    "code": "COMP 410",
+    "title": "Data Structures",
+    "credits": 3.0,
+    "description": "The analysis of data structures and their associated algorithms. Abstract data types, lists, stacks, queues, trees, and graphs. Sorting, searching, hashing. Students may not receive credit for this course after receiving credit for COMP\u00a0210 .",
+    "requisites_text": "Prerequisites, MATH\u00a0231 or 241, and COMP\u00a0401 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "MATH 231",
+      "COMP 401"
+    ]
+  },
+  {
+    "code": "COMP 411",
+    "title": "Computer Organization",
+    "credits": 4.0,
+    "description": "Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming. Students may not receive credit for this course after receiving credit for COMP\u00a0311 .",
+    "requisites_text": "Prerequisite, MATH\u00a0231 or 241,and COMP\u00a0401 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "MATH 231",
+      "COMP 401"
+    ]
+  },
+  {
+    "code": "COMP 421",
+    "title": "Files and Databases",
+    "credits": 3.0,
+    "description": "Placement of data on secondary storage. File organization. Database history, practice, major models, system structure and design. Previously offered as COMP 521.",
+    "requisites_text": "Prerequisites, COMP\u00a0210 , 211 , and 301 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 423",
+    "title": "Foundations of Software Engineering",
+    "credits": 3.0,
+    "description": "This course introduces students to the fundamentals of Software Engineering. Students gain experience with design thinking and processes, technical communication, team collaboration, project management methodology, the software development lifecycle, and more, with an emphasis on today's best industrial practices.",
+    "requisites_text": "Prerequisites,  C or better in both COMP\u00a0211 and COMP\u00a0301 .",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 426",
+    "title": "Modern Web Programming",
+    "credits": 3.0,
+    "description": "Developing applications for the World Wide Web including both client-side and server-side programming. Emphasis on Model-View-Controller architecture, AJAX, RESTful Web services, and database interaction.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and 301 ; or COMP\u00a0401 and 410 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410"
+    ]
+  },
+  {
+    "code": "COMP 431",
+    "title": "Internet Services and Protocols",
+    "credits": 3.0,
+    "description": "Application-level protocols HTTP, SMTP, FTP, transport protocols TCP and UDP, and the network-level protocol IP. Internet architecture, naming, addressing, routing, and DNS. Sockets programming. Physical-layer technologies. Ethernet, ATM, and wireless.",
+    "requisites_text": "Prerequisites, COMP\u00a0210 , 211 , and 301 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 433",
+    "title": "Mobile Computing Systems",
+    "credits": 3.0,
+    "description": "Principles of mobile applications, mobile OS, mobile networks, and embedded sensor systems. Coursework includes programming assignments, reading from recent research literature, and a semester long project on a mobile computing platform (e.g., Android, Arduino, iOS, etc.).",
+    "requisites_text": "Prerequisites, COMP\u00a0210 , 211 , and 301 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 435",
+    "title": "Computer Security Concepts",
+    "credits": 3.0,
+    "description": "Introduction to topics in computer security including confidentiality, integrity, availability, authentication policies, basic cryptography and cryptographic protocols, ethics, and privacy. A student may not receive credit for this course after receiving credit for COMP\u00a0535 .",
+    "requisites_text": "Prerequisites, COMP\u00a0210 , 211 , and 301 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 437",
+    "title": "Privacy Enhancing Technologies",
+    "credits": 3.0,
+    "description": "Covers fundamental tools and technologies designed to protect digital privacy, including what we understand digital privacy to mean with an emphasis on cryptographic techniques for building privacy-preserving systems.",
+    "requisites_text": "Prerequisite, COMP\u00a0301 ; a C or better in all prerequisites required.",
+    "requisite_codes": [
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 447",
+    "title": "Quantum Computing",
+    "credits": 3.0,
+    "description": "Recommended preparation, some knowledge of basic linear algebra. An introduction to quantum computing. Basic math and quantum mechanics necessary to understand the operation of quantum bits. Quantum gates, circuits, and algorithms, including Shor's algorithm for factoring and Grover's search algorithm. Entanglement and error correction. Quantum encryption, annealing, and simulation. Brief discussion of technologies.",
+    "requisites_text": "Prerequisites, MATH\u00a0232 , and PHYS\u00a0118 .",
+    "requisite_codes": [
+      "MATH 232",
+      "PHYS 118"
+    ]
+  },
+  {
+    "code": "COMP 455",
+    "title": "Models of Languages and Computation",
+    "credits": 3.0,
+    "description": "Introduction to the theory of computation. Finite automata, regular languages, pushdown automata, context-free languages, and Turing machines. Undecidable problems.",
+    "requisites_text": "Prerequisites, COMP\u00a0210 or 410 and COMP\u00a0283 or MATH\u00a0381 or STOR\u00a0315 ; a grade of C or better in all prerequisite courses is required.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 410",
+      "COMP 283",
+      "MATH 381",
+      "STOR 315"
+    ]
+  },
+  {
+    "code": "COMP 475",
+    "title": "2D Computer Graphics",
+    "credits": 3.0,
+    "description": "Fundamentals of modern software 2D graphics; geometric primitives, scan conversion, clipping, transformations, compositing, texture sampling. Advanced topics may include gradients, antialiasing, filtering, parametric curves, and geometric stroking.",
+    "requisites_text": "Prerequisites, COMP\u00a0210 , 211 , and 301 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 486",
+    "title": "Applications of Natural Language Processing",
+    "credits": 3.0,
+    "description": "Natural language processing (NLP) uses mathematics, machine learning, linguistics, and computer science to make language computationally accessible and analyzable. In this course, you will learn to do essential NLP tasks using Python and survey a selection of NLP applications to describe the problems or tasks each addresses, the materials and methods used, and how the applications are evaluated. At least a semester of Python or equivalent practical experience is highly recommended.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 487",
+    "title": "Information Retrieval",
+    "credits": 3.0,
+    "description": "Study of information retrieval and question answering techniques, including document classification, retrieval and evaluation techniques, handling of large data collections, and the use of feedback.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 488",
+    "title": "Data Science in the Business World",
+    "credits": 3.0,
+    "description": "Business and Computer Science students join forces in this course to create data-driven business insights. We transgress the data science pipeline using cloud computing, artificial intelligence, and real-world datasets. Students acquire hands-on skills in acquiring data, wrangling vast unstructured data, building advanced models, and telling compelling stories with data that managers can understand.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 495",
+    "title": "Mentored Research in Computer Science",
+    "credits": 3.0,
+    "description": "Independent research conducted under the direct mentorship of a computer science faculty member. If repeated, the repeated course can not be counted for the major. For computer science majors only. Permission of instructor required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 496",
+    "title": "Independent Study in Computer Science",
+    "credits": 3.0,
+    "description": "Permission of the department. Computer science majors only. For advanced majors in computer science who wish to conduct an independent study or research project with a faculty supervisor. May be taken repeatedly for up to a total of six credit hours.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 499",
+    "title": "Special Topics in Computer Science, FC-CREATE",
+    "credits": 3.0,
+    "description": "This course has variable content and may be taken multiple times for credit. Different sections may be taken in the same semester.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and COMP\u00a0301 .",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 520",
+    "title": "Compilers",
+    "credits": 3.0,
+    "description": "Design and construction of compilers. Theory and pragmatics of lexical, syntactic, and semantic analysis. Interpretation. Code generation for a modern architecture.  Run-time environments. Includes a large compiler implementation project.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 , 311 , and 455 or COMP\u00a0410 , 411 , and 455 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 455",
+      "COMP 410",
+      "COMP 411",
+      "COMP 455"
+    ]
+  },
+  {
+    "code": "COMP 523",
+    "title": "Software Engineering Laboratory",
+    "credits": 4.0,
+    "description": "Organization and scheduling of software engineering projects, structured programming, and design. Each team designs, codes, and debugs program components and synthesizes them into a tested, documented program product.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and 311 ; as well as at least two chosen from COMP\u00a0421 , 423 , 426 , 431 , 433 , 520 , 530 , 535 , 575 , 580, 590 .",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 421",
+      "COMP 423",
+      "COMP 426",
+      "COMP 431",
+      "COMP 433",
+      "COMP 520",
+      "COMP 530",
+      "COMP 535",
+      "COMP 575",
+      "COMP 590"
+    ]
+  },
+  {
+    "code": "COMP 524",
+    "title": "Programming Language Concepts",
+    "credits": 3.0,
+    "description": "Concepts of high-level programming and their realization in specific languages. Data types, scope, control structures, procedural abstraction, classes, concurrency. Run-time implementation.",
+    "requisites_text": "Prerequisite, COMP\u00a0301 or COMP\u00a0401 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 401"
+    ]
+  },
+  {
+    "code": "COMP 530",
+    "title": "Operating Systems",
+    "credits": 3.0,
+    "description": "Types of operating systems. Concurrent programming. Management of storage, processes, devices. Scheduling, protection. Case study. Course includes a programming laboratory. Honors version available.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and 311 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 533",
+    "title": "Distributed Systems and Concurrent Programming",
+    "credits": 3.0,
+    "description": "Design, implementation, and performance of abstractions for creating concurrent and distributed programs, and use of these abstractions to support high performance computing and distributed, fault-tolerant consistency.",
+    "requisites_text": "Prerequisite, COMP\u00a0301 ; a grade of C or better is required.",
+    "requisite_codes": [
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 535",
+    "title": "Introduction to Computer Security",
+    "credits": 3.0,
+    "description": "Principles of securing the creation, storage, and transmission of data and ensuring its integrity, confidentiality and availability. Topics include access control, cryptography and cryptographic protocols, network security, and online privacy.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and 311 ; or COMP\u00a0401 , 410 , and 411 ; as well as COMP\u00a0550 , and COMP\u00a0283 or MATH\u00a0381 or STOR\u00a0315 ; a grade of C or better is required in all prerequisites.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411",
+      "COMP 550",
+      "COMP 283",
+      "MATH 381",
+      "STOR 315"
+    ]
+  },
+  {
+    "code": "COMP 537",
+    "title": "Cryptography",
+    "credits": 3.0,
+    "description": "Introduces both the applied and theoretical sides of cryptography. Main focus will be on the inner workings of cryptographic primitives and how to use them correctly. Begins with standard cryptographic tools such as symmetric and public-key encryption, message authentication, key exchange, and digital signatures before moving on to more advanced topics. Potential advanced topics include elliptic curves, post-quantum cryptography, and zero-knowledge proofs. Honors version available.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and COMP\u00a0301 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 541",
+    "title": "Digital Logic and Computer Design",
+    "credits": 4.0,
+    "description": "This course is an introduction to digital logic as well as the structure and electronic design of modern processors. Students will implement a working computer during the laboratory sessions.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and 311 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 545",
+    "title": "Programming Intelligent Physical Systems",
+    "credits": 3.0,
+    "description": "Introduction to programming embedded control systems that lie at the heart of robots, drones, and autonomous vehicles. Topics will include modeling physical systems, designing feedback controllers, timing analysis of embedded systems and software, software implementations of controllers on distributed embedded platforms and their verification. Honors version available.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and COMP\u00a0311 ; or COMP\u00a0411 ; a C or better is required in all pre-requisites.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 550",
+    "title": "Algorithms and Analysis",
+    "credits": 3.0,
+    "description": "Formal specification and verification of programs. Techniques of algorithm analysis. Problem-solving paradigms. Survey of selected algorithms.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and 301 ; or COMP\u00a0410 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301",
+      "COMP 410"
+    ]
+  },
+  {
+    "code": "COMP 555",
+    "title": "Bioalgorithms",
+    "credits": 3.0,
+    "description": "Bioinformatics algorithms. Topics include DNA restriction mapping, finding regulatory motifs, genome rearrangements, sequence alignments, gene prediction, graph algorithms, DNA sequencing, protein sequencing, combinatorial pattern matching, approximate pattern matching, clustering and evolution, tree construction, Hidden Markov Models, randomized algorithms.",
+    "requisites_text": "Prerequisites, COMP\u00a0210 , and 211 ; or COMP\u00a0401 , and 410 ; and MATH\u00a0231 , or 241; or BIOL\u00a0452 ; or MATH 553; or BIOL\u00a0525 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 210",
+      "COMP 211",
+      "COMP 401",
+      "COMP 410",
+      "MATH 231",
+      "BIOL 452",
+      "BIOL 525"
+    ]
+  },
+  {
+    "code": "COMP 560",
+    "title": "Artificial Intelligence",
+    "credits": 3.0,
+    "description": "Introduction to techniques and applications of modern artificial intelligence. Combinatorial search, probabilistic models and reasoning, and applications to natural language understanding, robotics, and computer vision.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and 301 ; or COMP\u00a0401 and 410 ; as well as MATH\u00a0231 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "MATH 231"
+    ]
+  },
+  {
+    "code": "COMP 562",
+    "title": "Introduction to Machine Learning",
+    "credits": 3.0,
+    "description": "Machine learning as applied to speech recognition, tracking, collaborative filtering, and recommendation systems. Classification, regression, support vector machines, hidden Markov models, principal component analysis, and deep learning. Honors version available.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and 301 ; or COMP\u00a0401 and 410 ; as well as MATH\u00a0233 , 347 , and STOR\u00a0435 or STOR\u00a0535 or BIOS\u00a0650 ; a grade of C or better is required in all prerequisite courses; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "MATH 233",
+      "MATH 347",
+      "STOR 435",
+      "STOR 535",
+      "BIOS 650"
+    ]
+  },
+  {
+    "code": "COMP 572",
+    "title": "Computational Photography",
+    "credits": 3.0,
+    "description": "The course provides a hands on introduction to techniques in computational photography--the process of digitally recording light and then performing computational manipulations on those measurements to produce an image or other representation. The course includes an introduction to relevant concepts in computer vision and computer graphics.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 ; or COMP\u00a0401 and 410 ; as well as MATH\u00a0347 or 577 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 401",
+      "COMP 410",
+      "MATH 347",
+      "MATH 577"
+    ]
+  },
+  {
+    "code": "COMP 575",
+    "title": "Introduction to Computer Graphics",
+    "credits": 3.0,
+    "description": "Hardware, software, and algorithms for computer graphics. Scan conversion, 2-D and 3-D transformations, object hierarchies. Hidden surface removal, clipping, shading, and antialiasing. Not for graduate computer science credit.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and 311 ; or COMP\u00a0401 , 410 and 411 ; as well as MATH\u00a0347 or MATH\u00a0577 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411",
+      "MATH 347",
+      "MATH 577"
+    ]
+  },
+  {
+    "code": "COMP 576",
+    "title": "Mathematics for Image Computing",
+    "credits": 3.0,
+    "description": "Mathematics relevant to image processing and analysis using real image computing objectives and provided by computer implementations.",
+    "requisites_text": "Prerequisites, COMP\u00a0116 or 210 or 401 , and MATH\u00a0233 ; a grade of C or better is required in all prerequisites.",
+    "requisite_codes": [
+      "COMP 116",
+      "COMP 210",
+      "COMP 401",
+      "MATH 233"
+    ]
+  },
+  {
+    "code": "COMP 577",
+    "title": "Introduction to Computer Vision",
+    "credits": 3.0,
+    "description": "Fundamentals of Computer Vision and overview of recent research problems in Computer Vision. This course attempts to answer the following questions: (a) How do we capture and process an image? (b) How do we develop machine perception that recognizes, detects, and segments objects? (c) How do we connect the 3D world to 2D images and reconstruct 3D from images? The course covers the mathematical fundamentals and modern algorithms of computer vision, and how they can be useful to improving human lives and society.",
+    "requisites_text": "Pre- or corequisites, COMP\u00a0211 , COMP\u00a0301 , and MATH\u00a0347 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301",
+      "MATH 347"
+    ]
+  },
+  {
+    "code": "COMP 581",
+    "title": "Introduction to Robotics",
+    "credits": 3.0,
+    "description": "Hands-on introduction to robotics with a focus on the computational aspects. Students will build and program mobile robots. Topics include kinematics, actuation, sensing, configuration spaces, control, and motion planning. Applications include industrial, mobile, personal, and medical robots. Honors version available.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and 311 ; or COMP\u00a0401 , 410 , and 411 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311",
+      "COMP 401",
+      "COMP 410",
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 586",
+    "title": "Natural Language Processing",
+    "credits": 3.0,
+    "description": "Through this course, students will develop an understanding of the general field of Natural Language Processing with an emphasis on state-of-the-art solutions for classic NLP problems. Topics include: text representation and classification, parts-of-speech tagging, parsing, translation, and language modeling.",
+    "requisites_text": "Prerequisites, COMP\u00a0301 and COMP\u00a0311 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "COMP 301",
+      "COMP 311"
+    ]
+  },
+  {
+    "code": "COMP 590",
+    "title": "Topics in Computer Science",
+    "credits": 3.0,
+    "description": "This course has variable content and may be taken multiple times for credit. Different sections may be taken in the same semester. Honors version available.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and COMP\u00a0301 .",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 599",
+    "title": "Special Topics in Computer Science, FC-KNOWING",
+    "credits": 3.0,
+    "description": "This course has variable content and may be taken multiple times for credit. Different sections may be taken in the same semester.",
+    "requisites_text": "Prerequisites, COMP\u00a0211 and COMP\u00a0301 .",
+    "requisite_codes": [
+      "COMP 211",
+      "COMP 301"
+    ]
+  },
+  {
+    "code": "COMP 616",
+    "title": "Information Visualization",
+    "credits": 3.0,
+    "description": "Data is everywhere. Charts, graphs, and other types of information visualizations help people to make sense of data. This course explores the design, development, and evaluation of these visualizations. By combining aspects of design, computer graphics, HCI, and data science, you will gain hands-on experience with creating visualizations, using exploratory tools, and architecting data narratives. Topics include interactive systems, user-centered design, graphical perception and cognition, data storytelling, and insight building. Throughout this course, you will work directly with stakeholders to analyze data from a variety of domains and applications.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 617",
+    "title": "Visualization Design Methods",
+    "credits": 3.0,
+    "description": "Data visualization combines computational, design, and cognitive principles to help people explore, communicate, and analyze large datasets. Developing effective visualizations often requires working closely with interdisciplinary teams to authentically reflect the needs of a data problem. This course will provide a hands-on introduction to common design methods for creating visualizations in different domains and problem constraints. Students will work with a variety of datasets to generate visualization solutions leveraging various design methodologies and media. Topics will include data sketching and crafting, user-centered design, task-driven design, cognitively-driven design, quantitative and qualitative experimental methods, and workshop methods.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 630",
+    "title": "Operating System Implementation",
+    "credits": 3.0,
+    "description": "Students will learn how to write OS kernel code in C and a small amount of assembly. Students will implement major components of the OS kernel, such as page tables, scheduling, and program loading.",
+    "requisites_text": "Prerequisite, COMP\u00a0530 ; a grade of B+ or better is required; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "COMP 530"
+    ]
+  },
+  {
+    "code": "COMP 631",
+    "title": "Networked and Distributed Systems",
+    "credits": 3.0,
+    "description": "Topics in designing global-scale computer networks (link layer, switching, IP, TCP, congestion control) and large-scale distributed systems (data centers, distributed hash tables, peer-to-peer infrastructures, name systems).",
+    "requisites_text": "Prerequisites, COMP\u00a0431 and COMP\u00a0530 ; a grade of C or better is required in all prerequisite courses; Permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "COMP 431",
+      "COMP 530"
+    ]
+  },
+  {
+    "code": "COMP 633",
+    "title": "Parallel and Distributed Computing",
+    "credits": 3.0,
+    "description": "Required preparation, a first course in operating systems and a first course in algorithms (e.g., COMP\u00a0530 and 550 ). Principles and practices of parallel and distributed computing. Models of computation. Concurrent programming languages and systems. Architectures. Algorithms and applications. Practicum.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 635",
+    "title": "Wireless and Mobile Communications",
+    "credits": 3.0,
+    "description": "This course builds an understanding of the core issues encountered in the design of wireless (vs. wired) networks. It also exposes students to fairly recent paradigms in wireless communication.",
+    "requisites_text": "Prerequisite, COMP\u00a0431 .",
+    "requisite_codes": [
+      "COMP 431"
+    ]
+  },
+  {
+    "code": "COMP 636",
+    "title": "Distributed Collaborative Systems",
+    "credits": 3.0,
+    "description": "Design and implementation of distributed collaborative systems. Collaborative architectures, consistency of replicated objects, collaborative user-interfaces, application and system taxonomies, application-level multicast, performance, causality, operation transformation, and concurrency and access control.",
+    "requisites_text": "Prerequisite, COMP\u00a0431 or 530 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "COMP 431",
+      "COMP 530"
+    ]
+  },
+  {
+    "code": "COMP 637",
+    "title": "Formal Methods for System Security",
+    "credits": 3.0,
+    "description": "Formal methods provide a rigorous, mathematically grounded analysis of a system. Used as part of a security analysis, formal methods can provide verification that a system meets its security requirements. In this course students will learn about and gain experience using a variety of techniques, including symbolic execution, model checking, and proofs of equivalence and refinement. Students will develop an understanding of different specification logics and what can and cannot be expressed in each. Topics include assertion-based verification, simulation relations, linear temporal logic, information flow analysis, and hyperproperties.",
+    "requisites_text": "Prerequisites,  Graduate status or undergraduate status with a C or better in COMP\u00a0311 and COMP\u00a0455 .",
+    "requisite_codes": [
+      "COMP 311",
+      "COMP 455"
+    ]
+  },
+  {
+    "code": "COMP 638",
+    "title": "Stochastic Performance Modeling and Evaluation of Computer Systems",
+    "credits": 3.0,
+    "description": "Fundamentals of stochastic performance modeling of computer systems. This course builds a foundation in the stochastic processes used to model modern computer systems, and develops theoretical techniques for analyzing these models. Students will use these tools to answer practical questions such as: How can we minimize latency or maximize throughput in a system? How many servers do I need to buy to meet my latency/throughput goals? Should I buy one faster server, or two slower servers? How should I balance load across the many servers in my system?  What is the optimal scheduling policy for my system?",
+    "requisites_text": "Prerequisite,  One of MATH\u00a0535 , STOR\u00a0435 , or STOR\u00a0535 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "MATH 535",
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "COMP 651",
+    "title": "Computational Geometry",
+    "credits": 3.0,
+    "description": "Required preparation, a first course in algorithms (e.g., COMP\u00a0550 ). Design and analysis of algorithms and data structures for geometric problems. Applications in graphics, CAD/CAM, robotics, GIS, and molecular biology.",
+    "requisites_text": "Prerequisite, COMP\u00a0550 .",
+    "requisite_codes": [
+      "COMP 550"
+    ]
+  },
+  {
+    "code": "COMP 652",
+    "title": "Logical Foundations of Program Correctness",
+    "credits": 3.0,
+    "description": "This course is an upper-level undergraduate and graduate course about the use of mathematical proof techniques to verify the correctness of programs, algorithms and computer systems. The course will cover foundational concepts in logic, the theory of programming languages, and program verification. Students will learn about computer assisted theorem proving and will learn to use a proof assistant. Classes will be organized around problem sets and in-person lectures. In addition, students will work on a semester-long project developing a proof of correctness of a program or algorithms of their choosing.",
+    "requisites_text": "Prerequisites,  Graduate students or undergraduate with a C or higher in COMP\u00a0283 , COMP\u00a0210 , COMP\u00a0211 , COMP\u00a0301 , and COMP\u00a0455 .",
+    "requisite_codes": [
+      "COMP 283",
+      "COMP 210",
+      "COMP 211",
+      "COMP 301",
+      "COMP 455"
+    ]
+  },
+  {
+    "code": "COMP 662",
+    "title": "Scientific Computation II",
+    "credits": 3.0,
+    "description": "Theory and practical issues arising in linear algebra problems derived from physical applications, e.g., discretization of ODEs and PDEs. Linear systems, linear least squares, eigenvalue problems, singular value decomposition.",
+    "requisites_text": "Prerequisite, MATH\u00a0661 .",
+    "requisite_codes": [
+      "MATH 661"
+    ]
+  },
+  {
+    "code": "COMP 664",
+    "title": "Deep Learning",
+    "credits": 3.0,
+    "description": "Introduction to the field of deep learning and its applications. Basics of building and optimizing neural networks, including model architectures and training schemes.",
+    "requisites_text": "Prerequisites, COMP\u00a0562 , COMP\u00a0755 , or STOR\u00a0565 and MATH 201, 347 , or 577 and MATH\u00a0233 or 522 ; permission of the instructor for student lacking the prerequisites.",
+    "requisite_codes": [
+      "COMP 562",
+      "COMP 755",
+      "STOR 565",
+      "MATH 347",
+      "MATH 577",
+      "MATH 233",
+      "MATH 522"
+    ]
+  },
+  {
+    "code": "COMP 667",
+    "title": "Video Analysis with Deep Learning",
+    "credits": 3.0,
+    "description": "The course aims to provide a thorough overview of deep learning methods for video analysis. It will also teach students how to analyze and present research papers. Throughout the course, we will discuss fundamental video processing techniques,  cover cutting edge research in video recognition and speculate about future research directions. Lastly, students will carry out a semester-long project, providing them with useful skills of how to work with video data and train various deep learning models on video datasets.",
+    "requisites_text": "Prerequisite, COMP\u00a0560 , COMP\u00a0562 , STOR\u00a0565 , COMP\u00a0664 , COMP\u00a0755 , or COMP\u00a0776 .",
+    "requisite_codes": [
+      "COMP 560",
+      "COMP 562",
+      "STOR 565",
+      "COMP 664",
+      "COMP 755",
+      "COMP 776"
+    ]
+  },
+  {
+    "code": "COMP 669",
+    "title": "Transformers for Computer Vision",
+    "credits": 3.0,
+    "description": "Over the last few years, the field of AI has been revolutionized by the emergence of transformer models. In this course, we will study transformer models for various computer vision problems. The course will consist of research paper presentations, interactive exercises, research paper discussions, and a semester-long course project. Topics will include transformer architectures for images and videos, efficient transformer model design, data-efficient learning, self-supervised learning, multimodal learning, image generation, and others. This course is a semester-long 3-credit course, appropriate for graduate students and advanced undergraduate students with an interest in applying transformer models to computer vision.",
+    "requisites_text": "Prerequisite,  One of COMP\u00a0560 , COMP\u00a0562 , STOR\u00a0565 , COMP\u00a0755 , COMP\u00a0664 or COMP\u00a0776 .",
+    "requisite_codes": [
+      "COMP 560",
+      "COMP 562",
+      "STOR 565",
+      "COMP 755",
+      "COMP 664",
+      "COMP 776"
+    ]
+  },
+  {
+    "code": "COMP 672",
+    "title": "Simulation Modeling and Analysis",
+    "credits": 3.0,
+    "description": "Introduces students to modeling, programming, and statistical analysis applicable to computer simulations. Emphasizes statistical analysis of simulation output for decision-making. Focuses on discrete-event simulations and discusses other simulation methodologies such as Monte Carlo and agent-based simulations. Students model, program, and run simulations using specialized software. Familiarity with computer programming recommended.",
+    "requisites_text": "Prerequisites, STOR\u00a0555 and 641 .",
+    "requisite_codes": [
+      "STOR 555",
+      "STOR 641"
+    ]
+  },
+  {
+    "code": "COMP 683",
+    "title": "Computational Biology",
+    "credits": 3.0,
+    "description": "Algorithms and data mining techniques used in modern biomedical data science and single-cell bioinformatics. Graph signal processing, graph diffusion, clustering, multimodal data integration.",
+    "requisites_text": "Prerequisite, MATH\u00a0577 or MATH\u00a0347 ; COMP\u00a0562 or STOR\u00a0520 or STOR\u00a0565 ; grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "MATH 577",
+      "MATH 347",
+      "COMP 562",
+      "STOR 520",
+      "STOR 565"
+    ]
+  },
+  {
+    "code": "COMP 690",
+    "title": "Special Topics in Computer Science",
+    "credits": 3.0,
+    "description": "This course has variable content and may be taken multiple times for credit. COMP\u00a0690 courses must include a final examination or final project.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 691H",
+    "title": "Honors Thesis in Computer Science",
+    "credits": 3.0,
+    "description": "For computer science majors only and by permission of the department. Individual student research for students pursuing an honors thesis in computer science under the supervision of a departmental faculty adviser.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 692H",
+    "title": "Honors Thesis in Computer Science",
+    "credits": 3.0,
+    "description": "Permission of the department.  Required of all students in the honors program in computer science.  The construction of a written honors thesis and an oral public presentation of the thesis are required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 720",
+    "title": "Compilers",
+    "credits": 3.0,
+    "description": "Tools and techniques of compiler construction. Lexical, syntactic, and semantic analysis. Emphasis on code generation and optimization.",
+    "requisites_text": "Prerequisites, COMP\u00a0455 , 520 , and 524 .",
+    "requisite_codes": [
+      "COMP 455",
+      "COMP 520",
+      "COMP 524"
+    ]
+  },
+  {
+    "code": "COMP 721",
+    "title": "Database Management Systems",
+    "credits": 3.0,
+    "description": "Database management systems, implementation, and theory. Query languages, query optimization, security, advanced physical storage methods and their analysis.",
+    "requisites_text": "Prerequisites,  COMP 521 and 550 .",
+    "requisite_codes": [
+      "COMP 550"
+    ]
+  },
+  {
+    "code": "COMP 723",
+    "title": "Software Design and Implementation",
+    "credits": 3.0,
+    "description": "Principles and practices of software engineering. Object-oriented and functional approaches. Formal specification, implementation, verification, and testing. Software design patterns. Practicum.",
+    "requisites_text": "Prerequisites, COMP\u00a0524 and 550 .",
+    "requisite_codes": [
+      "COMP 524",
+      "COMP 550"
+    ]
+  },
+  {
+    "code": "COMP 724",
+    "title": "Programming Languages",
+    "credits": 3.0,
+    "description": "Selected topics in the design and implementation of modern programming languages. Formal semantics. Type theory. Inheritance. Design of virtual machines. Garbage collection. Principles of restructuring compilers.",
+    "requisites_text": "Prerequisites, COMP\u00a0455 , 520 , and 524 .",
+    "requisite_codes": [
+      "COMP 455",
+      "COMP 520",
+      "COMP 524"
+    ]
+  },
+  {
+    "code": "COMP 730",
+    "title": "Operating Systems",
+    "credits": 3.0,
+    "description": "Theory, structuring, and design of operating systems. Sequential and cooperating processes. Single processor, multiprocessor, and distributed operating systems.",
+    "requisites_text": "Prerequisite, COMP\u00a0530 .",
+    "requisite_codes": [
+      "COMP 530"
+    ]
+  },
+  {
+    "code": "COMP 734",
+    "title": "Distributed Systems",
+    "credits": 3.0,
+    "description": "Design and implementation of distributed computing systems and services. Inter-process communication and protocols, naming and name resolution, security and authentication, scalability, high availability, replication, transactions, group communications, distributed storage systems.",
+    "requisites_text": "Prerequisite, COMP\u00a0431 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "COMP 431"
+    ]
+  },
+  {
+    "code": "COMP 735",
+    "title": "Distributed and Concurrent Algorithms",
+    "credits": 3.0,
+    "description": "Verification of concurrent systems. Synchronization; mutual exclusion and related problems, barriers, rendezvous, nonblocking algorithms. Fault tolerance: consensus, Byzantine agreement, self-stabilization. Broadcast algorithms. Termination and deadlock detection. Clock synchronization.",
+    "requisites_text": "Prerequisites, COMP\u00a0530 and 550 .",
+    "requisite_codes": [
+      "COMP 530",
+      "COMP 550"
+    ]
+  },
+  {
+    "code": "COMP 737",
+    "title": "Real-Time Systems",
+    "credits": 3.0,
+    "description": "Taxonomy and evolution of real-time systems. Timing constraints. Design, implementation, and analysis of real-time systems. Theory of deterministic scheduling and resource allocation. Case studies and project.",
+    "requisites_text": "Prerequisite, COMP\u00a0530 .",
+    "requisite_codes": [
+      "COMP 530"
+    ]
+  },
+  {
+    "code": "COMP 740",
+    "title": "Computer Architecture and Implementation",
+    "credits": 3.0,
+    "description": "Architecture and implementation of modern single-processor computer systems. Performance measurement. Instruction set design. Pipelining. Instruction-level parallelism. Memory hierarchy. I/O system. Floating-point arithmetic. Case studies. Practicum.",
+    "requisites_text": "Prerequisites, COMP\u00a0411 and PHYS 352.",
+    "requisite_codes": [
+      "COMP 411"
+    ]
+  },
+  {
+    "code": "COMP 750",
+    "title": "Algorithm Analysis",
+    "credits": 3.0,
+    "description": "Algorithm complexity. Lower bounds. The classes P, NP, PSPACE, and co-NP; hard and complete problems. Pseudo-polynomial time algorithms. Advanced data structures. Graph-theoretic, number-theoretic, probabilistic, and approximation algorithms.",
+    "requisites_text": "Prerequisites, COMP\u00a0455 and 550 .",
+    "requisite_codes": [
+      "COMP 455",
+      "COMP 550"
+    ]
+  },
+  {
+    "code": "COMP 755",
+    "title": "Machine Learning",
+    "credits": 3.0,
+    "description": "Machine Learning methods are aimed at developing systems that learn from data. The course covers data representations suitable for learning, mathematical underpinnings of the learning methods and practical considerations in their implementations.",
+    "requisites_text": "Prerequisites, MATH\u00a0347 /547, or 577 , and STOR\u00a0435 ; a grade of C or better is required in all prerequisite courses.",
+    "requisite_codes": [
+      "MATH 347",
+      "MATH 577",
+      "STOR 435"
+    ]
+  },
+  {
+    "code": "COMP 762",
+    "title": "Efficient Deep Learning: Foundations, Systems, and Applications",
+    "credits": 3.0,
+    "description": "This course delves into the foundations of building efficient deep learning frameworks. The course starts with the basics of deep learning. Then, diverse efficient inference and training algorithms are discussed in this course, including sparsity, quantization, knowledge distillation, mixture-of-experts, distributed computing, etc.  In the end, the curriculum introduces several promising applications, optimization foundations, and advanced topics.",
+    "requisites_text": "Prerequisite,  One of COMP\u00a0562 , COMP\u00a0664 , COMP\u00a0755 , or an equivalent machine learning  course.",
+    "requisite_codes": [
+      "COMP 562",
+      "COMP 664",
+      "COMP 755"
+    ]
+  },
+  {
+    "code": "COMP 763",
+    "title": "Semantics and Program Correctness",
+    "credits": 3.0,
+    "description": "Formal characterization of programs. Denotational semantics and fixed-point theories. Proof of program correctness and termination. Algebraic theories of abstract data types. Selected topics in the formalization of concurrent computation.",
+    "requisites_text": "Prerequisite, COMP\u00a0724 .",
+    "requisite_codes": [
+      "COMP 724"
+    ]
+  },
+  {
+    "code": "COMP 766",
+    "title": "Visual Solid Shape",
+    "credits": 3.0,
+    "description": "3D differential geometry; local and global shape properties; visual aspects of surface shape. Taught largely through models and figures. Applicable to graphics, computer vision, human vision, and biology.",
+    "requisites_text": "Prerequisites, MATH\u00a0233 .",
+    "requisite_codes": [
+      "MATH 233"
+    ]
+  },
+  {
+    "code": "COMP 770",
+    "title": "Computer Graphics",
+    "credits": 3.0,
+    "description": "Study of graphics hardware, software, and applications. Data structures, graphics, languages, curve surface and solid representations, mapping, ray tracing and radiosity.",
+    "requisites_text": "Prerequisites,  COMP 665 and 761.",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 775",
+    "title": "Image Processing and Analysis",
+    "credits": 3.0,
+    "description": "Approaches to analysis of digital images. Scale geometry, statistical pattern recognition, optimization. Segmentation, registration, shape analysis. Applications, software tools.",
+    "requisites_text": "Prerequisites, MATH\u00a0233 , MATH 547/ 347 , and STOR\u00a0435 .",
+    "requisite_codes": [
+      "MATH 233",
+      "MATH 347",
+      "STOR 435"
+    ]
+  },
+  {
+    "code": "COMP 776",
+    "title": "Computer Vision in our 3D World",
+    "credits": 3.0,
+    "description": "Fundamental problems of computer vision. Projective geometry. Camera models, camera calibration. Shape from stereo, epipolar geometry. Photometric stereo. Optical flow, tracking, motion. Range finders, structured light. Object recognition.",
+    "requisites_text": "Prerequisites, MATH\u00a0566 , COMP\u00a0550 , 665, and 775 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "MATH 566",
+      "COMP 550",
+      "COMP 775"
+    ]
+  },
+  {
+    "code": "COMP 777",
+    "title": "Optimal Estimation in Image Analysis",
+    "credits": 3.0,
+    "description": "Formulation and numerical solution of optimization problems in image analysis.",
+    "requisites_text": "Prerequisites, MATH\u00a0233 , MATH\u00a0347 /547, and MATH\u00a0535 or STOR\u00a0435 .",
+    "requisite_codes": [
+      "MATH 233",
+      "MATH 347",
+      "MATH 535",
+      "STOR 435"
+    ]
+  },
+  {
+    "code": "COMP 781",
+    "title": "Robotics",
+    "credits": 3.0,
+    "description": "Introduction to the design, programming, and control of robotic systems. Topics include kinematics, dynamics, sensing, actuation, control, robot learning, tele-operation, and motion planning. Applications will be discussed including industrial, mobile, assistive, personal, and medical robots.",
+    "requisites_text": "Prerequisites, COMP\u00a0550 and MATH\u00a0347 /547; Permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "COMP 550",
+      "MATH 347"
+    ]
+  },
+  {
+    "code": "COMP 782",
+    "title": "Motion Planning in Physical and Virtual Worlds",
+    "credits": 3.0,
+    "description": "Topics include path planning for autonomous agents, sensor-based planning, localization and mapping, navigation, learning from demonstration, motion planning with dynamic constraints, and planning motion of deformable bodies. Applications to robots and characters in physical and virtual worlds will be discussed.",
+    "requisites_text": "Prerequisite, COMP\u00a0550 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "COMP 550"
+    ]
+  },
+  {
+    "code": "COMP 786",
+    "title": "Natural Language Processing",
+    "credits": 3.0,
+    "description": "Artificial intelligence and machine learning field to build automatic models that can analyze, understand, and generate text. Topics include syntactic parsing, co-reference resolution, semantic parsing, question answering, document summarization, machine translation, dialogue models, and multi-modality.",
+    "requisites_text": "Prerequisite, COMP\u00a0562 .",
+    "requisite_codes": [
+      "COMP 562"
+    ]
+  },
+  {
+    "code": "COMP 790",
+    "title": "Topics in Computer Science",
+    "credits": 3.0,
+    "description": "Permission of the instructor. This course has variable content and may be taken multiple times for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 822",
+    "title": "Topics in Discrete Optimization",
+    "credits": 3.0,
+    "description": "Topics may include polynomial algorithms, computational complexity, matching and matroid problems, and the traveling salesman problem.",
+    "requisites_text": "Prerequisite, STOR\u00a0712 ; Permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 712"
+    ]
+  },
+  {
+    "code": "COMP 832",
+    "title": "Multimedia Networking",
+    "credits": 3.0,
+    "description": "Audio/video coding and compression techniques and standards. Media streaming and adaptation. Multicast routing, congestion, and error control. Internet protocols RSVP, RTP/RTCP. Integrated and differentiated services architecture for the Internet.",
+    "requisites_text": "Prerequisites, COMP\u00a0431 and 530 .",
+    "requisite_codes": [
+      "COMP 431",
+      "COMP 530"
+    ]
+  },
+  {
+    "code": "COMP 872",
+    "title": "Exploring Virtual Worlds",
+    "credits": 3.0,
+    "description": "Project course, lecture, and seminar on real-time interactive 3D graphics systems in which the user is 'immersed' in and interacts with a simulated 3D environment. Hardware, modeling, applications, multi-user systems.",
+    "requisites_text": "Prerequisite,  COMP 870.",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 875",
+    "title": "Recent Advances in Image Analysis",
+    "credits": 3.0,
+    "description": "Lecture and seminar on recent advances in image segmentation, registration, pattern recognition, display, restoration, and enhancement.",
+    "requisites_text": "Prerequisite, COMP\u00a0775 .",
+    "requisite_codes": [
+      "COMP 775"
+    ]
+  },
+  {
+    "code": "COMP 892",
+    "title": "Practicum",
+    "credits": 0.5,
+    "description": "Permission of the instructor. Work experience in an area of computer science relevant to the student's research interests and pre-approved by the instructor. The grade, pass or fail only, will depend on a written report by the student and on a written evaluation by the employer.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 910",
+    "title": "Computer Science Module",
+    "credits": 0.5,
+    "description": "A variable-credit module course that can be used to configure a registration for a portion of a class.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 915",
+    "title": "Technical Communication in Computer Science",
+    "credits": 3.0,
+    "description": "This course for doctoral students covers aspects of written and oral technical communication in computer science, including public speaking, writing, posters, and social networking.  The course frames all communication as a teaching exercise, and includes a short lesson and peer critiques of the lesson.  The course also introduces students to the business and administrative aspects of building a teaching or research career, as well as how to navigate common interpersonal and organizational challenges in research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 990",
+    "title": "Research Seminar in Computer Science",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Seminars in various topics offered by members of the faculty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 991",
+    "title": "Reading and Research",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Directed reading and research in selected advanced topics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 992",
+    "title": "Master's (Non-Thesis)",
+    "credits": 3.0,
+    "description": "Permission of the department.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 993",
+    "title": "Master's Research and Thesis",
+    "credits": 3.0,
+    "description": "Permission of the department.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "COMP 994",
+    "title": "Doctoral Research and Dissertation",
+    "credits": 3.0,
+    "description": "Permission of the department.",
+    "requisites_text": "",
+    "requisite_codes": []
+  }
+]

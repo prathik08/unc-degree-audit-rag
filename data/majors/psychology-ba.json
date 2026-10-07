@@ -1,0 +1,124 @@
+{
+  "major": "Psychology Major, B.A.",
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/psychology-major-ba/",
+  "total_hours": 41.0,
+  "sections": [
+    {
+      "name": "Gateway Course",
+      "required_courses": [
+        {
+          "code": "PSYC 101",
+          "title": "General Psychology (with a grade of C or better)",
+          "hours": 3.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": []
+    },
+    {
+      "name": "Core Requirements",
+      "required_courses": [
+        {
+          "code": "PSYC 210",
+          "title": "Statistical Principles of Psychological Research",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 270",
+          "title": "Research Methods in Psychology",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "NSCI 221",
+          "title": "Neuropsychopharmacology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "NSCI 222",
+          "title": "Learning",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "NSCI 225",
+          "title": "Sensation and Perception",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 220",
+          "title": "Biopsychology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 242",
+          "title": "Introduction to Clinical Psychology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 245",
+          "title": "Psychopathology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "NSCI 225",
+          "title": "Sensation and Perception",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 230",
+          "title": "Cognitive Psychology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 250",
+          "title": "Child Development",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "PSYC 260",
+          "title": "Social Psychology",
+          "hours": null,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": [
+        "One course below 400 from four of the five following psychology program areas: 12",
+        "Behavioral and Integrative Neuroscience:",
+        "Clinical:",
+        "Cognitive:",
+        "Developmental:",
+        "Social:",
+        "Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC\u00a0493 or NSCI\u00a0493 5 6",
+        "One additional PSYC and/or NSCI course above 101; may not include PSYC\u00a0190 or NSCI\u00a0190 . 5 3"
+      ]
+    },
+    {
+      "name": "Additional Requirements",
+      "required_courses": [
+        {
+          "code": "BIOL 101&101L",
+          "title": "Principles of Biology and Introductory Biology Laboratory",
+          "hours": 4.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": [
+        "One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below) 3",
+        "One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major. 3-4"
+      ]
+    }
+  ]
+}

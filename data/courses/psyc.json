@@ -1,0 +1,1779 @@
+[
+  {
+    "code": "PSYC .026A",
+    "title": "INTRO PSYCHOLOGY",
+    "credits": 0.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 54",
+    "title": "First-Year Seminar: Families and Children",
+    "credits": 3.0,
+    "description": "This course will consider family from a life-course perspective and family influences on child development. Research and theory concerning divorced and step families, single parents, gay and lesbian parents, and family processes that shape children's development will be examined.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 58",
+    "title": "First-Year Seminar: The Psychology of Mental States and Language Use",
+    "credits": 3.0,
+    "description": "Examines how language use is affected by one's reasoning about the mental activities of others. We will examine the development of language, adult language use, and the language of autistic individuals, who are known to have difficulty reasoning about others' minds. This seminar will follow a discussion format. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 62",
+    "title": "First-Year Seminar: Positive Psychology: The Science of Optimal Human Functioning",
+    "credits": 3.0,
+    "description": "This course invites students to explore the opportunities presented by the vibrant and emerging field of positive psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 63",
+    "title": "First-Year Seminar: Use, Misuse, and Addiction to Drugs in the 21st Century",
+    "credits": 3.0,
+    "description": "This is a first-year seminar on the use of drugs in the U.S. Its purpose is to understand the effects of drug use on pain management, overdose prevention, substance use disorder, overdoses, diversion, legal consequences, public health policy, harm reduction, and treatment. Activities include lectures from technical experts, post-lecture discussions, readings and student-lead discussions, written summaries of class material, formal debates, and a final class project on an effective evidence-based overdose prevention program.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 66",
+    "title": "First-Year Seminar: Eating Disorders and Body Image",
+    "credits": 3.0,
+    "description": "Students will learn about anorexia and bulimia nervosa, as well as prevention and treatment efforts. The course explores factors related to these disorders and body image from a psychosocial perspective. Learning will occur through discussions, readings, videos, guest speakers, experimental assignments, writing assignments, and research projects.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 67",
+    "title": "First-Year Seminar: The Senses of Animals",
+    "credits": 3.0,
+    "description": "This course deals with the sensory systems of animals. A description of the human senses is included, but senses that differ from our own are emphasized. Some treatment of research methods is also included. Classes will be a mixture of lecture, discussion, and student reports.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 68",
+    "title": "First-Year Seminar: Psychology of Emotion",
+    "credits": 3.0,
+    "description": "This first-year seminar is designed for students interested in exploring the psychological study of emotion. Topics include theoretical models of emotion process and structure, as well as a review of research questions about emotional expressions, autonomic physiology, affective neuroscience, emotion and reasoning, and emotion and health.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 89",
+    "title": "First Year Seminar: Special Topics",
+    "credits": 3.0,
+    "description": "Special topics course. Content will vary each semester. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 101",
+    "title": "General Psychology",
+    "credits": 3.0,
+    "description": "PSYC\u00a0101 is a prerequisite for all psychology courses. This course will give an overview of the many different scientific perspectives from which to understand behavior, including the biological, cognitive, developmental, social and psychopathological perspectives. This course is offered in two formats: a large-course format and as a First-Year Launch.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 115",
+    "title": "Reasoning with Data: Navigating a Quantitative World",
+    "credits": 3.0,
+    "description": "Students will use mathematical and statistical methods to address societal problems, make personal decisions, and reason critically about the world. Authentic contexts may include voting, health and risk, digital humanities, finance, and human behavior. This course does not count as credit towards the psychology or neuroscience majors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 180",
+    "title": "Social Media, Technology, and the Adolescent Brain",
+    "credits": 3.0,
+    "description": "In this course, we will learn about current evidence, theory, and controversies with regards to how technology use may affect adolescent development. Questions such as how technology is changing adolescents' social relationships, impacting their mental health, and interacting with the developing brain to influence social, emotional, and cognitive development will be explored.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 190",
+    "title": "Special Topics in Psychology",
+    "credits": 3.0,
+    "description": "An undergraduate seminar course that is designed to be a participatory intellectual adventure on an advanced, emergent, and stimulating topic within a selected discipline in psychology. This course does not count as credit towards the psychology major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 210",
+    "title": "Statistical Principles of Psychological Research",
+    "credits": 3.0,
+    "description": "Consideration of the methodological principles underlying psychological research, descriptive and inferential techniques, and the manner by which they may be employed to design psychological experiments and analyze behavioral data. Three lecture hours. Students may not receive credit for both PSYC\u00a0210 / PSYC\u00a0210H and PSYC 215/PSYC 215H. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 or NSCI\u00a0175 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "NSCI 175"
+    ]
+  },
+  {
+    "code": "PSYC 220",
+    "title": "Biopsychology",
+    "credits": 3.0,
+    "description": "Introductory course which surveys the biological bases of behavior. Topics may include nerve cells and nerve impulses, sensory systems, wakefulness and sleep, reproductive behaviors, and cognitive functions. This course would be an appropriate foundational course for Advanced Biopsychology (PSYC 402). Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 230",
+    "title": "Cognitive Psychology",
+    "credits": 3.0,
+    "description": "Topics in attention; memory; visual, auditory, and other forms of information processing; decision making; and thinking. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 242",
+    "title": "Introduction to Clinical Psychology",
+    "credits": 3.0,
+    "description": "Overview of clinical psychology: history, scientific basis, and major activities and concerns, including assessment, psychotherapy and other psychological interventions, community psychology, ethics, and professional practice. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 245",
+    "title": "Psychopathology",
+    "credits": 3.0,
+    "description": "Major forms of behavior disorders in children and adults, with an emphasis on description, causation, and treatment. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 250",
+    "title": "Child Development",
+    "credits": 3.0,
+    "description": "Study of the development of social and intellectual behavior in normal children and the processes that underlie this development. Emphasis is typically on theory and research. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 260",
+    "title": "Social Psychology",
+    "credits": 3.0,
+    "description": "Introductory survey of experimental social psychology covering attitudes, interpersonal processes, and small groups. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 270",
+    "title": "Research Methods in Psychology",
+    "credits": 3.0,
+    "description": "Students in this course will be exposed to a survey of methodology (i.e., experimental, quasi-experimental, non-experimental) used across various disciplines in psychology (i.e., social, clinical, development, cognitive, and neuroscience). Class time will also be used to discuss methodological considerations in psychological research more broadly.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 290",
+    "title": "Current Topics in Psychology",
+    "credits": 1.0,
+    "description": "Various special areas of psychological study, offered as needed. Course may be repeated for credit. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 294",
+    "title": "Service Learning in Psychology: APPLES",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Service learning component for students enrolled in psychology APPLES courses. May not count toward the major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 310",
+    "title": "Applied Statistical Methods in the Psychological Sciences",
+    "credits": 3.0,
+    "description": "This course extends statistical and data analytic concepts covered in PSYC\u00a0210 with direct applications to empirical data commonly encountered in psychological research. Topics include measurement, group comparisons, linear associations, and prediction. An equal balance is placed on statistical concepts, computer-based data analysis, and interpretation of findings.",
+    "requisites_text": "Prerequisite, PSYC\u00a0210 , PSYC 215, SOCI\u00a0252 , or STOR\u00a0155 .",
+    "requisite_codes": [
+      "PSYC 210",
+      "SOCI 252",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "PSYC 330",
+    "title": "Introduction to Cognitive Science",
+    "credits": 3.0,
+    "description": "Recommended preparation, PSYC\u00a0210 or another quantitative reasoning course. An introduction to the interdisciplinary study of the mind, intelligent behavior, information processing, and communication in living organisms and computers.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 390",
+    "title": "Current Topics in Psychology",
+    "credits": 1.0,
+    "description": "Various special areas of psychological study, offered as needed. Course may be repeated for credit.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 391",
+    "title": "Pedagogy Course for Psychology & Neuroscience Undergraduate Learning Assistants",
+    "credits": 3.0,
+    "description": "This course gives an overview of teaching methods that facilitate the acquisition of knowledge and understanding as well as entails hands-on experience in the classroom. Common misconceptions of learning as well as legal and ethical considerations related to working closely with an undergraduate population will also be covered. Departmental application and approval required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 392",
+    "title": "Psychology and Neuroscience Undergraduate Learning Assistant",
+    "credits": 3.0,
+    "description": "This course is for students that have already served as a ULA and completed an associated pedagogy course. Students will gain additional hands-on experience supporting learning in the classroom and preparing supplemental learning materials. Departmental application and approval required.",
+    "requisites_text": "Prerequisite, PSYC\u00a0391 or equivalent.",
+    "requisite_codes": [
+      "PSYC 391"
+    ]
+  },
+  {
+    "code": "PSYC 395",
+    "title": "Independent Research",
+    "credits": 1.0,
+    "description": "A minimum of a 3.0 cumulative grade point average. Supervised research resulting in a written report for declared PSYC majors. May be repeated for credit up to eight hours. Up to three hours may count as a psychology elective. Permission of the instructor.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and two additional psychology courses, at least one of which must be numbered 200 or greater.",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 404",
+    "title": "Clinical Psychopharmacology",
+    "credits": 3.0,
+    "description": "This course will investigate the pharmacological effects and the clinical efficacy of drugs used to treat behavior disorders.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 430",
+    "title": "Human Memory",
+    "credits": 3.0,
+    "description": "This course explores classic and current issues in the study of human memory. Topics include working memory, encoding and retrieval processes, implicit memory, reconstructive processes in memory, eyewitness memory, developmental changes in memory, neuropsychology and neuroscience of memory and memory disorders, memory improvement, and the repressed/recovered memory controversy.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and 222 or 230 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 230"
+    ]
+  },
+  {
+    "code": "PSYC 432",
+    "title": "Psychology of Language",
+    "credits": 3.0,
+    "description": "Recommended preparation, PSYC\u00a0230 or LING\u00a0101 or LING 400. This course examines the mental representations and cognitive processes that underlie the human ability to use language. Covers what people know about language, how they process it, and how people make inferences about the speaker's meaning based on context. Recent work in experimental psycholinguistics is discussed.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 433",
+    "title": "Behavioral Decision Theory",
+    "credits": 3.0,
+    "description": "Simple mathematical and psychological models of judgment and choice, and related experiments, are treated, as are applications to real world problems in medical, environmental, policy, business, and related domains.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 435",
+    "title": "Gender and Pronouns",
+    "credits": 3.0,
+    "description": "This course offers an inside look at pronouns from an interdisciplinary perspective. From a cognitive perspective, we examine major models of the role that pronouns play, and the mental processes involved in using them. From a social perspective, we examine the role pronouns play in marking gender identity, and how both language usage and gender concepts are currently in flux. Students also learn about research methods and conduct a novel empirical study.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 438",
+    "title": "Research Topics in the Psychology of Language",
+    "credits": 3.0,
+    "description": "Examines the cognitive mechanisms behind language comprehension, focusing on how we make predictions about the speaker's meaning, based on context, background, gestures, and other cues. In this course-based undergraduate research experience (CURE), groups of students generate novel research questions, perform their own research experiments, and present the results in spoken and written format.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 ; Recommended: PSYC\u00a0270 and any course in linguistics ( PSYC\u00a0432 , any LING course, or any course with a substantial linguistics component).",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 270",
+      "PSYC 432"
+    ]
+  },
+  {
+    "code": "PSYC 463",
+    "title": "Development of Social Behavior and Personality",
+    "credits": 3.0,
+    "description": "Developmental processes during early childhood as these relate to social behavior and personality.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 467",
+    "title": "The Development of Black Children",
+    "credits": 3.0,
+    "description": "PSYC\u00a0210 or 215 recommended. A survey of the literature on the development of black children. Topics include peer and social relations, self-esteem, identity development, cognitive development, school achievement, parenting, family management, and neighborhood influences.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and 250 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 250"
+    ]
+  },
+  {
+    "code": "PSYC 468",
+    "title": "Family as a Context for Development",
+    "credits": 3.0,
+    "description": "Explores how the family influences children's development. Topics include family theories, genetics, family structure (e.g., single parents, working mothers, divorce), discipline, parent behavior and values and beliefs, fathers and ethnic diversity.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 250 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 250",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 469",
+    "title": "Evolution and Development of Biobehavioral Systems",
+    "credits": 3.0,
+    "description": "Examines the evolution and development of behavior patterns and their physiological substrates.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 and PSYC\u00a0101 , 210 , or 215.",
+    "requisite_codes": [
+      "BIOL 101",
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 471",
+    "title": "The Study of Adolescent Issues and Development",
+    "credits": 3.0,
+    "description": "The developmental period of adolescence is studied from a multidisciplinary perspective. The course will distinguish among early, middle, and late adolescence and will cover several theoretical perspectives.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 250 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 250",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 473",
+    "title": "Social Development",
+    "credits": 3.0,
+    "description": "This course examines social influences on child and adolescent development, with a focus on advanced research methods in social-developmental psychological science. Topics include socializing agents of development (e.g., parents, peers, media), relationships and identity development, and the influence of social processes in developmental outcomes (e.g., academic outcomes, sexual behavior, mental health).",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and PSYC\u00a0210 or PSYC\u00a0270 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210",
+      "PSYC 270"
+    ]
+  },
+  {
+    "code": "PSYC 474",
+    "title": "Digital Mental Health",
+    "credits": 3.0,
+    "description": "This course will provide an overview of the use of digital technologies to increase opportunities for training in, access to, and use of evidence-based mental health services.  Coverage will include the current status of and future directions in research, innovations in service delivery, and policy implications. Special attention will be given to the evolution of the field, the potential costs and benefits, and the promise to address health disparities in particular.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 477",
+    "title": "Society and the Developing Brain",
+    "credits": 3.0,
+    "description": "Students will develop an integrated understanding of the cognitive neuroscience of brain development and the context of development. This course will provide an overview of principles of developmental cognitive neuroscience and will examine how societal structures shape the intimate environments of the family, school systems, and community contexts.",
+    "requisites_text": "Prerequisite, NSCI\u00a0175 or PSYC\u00a0101 .",
+    "requisite_codes": [
+      "NSCI 175",
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 478",
+    "title": "Research in Digital Technology and the Developing Mind",
+    "credits": 3.0,
+    "description": "Empirical examination of how digital technology use interacts with psychological development. Students will identify a research question of interest, design a study to address that question, obtain relevant data through publicly available sources or novel data collection, analyze those data, and disseminate findings in written, visual, and oral formats.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 ; PSYC\u00a0180 or PSYC\u00a0250 ; PSYC\u00a0210 , SOCI\u00a0252 , or STOR\u00a0155 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 180",
+      "PSYC 250",
+      "PSYC 210",
+      "SOCI 252",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "PSYC 490",
+    "title": "Current Topics in Psychology",
+    "credits": 3.0,
+    "description": "Various special areas of psychological study, offered as needed. Course may be repeated for credit. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 493",
+    "title": "Internship in Psychology",
+    "credits": 3.0,
+    "description": "Designed for highly motivated psychology majors interested in exploring professional opportunities in psychology-related areas. Students complete hands-on internships at community sites for approximately 120 hours across the semester and attend a weekly one-hour class or regular meetings with the instructor of record.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 ; Pre- or corequisite, 2 additional PSYC/NSCI courses, one must be 200-level or above.",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 500",
+    "title": "Developmental Psychopathology",
+    "credits": 3.0,
+    "description": "A survey of theories bearing on atypical development and disordered behavior, and an examination of major child and adolescent behavior problems and clinical syndromes.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 245 , and 250 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 245",
+      "PSYC 250"
+    ]
+  },
+  {
+    "code": "PSYC 501",
+    "title": "Theoretical, Empirical Perspectives on Personality",
+    "credits": 3.0,
+    "description": "An in-depth coverage of the traditional clinically based personality theories of the early 20th century contrasted with more recent empirically based perspectives.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 502",
+    "title": "Psychology of Adulthood and Aging",
+    "credits": 3.0,
+    "description": "A developmental approach to the study of adulthood, from young adulthood through death. Topics include adult issues in personality, family dynamics, work, leisure and retirement, biological and intellectual aspects of aging, dying, and bereavement.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and 250 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 250"
+    ]
+  },
+  {
+    "code": "PSYC 503",
+    "title": "African American Psychology",
+    "credits": 3.0,
+    "description": "This course examines race and culture in the psychological processes and behavior of African Americans.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 504",
+    "title": "Health Psychology",
+    "credits": 3.0,
+    "description": "An in-depth coverage of psychological, biological, and social factors that may be involved with health.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and 245 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 245"
+    ]
+  },
+  {
+    "code": "PSYC 505",
+    "title": "Sports and Performance Psychology",
+    "credits": 3.0,
+    "description": "This course examines the mental health and psychological factors that impact the performance of athletes. Furthermore, the mental health of sports fans, along with the physiological and psychological impact of being a spectator will be examined.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 , 242 or 245 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 242",
+      "PSYC 245"
+    ]
+  },
+  {
+    "code": "PSYC 508",
+    "title": "Psychotherapy: Practice and Research",
+    "credits": 3.0,
+    "description": "This is a course on the treatment of psychological problems through the application of interventions grounded in psychological theory and focusing on behavior or mental processes. Students will become familiar with the more popular schools of psychotherapy, including their historical context, techniques, theoretical underpinnings, and research support. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 512",
+    "title": "Popularity, Friendship, and Peer Relations",
+    "credits": 3.0,
+    "description": "This course will review literature regarding peer relations among children and adolescents, including peer acceptance/rejection, popularity, bases of friendship selection, peer crowds, romantic relationships, and theories of peer influence.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 514",
+    "title": "Mania and Depression",
+    "credits": 3.0,
+    "description": "The social, developmental, and biological contributions to mania and depression are examined, as well as the impact of these moods on the brain, creativity, relationships, quality of life, and health.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and 245 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 245"
+    ]
+  },
+  {
+    "code": "PSYC 517",
+    "title": "Addiction",
+    "credits": 3.0,
+    "description": "PSYC\u00a0270 (Research Methods) and 245 (Abnormal Psychology) are encouraged but not required. This is an advanced seminar for undergraduate students that provides a comprehensive overview of the scientific study of addiction. This course will focus on the etiology and treatment of addiction to mood altering substances such as alcohol and illicit drugs, although many of the principles reviewed are applicable to behavioral addictions (e.g., gambling). Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 518H",
+    "title": "Creating Digital Tools for Positive Youth Development",
+    "credits": 3.0,
+    "description": "In this upper-level course, students will learn about the interdisciplinary field of Positive Youth Development and create a digital tool to improve health, well-being, or developmental outcomes for youth through an intensive semester-long project.",
+    "requisites_text": "Prerequisite, PSYC\u00a0250 .",
+    "requisite_codes": [
+      "PSYC 250"
+    ]
+  },
+  {
+    "code": "PSYC 525",
+    "title": "Psychological Archival Data Science",
+    "credits": 3.0,
+    "description": "This course addresses techniques in answering new questions with existing data. Students will learn about data from multiple perspectives: different data source and types, intended audiences, and visualization, analysis, and presentation formats. This will make students more savvy consumers as well as producers of data.",
+    "requisites_text": "Pre- or corequisites, PSYC\u00a0270 and 245 .",
+    "requisite_codes": [
+      "PSYC 270",
+      "PSYC 245"
+    ]
+  },
+  {
+    "code": "PSYC 528",
+    "title": "Clinical Research: Design, Analyze, Disseminate",
+    "credits": 3.0,
+    "description": "Students work with a community partner to identify a research question related to our understanding and treatment of psychological health. Using an iterative scientific method, students collaborate to develop hypotheses, to prepare and analyze data, to propose interpretations of data, and to present their results to the public.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and either PSYC\u00a0210 or 215; Pre- or corequisite, PSYC\u00a0270 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210",
+      "PSYC 270"
+    ]
+  },
+  {
+    "code": "PSYC 530",
+    "title": "Design and Interpretation of Psychological Research",
+    "credits": 3.0,
+    "description": "Emphasis on the methodological principles underlying experimental and correlational research. Interaction of theory and practice in the design and interpretation of psychological studies. This is a course-based undergraduate research experience (CURE).",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and 270 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 270"
+    ]
+  },
+  {
+    "code": "PSYC 531",
+    "title": "Tests and Measurement",
+    "credits": 3.0,
+    "description": "Basic psychometric theory underlying test construction and utilization. Detailed study of issues and instruments used in assessing intellectual functioning, educational progress, personality, and personnel selection.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 532",
+    "title": "Quantitative Psychology",
+    "credits": 3.0,
+    "description": "This course examines the science of quantitative psychology. Topics include the analysis of data, the design of questionnaires, and the assessment of psychological attributes, among others. Honors version available.",
+    "requisites_text": "Prerequisite, PSYC\u00a0210 , 215, SOCI\u00a0252 , or STOR\u00a0155 .",
+    "requisite_codes": [
+      "PSYC 210",
+      "SOCI 252",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "PSYC 533",
+    "title": "The General Linear Model in Psychology",
+    "credits": 3.0,
+    "description": "Consideration of multiple regression and the general linear model in psychological research, including hypothesis testing, model formulation, and the analysis of observational and experimental data. Honors version available.",
+    "requisites_text": "Prerequisite, ECON\u00a0400 , PSYC\u00a0210 , PSYC 215, SOCI\u00a0252 or STOR\u00a0155 .",
+    "requisite_codes": [
+      "ECON 400",
+      "PSYC 210",
+      "SOCI 252",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "PSYC 534",
+    "title": "Introduction to Computational Statistics",
+    "credits": 3.0,
+    "description": "This course focuses on the implementation of advanced statistical techniques in R and culminates in an original research project. Topics covered include graphical procedures, writing and using functions, data simulations, significance testing, bootstrapping, correcting for multiple tests, simulations, documentation, and intro to optimization.",
+    "requisites_text": "Prerequisite, PSYC\u00a0210 , 215, SOCI\u00a0252 , or STOR\u00a0155 .",
+    "requisite_codes": [
+      "PSYC 210",
+      "SOCI 252",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "PSYC 535",
+    "title": "Programming for Psychologists: Computational Tools for Psychological Research",
+    "credits": 3.0,
+    "description": "In this course, we will cover fundamental coding practices and computational tools used frequently in psychology research. Students will complete an original research project from start to finish using programming as our foundation. Project development and data collection will be in Python, and we will briefly explore R to analyze and visualize our results. No background in coding is required to take this course.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 ; Pre- or corequisite, PSYC\u00a0210 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 536",
+    "title": "Statistical Illusions: Becoming a Critical Consumer of Research",
+    "credits": 3.0,
+    "description": "Information abounds, and it can be hard to decipher when to trust a reported analytic result and when to be skeptical. Building from students' prior knowledge of statistical inference and research design, this course provides practice and guidance on critical thinking when reading or viewing data analytic results in psychology and neuroscience. The primary goal of this course is to provide students with data analytic literacy that can be used in academic and real-world settings (e.g., evaluating AI generated responses; news reports; influencers).",
+    "requisites_text": "Prerequisite, PSYC\u00a0210 , PSYC 215, SOCI\u00a0252 , or STOR\u00a0155 .",
+    "requisite_codes": [
+      "PSYC 210",
+      "SOCI 252",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "PSYC 550",
+    "title": "Statistical Models in Psychology: Theory and Application I",
+    "credits": 4.0,
+    "description": "This course is designed for advanced undergraduate students and entering graduate students and provides an exploration of the theory and principles underlying the application of statistical models in psychological research. Topics include study design, model building, estimation and inference. Students will learn to visualize and manage data and fit models within the statistical software program R.",
+    "requisites_text": "Prerequisite, PSYC\u00a0210 or permission of instructor.",
+    "requisite_codes": [
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 551",
+    "title": "Statistical Models in Psychology: Theory and Application II",
+    "credits": 4.0,
+    "description": "This course is the second of a two-semester sequence designed for advanced undergraduate students and entering graduate students that provides an exploration of the theory and principles underlying the application of statistical models in psychological research. Topics include study design, model building, estimation, and inference. Students will learn to visualize and manage data and fit models within the statistical softwareprogram R.",
+    "requisites_text": "Prerequisite, PSYC\u00a0550 .",
+    "requisite_codes": [
+      "PSYC 550"
+    ]
+  },
+  {
+    "code": "PSYC 559",
+    "title": "Applied Machine Learning in Psychology",
+    "credits": 3.0,
+    "description": "As opposed to hypothesis-driven data analysis, machine learning takes an exploratory and predictive approach to data analysis. This course introduces machine learning approaches in psychology to identify important variables for prediction and uncover complex patterns in datasets, such as nonlinearity, interactions, or clusters. Classes include theoretical lectures and hands-on examples.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 562",
+    "title": "Psychology of Race and Racism",
+    "credits": 3.0,
+    "description": "This course offers an overview of research investigating the psychological underpinnings and impacts of racialization, racism, and racial inequality. It will center research in social psychology, but will also feature work from other areas of psychology (e.g., developmental), as well as other social science disciplines (e.g., sociology, political science).",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 564",
+    "title": "Interpersonal Relationships",
+    "credits": 3.0,
+    "description": "This advanced course will comprehensively cover the social psychological literature on normally-developing interpersonal relationships, with implications for relationships with family, friends, co-workers, and romantic partners. PSYC\u00a0270 is recommended because learning will focus on scientific evidence.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and PSYC\u00a0210 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 565",
+    "title": "Stereotyping, Prejudice, and Discrimination",
+    "credits": 3.0,
+    "description": "PSYC\u00a0270 recommended. Examines the determinants, functions, processes, and consequences of stereotyping, prejudice, and discrimination. Prospects for change are considered. Class presentations and participation required.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 260 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 260",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 566",
+    "title": "Attitude Change",
+    "credits": 3.0,
+    "description": "A detailed consideration of the theoretical issues in attitude and belief change.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 260 , and either 210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 260"
+    ]
+  },
+  {
+    "code": "PSYC 569",
+    "title": "Practical Wisdom from Advanced Social Psychology",
+    "credits": 3.0,
+    "description": "Surveys cutting-edge research across the field of social psychology and how it matters for everyday life. Topics include morality, mind perception, judgment and decision making, happiness, affective forecasting, emotion, relationships, negotiation, personality, free will, stress/health, and religion. Clear communication of research also emphasized through figures, presentations, and papers.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 260 , and 270 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 260",
+      "PSYC 270"
+    ]
+  },
+  {
+    "code": "PSYC 570",
+    "title": "The Social Psychology of Self-Regulation",
+    "credits": 3.0,
+    "description": "PSYC\u00a0270 recommended. An intensive review of self-regulation theory and research, focusing on the cognitive, motivational, and affective processes involved in goal commitment, monitoring, and overriding behavioral responses.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , 260 , and either PSYC\u00a0210 or 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 260",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 571",
+    "title": "Social Neuroscience",
+    "credits": 3.0,
+    "description": "Social neuroscience is the study of how social processes and experiences are represented in and influence the structure and function of the brain. This course will focus primarily on functional magnetic resonance imaging (fMRI) studies of humans, though we will also discuss other brain imaging techniques and patient studies. Previously offered as NSCI 571.",
+    "requisites_text": "Prerequisite, PSYC\u00a0220 or NSCI\u00a0175 , PSYC\u00a0260 recommended.",
+    "requisite_codes": [
+      "PSYC 220",
+      "NSCI 175",
+      "PSYC 260"
+    ]
+  },
+  {
+    "code": "PSYC 572",
+    "title": "Theoretical and Empirical Perspectives on Sex and Gender Differences",
+    "credits": 3.0,
+    "description": "An in-depth examination of psychological research and theory pertaining to the influence of gender on the lives of men and women. In general, emphasis will be placed on understanding gender as a social psychological construct.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 and 260 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 260"
+    ]
+  },
+  {
+    "code": "PSYC 573",
+    "title": "Psychology of Women and Gender",
+    "credits": 3.0,
+    "description": "This course will discuss theories, methods, and empirical research findings on the physical, cognitive, emotional, and social aspects of the psychology of women, as well as topics such as feminist psychology, intersectionality, bias in psychological research, sexual orientation, sexuality, lifespan development, work, and health.  Men and masculinity, the psychology of transgender persons, and a critique of the gender binary are also discussed.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 or WGST\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "WGST 101"
+    ]
+  },
+  {
+    "code": "PSYC 574",
+    "title": "Science of Moral Understanding",
+    "credits": 3.0,
+    "description": "Each of us is committed to our moral  values and often struggle to understand those who with different beliefs. This course will focus on difficult moral disagreements (e.g., abortion, euthanasia), using social psychology and related disciplines to reveal the basis of our moral judgments, the drivers of moral divides, and how best to bridge them. We will cover both theory and application, and practice having constructive dialogue and civil disagreement to forge moral understanding.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and 260 .",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 260"
+    ]
+  },
+  {
+    "code": "PSYC 575",
+    "title": "Positive Psychology",
+    "credits": 3.0,
+    "description": "This course examines positive psychology, also called the science of thriving. One basic premise of positive psychology is that thriving individuals and thriving communities require the presence and interplay of positive emotions, positive relationships, and positive meaning. A second basic premise is that thriving does not result simply by curing pathology and eliminating problems. Rather, thriving requires building and capitalizing on human strengths and capacities. Students will apply course concepts in their everyday lives.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 585",
+    "title": "Psychology of Music",
+    "credits": 3.0,
+    "description": "Music has the ability to influence our emotions, spark creativity, and influence relationships. But what makes music so universal? We will cover topics such as how music makes us happy vs. sad, can music be used for therapy, and does music help with memory through the lens of psychological science.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 601",
+    "title": "Psychology and Law",
+    "credits": 3.0,
+    "description": "Examines the legal system from the perspective of psychology methods and research, with a focus on criminal law. Discusses dilemmas within the law and between the legal system and psychology.",
+    "requisites_text": "Prerequisites, PSYC\u00a0101 , and either PSYC\u00a0210 or PSYC 215.",
+    "requisite_codes": [
+      "PSYC 101",
+      "PSYC 210"
+    ]
+  },
+  {
+    "code": "PSYC 602",
+    "title": "Evolutionary Psychology",
+    "credits": 3.0,
+    "description": "Major topics of general psychology are examined from an evolutionary perspective with an emphasis on empirical studies asking why much current human behavior and experience would have been adaptive for our early ancestors.",
+    "requisites_text": "Prerequisite, PSYC\u00a0101 .",
+    "requisite_codes": [
+      "PSYC 101"
+    ]
+  },
+  {
+    "code": "PSYC 693H",
+    "title": "Honors in Psychology I",
+    "credits": 3.0,
+    "description": "To be taken in the fall of the last year of studies as the first course in the two-semester honors sequence. Students conduct research under the direction of a faculty advisor and receive classroom instruction in research-related topics.",
+    "requisites_text": "Prerequisites,  A cumulative GPA of 3.3, at least one semester of PSYC/ NSCI\u00a0395 or the approved equivalent, and acceptance into the Psychology or Neuroscience Senior Honors Program; PSYC/ NSCI\u00a0693H must be taken in the first semester of the last year of studies.",
+    "requisite_codes": [
+      "NSCI 395",
+      "NSCI 693H"
+    ]
+  },
+  {
+    "code": "PSYC 694H",
+    "title": "Honors in Psychology II",
+    "credits": 3.0,
+    "description": "This course comprises the second semester in the two-semester sequence of Senior Honors in Psychology/Neuroscience. There are two components to the course: research that you will conduct under the direction of your faculty thesis advisor, and this class, which you will attend with the other senior honors students to learn about research-related topics and receive consultations with the instructor and your classmates. Admission to the psychology honors program required.",
+    "requisites_text": "Prerequisites,  A cumulative GPA of 3.3, completion of PSYC/ NSCI\u00a0693H , at least one semester of PSYC/ NSCI\u00a0395 or the approved equivalent, and acceptance into the Psychology or Neuroscience Senior Honors Program; PSYC/ NSCI\u00a0694H must be taken in the second semester of the last year of studies.",
+    "requisite_codes": [
+      "NSCI 693H",
+      "NSCI 395",
+      "NSCI 694H"
+    ]
+  },
+  {
+    "code": "PSYC 701",
+    "title": "Brain & Behavior I",
+    "credits": 3.0,
+    "description": "Graduate standing required. A survey of psychological and biological approaches to the study of sensory and perceptual information processing, with an emphasis on touch and pain.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 702",
+    "title": "Brain & Behavior II",
+    "credits": 3.0,
+    "description": "A survey of psychological and biological approaches to the study of basic learning and higher integrative processing.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 703",
+    "title": "Advanced Biological Psychology: Central Nervous System",
+    "credits": 3.0,
+    "description": "Each fall one special topic will be covered in depth (e.g., neural bases of memory storage, homeostasis, and perception). Format includes lectures and seminar meetings with student presentations.",
+    "requisites_text": "Prerequisite,  PSYC 402.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 704",
+    "title": "Applications of Experimental Psychology to Health Research",
+    "credits": 3.0,
+    "description": "This course provides a critical analysis of interdisciplinary research within experimental psychology, including such topics as psychopharmacology, psychoneuroimmunology, psychophysiology, and animal models of brain/behavior disorders.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 705",
+    "title": "Behavioral Pharmacology",
+    "credits": 3.0,
+    "description": "Basic principles of pharmacology and behavior analysis are considered in relation to drugs that affect the central nervous system.",
+    "requisites_text": "Prerequisite, PSYC\u00a0404 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 404"
+    ]
+  },
+  {
+    "code": "PSYC 707",
+    "title": "Clinical Psychopharmacology",
+    "credits": 3.0,
+    "description": "Examinations of the clinical efficacy, side effects, and neuropharmacological actions of drugs used in the treatment of behavioral disorders. Additional topics include the behavioral and neuropharmacological actions of drugs of abuse.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 708",
+    "title": "Research Design and Statistics in Neuroscience",
+    "credits": 3.0,
+    "description": "Limited to graduate students in psychology, neuroscience, and neurobiology. Experimental design, hypothesis testing, power analyses, ANOVAs, regression, correlations. Hands on data analysis with you being able to use your own data sets. Analyses will be conducted with SPSS and Prism. Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 709",
+    "title": "Seminar in Theoretical-Experimental Psychology",
+    "credits": 1.0,
+    "description": "Lectures, discussions, and seminar presentations on current topics in experimental psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 719",
+    "title": "Seminar in Experimental Health Psychology",
+    "credits": 3.0,
+    "description": "An in-depth treatment of research topics in behavioral and biological aspects of health psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 720",
+    "title": "Research Seminar in Addiction Science I",
+    "credits": 3.0,
+    "description": "Graduate standing in psychology required. Students design and conduct a supervised research project and engage in critical discussion of research performed by other students and faculty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 721",
+    "title": "Research Seminar in Addiction Science II",
+    "credits": 3.0,
+    "description": "Graduate standing in psychology required. Students design and conduct a supervised research project and engage in critical discussion of research performed by other students and faculty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 738",
+    "title": "Neurons to Neighborhoods: Contributions to Neurobiological Development and Behavioral Consequences",
+    "credits": 3.0,
+    "description": "This course provides an overview of what the field of human neuroscience has revealed about neural structure and function with an eye to examining individual differences. Current knowledge about the neural mechanisms supporting cognitive and emotional function will be investigated in depth through chapters, review articles, and empirical studies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 739",
+    "title": "Cognitive Neuroscience",
+    "credits": 3.0,
+    "description": "This course will highlight recent research regarding the cognitive and neural architecture of human memory or attention, with the emphasis placed on studies using cognitive neuroscience methods (e.g. fMRI, EPRs).",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 740",
+    "title": "Seminar in Cognitive Psychology",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Discussion and critical evaluation of various theories of thinking; theories of concept formation, problem solving, and reasoning.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 741",
+    "title": "Professional Development for Careers in Research",
+    "credits": 3.0,
+    "description": "Graduate standing required. This course covers research strategies, research collaboration, giving talks, writing review papers, writing research reports, the peer-review editorial process, the grant-proposal process, the academic job search process, and nonacademic career.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 742",
+    "title": "Attention",
+    "credits": 3.0,
+    "description": "Graduate standing in psychology required. This course will introduce the major issues in attention research and highlight recent work examining the neural mechanisms of attention and its interactions with other cognitive and social-cognitive processes.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 743",
+    "title": "Cognitive Aging",
+    "credits": 3.0,
+    "description": "This course examines theories of human cognitive aging and how these theories seek to explain age-group differences in various domains of cognitive functioning (e.g., episodic memory, language, judgment).",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 744",
+    "title": "Psycholinguistics",
+    "credits": 3.0,
+    "description": "Graduate standing in psychology required. This seminar addresses the mental processes underlying human's ability to use language at a number of levels.  Specific topics vary.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 746",
+    "title": "Seminar in Cognitive Psychology - Human Memory",
+    "credits": 3.0,
+    "description": "Selective overview of topics in the study of human memory. Course will examine the findings from laboratory research to gain a better understanding of memory structure and organization.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 750",
+    "title": "Research Seminar in Cognitive Psychology",
+    "credits": 3.0,
+    "description": "Graduate standing in psychology required. Students conduct a supervised research project in cognitive psychology, and participate in discussion of current research and related ethical and methodological issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 751",
+    "title": "Research Seminar in Cognitive Psychology",
+    "credits": 3.0,
+    "description": "Graduate standing in psychology required. Students conduct a supervised research project in cognitive psychology, and participate in discussion of current research and related ethical and methodological issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 760",
+    "title": "Advanced Cognitive Development",
+    "credits": 3.0,
+    "description": "This course covers the development of attention, perception, learning, memory, thinking, and language, beginning in infancy and covering the life-span from both information processing and Baldwin-Piaget approaches.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 761",
+    "title": "Advanced Social Development",
+    "credits": 3.0,
+    "description": "Current thinking and research relevant to social, emotional, and personality development across the life span. Topics include parent-child interaction, peer relations, aggression, competence, sex roles, and gender differences.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 762",
+    "title": "Developmental Psychology: Methodology I",
+    "credits": 3.0,
+    "description": "Philosophical and sociological perspectives on research in developmental psychology, with specific applications to ongoing projects. As announced.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 763",
+    "title": "Ethics and Professional Issues in Developmental Psychology",
+    "credits": 3.0,
+    "description": "The purpose of this course is to provide an introductory knowledge base of ethical and professional issues that guide the field of Psychology, with specific focus on the field of Developmental Psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 766",
+    "title": "Developmental Psychobiology",
+    "credits": 3.0,
+    "description": "Provides an introduction to psychobiological research, focusing on early development in animals. Topics include embryology, developmental neurobiology, the development of sensory and communication systems, and social behavior. As announced.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 767",
+    "title": "Advanced Family Theory and Research",
+    "credits": 3.0,
+    "description": "Research related to family processes, especially regarding the developmental consequences of varying family environments on children. Topics include divorce, cognitive development, single parents, parental employment, discipline, cultural context.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 768",
+    "title": "Seminar in Developmental Psychology",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Intensive study of selected topics in developmental psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 769",
+    "title": "Development of the Social Brain",
+    "credits": 3.0,
+    "description": "The goal of this course is to understand the neural systems that support development from childhood to adulthood by drawing on theories and methods from developmental and social psychology as well as cognitive neuroscience. We will draw upon research examining the brain bases underlying the development of various social behaviors including social relationships, social stress, antisocial behavior, self-perception, and social influence.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 780",
+    "title": "Developmental Psychology Forum",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Presentations of research by faculty, students, and visitors; discussion of professional topics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 781",
+    "title": "Proseminar in Developmental Science",
+    "credits": 3.0,
+    "description": "Intensive study of selected topics in human development that are being explored by members of the Carolina Consortium on Human Development staff. Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 790",
+    "title": "History of Psychology",
+    "credits": 3.0,
+    "description": "Review of the history of major areas of psychology, with special emphasis on the conceptual and methodological underpinnings of the discipline.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 791",
+    "title": "Special Readings in Psychology",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Intended for advanced graduate students.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 792",
+    "title": "Professional Problems in Psychology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Consideration of problems facing academic psychologists.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 793",
+    "title": "Laboratory in College Teaching",
+    "credits": 1.0,
+    "description": "Specific training in presentational and interpersonal skills needed by college teachers, such as planning, lecturing, discussing, motivating, and evaluating.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 795",
+    "title": "Functional Magnetic Resonance Imaging",
+    "credits": 3.0,
+    "description": "This course provides a comprehensive and rigorous introduction to the technique of functional magnetic resonance imaging (fMRI). Students will learn the basic physics underlying MRI; the biological principles of fMRI, the principles of experimental design, data analysis, the use of available software packages, and special considerations for patient research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 796",
+    "title": "Seminar in Biomedical Imaging Science",
+    "credits": 3.0,
+    "description": "This course serves as a gateway course to the Graduate Certificate in Biomedical Imaging Science.  This course offers an introduction to the most common imaging modalities, including MR, CT, PET, SPECT, ultrasound, and optical imaging. Lectures include discussions of hardware, physics, as well as pre-clinical and clinical applications.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 803",
+    "title": "Advanced Clinical Science for Child and Adolescent Populations",
+    "credits": 3.0,
+    "description": "This graduate-level course is intended to strengthen and extend materials covered in the PSYC\u00a0809 : Introduction to Clinical Science course and is required of all clinical students in the child/family track. PSYC\u00a0803 sits at the intersection of theory, research, and practice and serves as an essential building block in an integrated sequence of coursework, research, and applied experiences that aim to empower clinical scientists to understand how behavioral and mental health problems develop and to apply an evidence-informed lens to improve well-being within and across systems through prevention and intervention.",
+    "requisites_text": "Prerequisite,  Graduate standing in the clinical psychology doctoral program or permission of instructor.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 804",
+    "title": "Advanced Clinical Science for Adult Populations",
+    "credits": 3.0,
+    "description": "This course provides an advanced examination of adult psychopathology, integrating conceptual paradigms, assessment strategies, and evidence-based treatments. Students will critically evaluate diagnostic models, transdiagnostic approaches, and cultural influences on psychopathology while developing case conceptualization and treatment planning skills.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 806",
+    "title": "Clinical Research Methods",
+    "credits": 3.0,
+    "description": "Graduate status in clinical psychology required. Analysis of clinical and personality research in terms of their contribution to knowledge, their limitations, possibilities for their improvement, further research they suggest, etc. Preparation of individual research proposals for class presentation and critical evaluation. Three hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 807",
+    "title": "Advanced Research Methods for Clinical Science",
+    "credits": 3.0,
+    "description": "This is a graduate course for adult- and child/family-track students in the UNC-CH clinical psychology doctoral program and is intended to strengthen and extend material covered in the prerequisite: PSYC\u00a0762 Foundational Methods of Psychological Science or PSYC\u00a0806 : Clinical Research Methods. The course complements the broader training objectives of the UNC-CH clinical psychology doctoral program, emphasizing advanced elements of design that impact testing of the etiology, maintenance, and treatment of psychopathology across the lifespan.",
+    "requisites_text": "Prerequisite, PSYC\u00a0806 or PSYC\u00a0762 .",
+    "requisite_codes": [
+      "PSYC 806",
+      "PSYC 762"
+    ]
+  },
+  {
+    "code": "PSYC 809",
+    "title": "Introduction to Clinical Science",
+    "credits": 3.0,
+    "description": "An introductory course in psychopathology, assessment, and treatment, focusing on problems encountered most frequently in an outpatient community clinic. Structured interviewing, as well as behavior and cognitive interventions, will be covered in relation to unipolar depression, anxiety disorders, and other common forms of psychopathology. Students will learn to approach the research, assessment, and treatment of these problems as clinical scientists.",
+    "requisites_text": "Prerequisite,  Graduate standing in the clinical psychology program.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 810",
+    "title": "Developmental Psychopathology",
+    "credits": 3.0,
+    "description": "First-year graduate status in clinical psychology required. The major forms of psychopathology are examined within a development framework.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 811",
+    "title": "Adult Practicum",
+    "credits": 1.0,
+    "description": "Second-year graduate status in clinical psychology required. Supervised experience in psychological assessment and psychotherapy. Six to eight laboratory hours a week.",
+    "requisites_text": "Prerequisite,  Admission to clinical psychology doctoral program.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 812",
+    "title": "Child and Adolescent Practicum",
+    "credits": 1.0,
+    "description": "Second-year graduate status in clinical psychology required. Supervised experience in psychological assessment and psychotherapy. Six to eight laboratory hours a week.",
+    "requisites_text": "Prerequisite,  Enrollment in clinical psychology doctoral program.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 813",
+    "title": "Advanced Adult Assessment",
+    "credits": 3.0,
+    "description": "Graduate standing in clinical psychology required. Consideration of how various forms of assessment data can be utilized in understanding the structure and dynamics of adult personalities; problems of differential diagnosis, brain damage, etc., are also considered. Two lecture and two laboratory hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 814",
+    "title": "Assessment Across the Lifespan",
+    "credits": 3.0,
+    "description": "Theory, research, and application of objective and projective techniques for behavioral, emotional, psychiatric, interpersonal, and social cognitive assessment of cases across the lifespan (e.g., child, adolescent, adult). Two lecture and two laboratory hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 815",
+    "title": "Ethics and Clinical Interviewing",
+    "credits": 1.0,
+    "description": "This is a foundational course required of all first-year clinical students. The course includes an overview of ethics, ethical decision-making, and intake interview skills. Since students typically have had training in research (e.g., CITI Program's Responsible Conduct of Research, Good Clinical Practice), this course will focus more explicitly on ethics related to clinical practice. As such, this course lays the groundwork for subsequent clinical courses and practicum.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 817",
+    "title": "Advanced Adult Practicum and Professional Ethics",
+    "credits": 3.0,
+    "description": "Supervised clinical work in an area of particular interest to the student. Clinical activity is coordinated with reading and discussion of literature or professional ethics.",
+    "requisites_text": "Prerequisites, PSYC\u00a0811 and 812 .",
+    "requisite_codes": [
+      "PSYC 811",
+      "PSYC 812"
+    ]
+  },
+  {
+    "code": "PSYC 818",
+    "title": "Advanced Child/Adolescent Practicum and Professional Ethics",
+    "credits": 3.0,
+    "description": "Individualized clinical practicum for advanced doctoral students in clinical psychology. Supervised experience in psychotherapy, psychological assessment, and consultation. May be repeated for credit.",
+    "requisites_text": "Prerequisite, PSYC\u00a0817 .",
+    "requisite_codes": [
+      "PSYC 817"
+    ]
+  },
+  {
+    "code": "PSYC 819",
+    "title": "Foundations of Clinical Neuroscience",
+    "credits": 3.0,
+    "description": "This course will survey contemporary neuroscience approaches to understanding mental illness, including mood, anxiety, and personality disorders, as well as addiction. We will also discuss the role of neurodevelopment and stress in the etiology of psychopathology. Students will become familiar with empirical studies encompassing animal models, computational models, and systems and molecular neuroscience. Finally, we will consider the tensions and synergies between psychological and neurobiological approaches to mental illness.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 821",
+    "title": "Integrative Topics in Clinical Science",
+    "credits": 1.0,
+    "description": "Required by accreditation standards for doctoral training in clinical psychology, this course addresses topics in supervision and consultation within clinical science and facilitates the integration of broad domains of discipline-specific knowledge within non-clinical areas of psychology as guided by the interests of each student.",
+    "requisites_text": "Prerequisite,  Graduate Standing.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 822",
+    "title": "Seminar in Clinical Psychology",
+    "credits": 1.0,
+    "description": "Lectures, discussions, and seminar presentations on current topics in clinical psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 823",
+    "title": "Clinical Supervision and Consultation: Theory, Research, and Practice",
+    "credits": 3.0,
+    "description": "This course will familiarize fourth year clinical psychology doctoral students with methods and models of clinical supervision and consultation in an ethical and multicultural context. Includes a didactic seminar component and an applied supervision training component. Restricted to fourth year doctoral students in clinical psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 825",
+    "title": "Advanced Clinical Practicum",
+    "credits": 1.0,
+    "description": "Individualized clinical practicum for advanced doctoral students in clinical psychology, namely: supervised experience in psychotherapy, psychological assessment, and consultation. Practicum experience is paired with a seminar within the academic program of the clinical psychology doctoral program to discuss external community practicum experiences and relate these to academic coursework and earlier clinical training.",
+    "requisites_text": "Prerequisite, PSYC\u00a0811 or PSYC\u00a0812 .",
+    "requisite_codes": [
+      "PSYC 811",
+      "PSYC 812"
+    ]
+  },
+  {
+    "code": "PSYC 827",
+    "title": "Multiculturalism in Clinical Science",
+    "credits": 2.0,
+    "description": "Required by accreditation standards for doctoral training in clinical psychology, this course adopts a widely cited and empirically supported multicultural counseling framework to address group differences or diversity in clinical science. Using a cultural humility stance, students will expand their (1) awareness of their own assumptions, values, and biases regarding diversity; (2) knowledge about the worldview of clients from a diversity of backgrounds; and (3) competence in using therapeutic skills that address client diversity.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 828",
+    "title": "Advanced Assessment Practicum",
+    "credits": 1.0,
+    "description": "Graduate standing in psychology and permission of the instructor. This course provides students with an opportunity to integrate their academic foundation in clinical psychology assessment knowledge skills, ethics, and values in an applied practice setting with diverse clients.",
+    "requisites_text": "Prerequisite,  Enrollment in clinical psychology doctoral program.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 829",
+    "title": "Clinical Psychological Assessment",
+    "credits": 3.0,
+    "description": "Introduction to the principles and practices of evidence-based assessment for clinical psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 830",
+    "title": "Statistical Methods in Psychology I",
+    "credits": 4.0,
+    "description": "Required preparation, a course in introductory statistics. Data analysis, sampling, applied probability, elementary distribution theory, principles of statistical inference.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 831",
+    "title": "Statistical Methods in Psychology II",
+    "credits": 4.0,
+    "description": "Statistical estimation and hypothesis testing for linear models (ANOVA, ANCOVA, regression analysis); statistical models in the design and analysis of experiments.",
+    "requisites_text": "Prerequisite, PSYC\u00a0830 .",
+    "requisite_codes": [
+      "PSYC 830"
+    ]
+  },
+  {
+    "code": "PSYC 833",
+    "title": "Intra-individual Analysis",
+    "credits": 3.0,
+    "description": "This course is designed for graduate students seeking training in quantitative methods for analyzing a range of data often encountered in psychological and neural sciences studies where numerous observations are collected across time per individual. This data enables the possibility for intra-individual variability analysis (IVA), or how to quantitatively describe individuals' dynamic process.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and 831 ; Recommended preparation, structural equation modeling, and permission of instructor.",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 834",
+    "title": "Machine Learning",
+    "credits": 3.0,
+    "description": "This course is an introductory seminar on the theory and application of machine learning to data analysis. A lot of research in psychology has focused on hypothesis-driven, explanatory approaches to data analysis. Machine learning could supplement a researcher's analytic toolbox to explore patterns and assess the predictive value of various combinations of variables on an outcome.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and PSYC\u00a0831 .",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 838",
+    "title": "Regression Models with Categorical Dependent Variables",
+    "credits": 3.0,
+    "description": "The goal of the course is to provide a firm foundation in the regression analysis of binary, ordinal, nominal, or count dependent variables. In addition, the course provides helpful background to those using other methods with categorical outcomes (e.g., item response theory, structural equation models). Students should have a solid background in OLS regression analysis and some familiarity with matrix notation.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 839",
+    "title": "Quantitative Research Methods",
+    "credits": 3.0,
+    "description": "Quantitative Research Methods explores the many dimensions of experimental and quasi-experimental design in the psychological sciences with a specific focus on topics that commonly arise in quantitative research. Exemplar topics include true- and quasi- experimental design, causal inference, sampling, randomization, self-selection, Monte Carlo computer simulation design, internal and external validity, and ethics.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and 831 ; Permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 840",
+    "title": "Computational Statistics",
+    "credits": 3.0,
+    "description": "Current computational environments for data analysis and visualization are taught and used as a basis for understanding current (and creating new) methods of computational statistics and dynamic statistical graphics.",
+    "requisites_text": "Prerequisite, PSYC\u00a0831 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 842",
+    "title": "Test Theory and Analysis",
+    "credits": 3.0,
+    "description": "Survey of classical test theory and more recent developments in item analysis and test construction.",
+    "requisites_text": "Prerequisite, PSYC\u00a0831 .",
+    "requisite_codes": [
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 843",
+    "title": "Factor Analysis",
+    "credits": 3.0,
+    "description": "Advanced topics in factor analytic models, multivariate correlational models, and analysis of covariance structures as applied in behavioral research.",
+    "requisites_text": "Prerequisite, PSYC\u00a0831 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 844",
+    "title": "Structural Equation Modeling",
+    "credits": 3.0,
+    "description": "Examination of a wide range of topics in covariance structure models, including their history, underlying theory, controversies, and practical use with major computer packages.",
+    "requisites_text": "Prerequisite, PSYC\u00a0831 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 845",
+    "title": "Longitudinal Structural Equation Modeling",
+    "credits": 3.0,
+    "description": "Latent curve modeling is a structural equations-based method for analyzing longitudinal data. Equal emphasis is placed on the statistical model and applications to real data.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 846",
+    "title": "Multilevel Modeling",
+    "credits": 3.0,
+    "description": "This course demonstrates how multilevel models (or hierarchical linear models) can be used to appropriately analyze clustered data (i.e. persons within groups) and/or repeated measures data in psychological research.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and 831 .",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 847",
+    "title": "Advanced Topics in Quantitative Psychology: Measurement",
+    "credits": 1.0,
+    "description": "This is a one-credit hour seminar focused on contemporary topics in advanced quantitative psychology with a focus on psychometrics and measurement.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and 831 ; Permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 848",
+    "title": "Advanced Topics in Quantitative Psychology: Modeling",
+    "credits": 1.0,
+    "description": "This is a one-credit hour seminar focused on contemporary topics in advanced quantitative psychology with a focus on statistical and mathematical modeling.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and 831 ; Permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 849",
+    "title": "Advanced Topics in Quantitative Psychology: Computation",
+    "credits": 1.0,
+    "description": "This is a one-credit hour seminar focused on contemporary topics in advanced quantitative psychology with a focus on computational statistics.",
+    "requisites_text": "Prerequisites, PSYC\u00a0830 and 831 ; Permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 830",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 850",
+    "title": "Quantitative Psychology Forum",
+    "credits": 1.0,
+    "description": "Presentations of research by faculty, students, and visitors; discussion of professional topics such as ethics, the publication process, research funding, and the reviewing of articles.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 859",
+    "title": "Seminar in Quantitative Psychology",
+    "credits": 1.0,
+    "description": "Lectures, discussions, and seminar presentations on current topics in quantitative psychology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 860",
+    "title": "Directed Research Seminar in Social Psychology",
+    "credits": 3.0,
+    "description": "Graduate status in social psychology or permission of the instructor. Directed research problems and seminar discussion of related issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 861",
+    "title": "Directed Research Seminar in Social Psychology",
+    "credits": 3.0,
+    "description": "First-year graduate status in social psychology or permission of the instructor. Directed research problems and seminar discussion of related issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 862",
+    "title": "Advanced Social Psychology",
+    "credits": 3.0,
+    "description": "Intensive study of foundational and current, cutting-edge research in social psychology. Topics may include interpersonal relationships, self-regulation, racism and racial inequality, positive psychology, social cognition, social psychobiology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 863",
+    "title": "Methods of Social Psychology",
+    "credits": 3.0,
+    "description": "Methods of investigation in social psychology, with primary emphasis upon experimental design and the nature of the experimental situation.",
+    "requisites_text": "Prerequisite, PSYC\u00a0867 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 867"
+    ]
+  },
+  {
+    "code": "PSYC 864",
+    "title": "Topics in Attitude Research",
+    "credits": 3.0,
+    "description": "A critical examination of selected topics in attitude theory and change.",
+    "requisites_text": "Prerequisite, PSYC\u00a0867 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 867"
+    ]
+  },
+  {
+    "code": "PSYC 865",
+    "title": "Methods of Applied Social Psychology",
+    "credits": 3.0,
+    "description": "Graduate standing required. Supervised research experience in an applied setting and accompanying methods of non-laboratory research, including nonquantitative methods of social psychology and evaluation of quasi-experimental and nonexperimental designs.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 866",
+    "title": "Interpersonal Processes and Close Relationships",
+    "credits": 3.0,
+    "description": "Intensive study of the processes by which adult close relationships are initiated and developed.",
+    "requisites_text": "Prerequisite, PSYC\u00a0867 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 867"
+    ]
+  },
+  {
+    "code": "PSYC 867",
+    "title": "Advanced Survey of Social Psychology",
+    "credits": 3.0,
+    "description": "Graduate standing or permission of the instructor. Survey of research and theories of attitude change, interpersonal relations, and small groups.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 868",
+    "title": "Seminar in Social Psychology",
+    "credits": 3.0,
+    "description": "Seminar in Social Psychology.",
+    "requisites_text": "Prerequisite, PSYC\u00a0867 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 867"
+    ]
+  },
+  {
+    "code": "PSYC 869",
+    "title": "Advanced Social Cognition",
+    "credits": 3.0,
+    "description": "Advanced theory and research in social psychology that explores the cognitive processes underlying social phenomena. Specific topics include attributions, emotions, heuristics, self, goals, motives, and others.",
+    "requisites_text": "Prerequisite, PSYC\u00a0867 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 867"
+    ]
+  },
+  {
+    "code": "PSYC 870",
+    "title": "Psychology of Emotions",
+    "credits": 3.0,
+    "description": "Graduate standing required. Seminar featuring research and theory on emotions.  It stretches across traditional psychological subdisciplines because emotions are complex, multiply determined phenomena.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 871",
+    "title": "Advanced Group Processes",
+    "credits": 3.0,
+    "description": "Discusses both classic and contemporary theory and research related to group processes, including group performance, motivation, decision-making, social dilemmas, social justice, and other intragroup and intergroup phenomena.",
+    "requisites_text": "Prerequisite, PSYC\u00a0867 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 867"
+    ]
+  },
+  {
+    "code": "PSYC 872",
+    "title": "Seminar in Political Psychology",
+    "credits": 3.0,
+    "description": "Graduate standing required. This course surveys research in political psychology.  Topics may include personality and politics, political values and attitudes, voter behavior, candidate evaluation, and the role of emotion in political decision-making.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 873",
+    "title": "Seminar on Prejudice and Stereotyping",
+    "credits": 3.0,
+    "description": "Graduate standing required. Seminar reviews classic and current literature on the psychology of stereotyping and prejudice. Focus is on causes, consequences, and mental processes that maintain social biases.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 874",
+    "title": "Social Judgment and Decision Making",
+    "credits": 3.0,
+    "description": "Discusses both classic and contemporary theory and research related to social judgment and decision making, including basic psychological processes, heuristics and biases, models of decision making, and social influences.",
+    "requisites_text": "Prerequisite, PSYC\u00a0863 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 863"
+    ]
+  },
+  {
+    "code": "PSYC 875",
+    "title": "Advanced Seminar in Positive Psychology",
+    "credits": 3.0,
+    "description": "Positive Psychology represents a scientific approach to understanding positive aspects of life, including character strengths and human flourishing.  This seminar builds students' empirical skills in this vibrant area of inquiry.",
+    "requisites_text": "Prerequisite, PSYC\u00a0870 .",
+    "requisite_codes": [
+      "PSYC 870"
+    ]
+  },
+  {
+    "code": "PSYC 876",
+    "title": "Graduate Seminar in Social and Affective Neuroscience",
+    "credits": 3.0,
+    "description": "This course will provide students with an understanding of the more basic biological (and psychological) mechanisms that contribute to social processes such as stereotypes, person perception, moral judgments, and emotions. The course will prepare students to be informed consumers of contemporary neuroscience research.",
+    "requisites_text": "Prerequisite, PSYC\u00a0869 or PSYC\u00a0870 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 869",
+      "PSYC 870"
+    ]
+  },
+  {
+    "code": "PSYC 880",
+    "title": "Social Psychobiology",
+    "credits": 3.0,
+    "description": "Psychological processes are increasingly being appreciated as key predictors of morbidity, mortality, and well-being. But how, exactly, do factors in the social environment \"get under the skin\" to influence health? This is the main question we will investigate in this course. We will accomplish this primarily through extensive reading and discussion of journal articles and presentations on a variety of biomarkers, physiological processes, and pharmacological approaches.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 888",
+    "title": "Moral Psychology",
+    "credits": 3.0,
+    "description": "Course explores moral judgments and behavior; examines morality and cognition, emotion, mind perception, and religion; covers debates between reason vs. intuition, utilitarianism vs. deontology, and single vs. multiple domain theories. Discusses real world applications (courtroom, torture) and related concepts (free will).",
+    "requisites_text": "Prerequisites, PSYC\u00a0869 or PSYC\u00a0870 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "PSYC 869",
+      "PSYC 870"
+    ]
+  },
+  {
+    "code": "PSYC 889",
+    "title": "Professional Development in Psychology",
+    "credits": 3.0,
+    "description": "This course offers training and discussion in a wide array of skills rarely covered within formal academic curricula, including: how to select a career path, financial planning, media training, balancing personal/professional lives, applying for postdocs, writing research statements, getting tenure, multiculturalism, applying for grants, consulting, etc.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 890",
+    "title": "Case Formulation and Psychotherapy Integration",
+    "credits": 3.0,
+    "description": "Required preparation, third year or beyond in clinical psychology doctoral program. This advanced seminar provides clinical psychology graduate students with case formulation skills in the context of exposure to psychotherapy integration and contemporary evidence-based treatment models.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 894",
+    "title": "Item Response Theory",
+    "credits": 3.0,
+    "description": "A first course in test theory (e.g., EDUC\u00a0829 , PSYC\u00a0842 ) is recommended but not required. Please ask the course instructor if you are unsure about prerequisites. This course covers basic and advanced topics in item response theory (IRT). Examples are taken from educational testing, psychological assessment, and patient-reported health outcomes. Students produce a term project applying IRT to assessment data, and / or addressing mathematical or computational aspects of IRT.",
+    "requisites_text": "Prerequisite, EDUC\u00a0784 or PSYC\u00a0831 .",
+    "requisite_codes": [
+      "EDUC 784",
+      "PSYC 831"
+    ]
+  },
+  {
+    "code": "PSYC 899",
+    "title": "History and Systems of Psychology",
+    "credits": 3.0,
+    "description": "This is an independent study course on the topic of history and systems of psychology, providing a background on the origins and the development of core ideas in the field of psychology including psychoanalysis, behaviorism, and cognitive psychology, and on the development of applied and professional psychology in the United States. Restricted to: Clinical psychology doctoral students only.",
+    "requisites_text": "Pre- or corequisite,  Enrollment in the APA-accredited clinical psychology doctoral program at the University of North Carolina at Chapel Hill.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 990",
+    "title": "Practicum in Psychology and Neuroscience",
+    "credits": 1.0,
+    "description": "This course provides students with hands-on experience in an area of psychology and neuroscience relevant to the student's research interests through projects and work outside the University, such as an internship experience. The course exposes students to a different range of problems and application areas than they would encounter in the classroom, which is an essential part of their graduate study. The student is to be registered for the course while working.",
+    "requisites_text": "Prerequisite,  Approval from instructor in advance.",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 991",
+    "title": "Advanced Research",
+    "credits": 3.0,
+    "description": "Six laboratory hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 993",
+    "title": "Master's Research and Thesis",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 994",
+    "title": "Doctoral Research and Dissertation",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "PSYC 995",
+    "title": "Dissertation Research for Clinical Interns",
+    "credits": 1.0,
+    "description": "A course for Clinical Psychology PhD students to register for if they have defended their dissertation but are on internship and therefore are off campus",
+    "requisites_text": "Prerequisites, PSYC\u00a0993 and PSYC\u00a0994 .",
+    "requisite_codes": [
+      "PSYC 993",
+      "PSYC 994"
+    ]
+  }
+]

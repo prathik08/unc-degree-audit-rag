@@ -1,0 +1,2086 @@
+[
+  {
+    "code": "POLI 50",
+    "title": "First-Year Seminar: Movies and Politics",
+    "credits": 3.0,
+    "description": "Movies often reflect important social and political issues. In this course students will see a set of movies, discuss them, and put them into social and political contexts.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 52",
+    "title": "First-Year Seminar: Friendship in Political Thought",
+    "credits": 3.0,
+    "description": "This seminar will explore what relationships have been designated \"friendship\" in the past, and why they are of such concern to political and ethical philosophers like Plato, Aristotle, Cicero, Montaigne, and Emerson. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 57",
+    "title": "First-Year Seminar: Democratic Governance in Contemporary Latin America",
+    "credits": 3.0,
+    "description": "This seminar explores challenges in democratic governance in contemporary Latin America. With important regional variations, the exercise of state power reflects historical continuities of corruption, patronage politics, and other abuses of state resources. There are also demands for accountability and transparency across the region and more independent judiciaries.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 59",
+    "title": "First-Year Seminar: Revolution, America in 1776 and France in 1789",
+    "credits": 3.0,
+    "description": "We examine the political theory of revolution at two dramatic moments in history: The American Revolution and The French Revolution.  This course is throws students into New York City in 1775 and Paris in 1791 by recreating and engaging with the ideas and arguments of these times through two, role-immersive simulations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 63",
+    "title": "First-Year Seminar: Social Movements and Political Protest and Violence",
+    "credits": 3.0,
+    "description": "Unconventional collective political behavior: mass movements, riots, demonstrations, revolts, and revolution.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 66",
+    "title": "First-Year Seminar: The United States and the European Union: Partners or Rivals?",
+    "credits": 3.0,
+    "description": "The alliance between America and the European Union is one of the most important political relationships today.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 70",
+    "title": "First-Year Seminar: Political Conflict in the European Union and the United States",
+    "credits": 3.0,
+    "description": "This course examines the politics of the European Union in comparison with the United States.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 72",
+    "title": "First-Year Seminar: Entrepreneurship in Community and Economic Development",
+    "credits": 3.0,
+    "description": "This is a survey course of entrepreneurial strategies as they are used in community and economic development.  It involves an individual research or service project by each student.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 74",
+    "title": "First-Year Seminar: Introduction to Constitutional Conflicts",
+    "credits": 3.0,
+    "description": "This seminar will introduce students to the issues, arguments, history, impact, and reasoning arising from or in conflicts between presidents and Congress. The constitutional conflicts that are the focus of the course involve presidents and Congress fighting for primacy in areas in which they have shared constitutional powers.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 75",
+    "title": "First-Year Seminar: Thinking about Law",
+    "credits": 3.0,
+    "description": "This seminar explores the notion of a rule of law, statutory and case law, legal analysis, and the realities of the adversarial system and legal practice. Students will be engaged in analytical thinking and expression through classroom discussion, analytical papers, and examinations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 76",
+    "title": "First-Year Seminar: The Obama Presidency",
+    "credits": 3.0,
+    "description": "This course examines the presidency of Barack Obama, the first African American to serve in the nation's highest office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 77",
+    "title": "Immigrants and Refugees in World Politics",
+    "credits": 3.0,
+    "description": "This class focuses on two different types of global migrants, immigrants and refugees, and explores why these two groups move out of their countries and how they are treated by receiving countries. Immigrants and refugees have traditionally been thought of as politically, legally, and ethically different from each other and this class explores these differences, but it also explores the many ways that they are similar.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 78",
+    "title": "First-Year Seminar: The Politics of Migration in Europe",
+    "credits": 3.0,
+    "description": "Europe is facing numerous complex issues ranging from economic uncertainty and rising populism to integrating migrants and respecting minority rights. A common thread running through these issues is the movement of people across national borders. This class examines how the movement of people into Europe and within Europe affects, and in turn is affected by, the politics in Europe, which are quite different from the politics in the United States. Drawing comparisons between Europe and the U.S. is an important feature of this class.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 79",
+    "title": "First-Year Seminar: Global Politics of Climate Change",
+    "credits": 3.0,
+    "description": "Introduces politics of climate change policy at international, EU, US, state, and substate levels through readings, documentary films, and guest speakers.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 80",
+    "title": "First-Year Seminar: African-American Politics and Economic Inequality",
+    "credits": 3.0,
+    "description": "This course explores African-American political development from emancipation to the present, with a central focus on economic inequality. Special attention will be paid to the experiences and contributions of African-Americans in the struggle against economic inequality in the United States.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 89",
+    "title": "First-Year Seminar: Special Topics",
+    "credits": 3.0,
+    "description": "Special topics course. Content will vary each semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 100",
+    "title": "American Democracy in Changing Times",
+    "credits": 3.0,
+    "description": "Why do Americans love democracy, but hate politics? Why are there only two political parties? Why do voters hate, yet respond to negative campaigning? This course will introduce students to politics in the United States, addressing these and many more questions about how American democracy works. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 130",
+    "title": "Introduction to Comparative Politics",
+    "credits": 3.0,
+    "description": "This course examines the diversity of political arrangements in societies across the globe. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 150",
+    "title": "International Relations and Global Politics",
+    "credits": 3.0,
+    "description": "An introduction to the study of political and economic relations in the international system. Topics covered include international conflict, trade, global finance, international institutions, civil war, and human rights. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 150L",
+    "title": "International Relations and Global Politics Research Laboratory",
+    "credits": 1.0,
+    "description": "This laboratory section introduces students in POLI\u00a0150 to contemporary research methods in the study of international relations and world politics. Students will design and conduct independent research related to international politics. Permission of the instructor.",
+    "requisites_text": "Corequisite, POLI\u00a0150 .",
+    "requisite_codes": [
+      "POLI 150"
+    ]
+  },
+  {
+    "code": "POLI 190",
+    "title": "Undergraduate Seminar",
+    "credits": 1.0,
+    "description": "A detailed examination of selected topics in the field of political science. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 193",
+    "title": "Internship in Political Science",
+    "credits": 3.0,
+    "description": "An opportunity to obtain credit for an internship in a government or public service organization. Pass/Fail only. Does not count toward the political science major. Requires permission of the department. Open to political science majors only.",
+    "requisites_text": "Prerequisite,  at least two POLI courses.",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 200",
+    "title": "The President, Congress, and Public Policy",
+    "credits": 3.0,
+    "description": "An analysis of the roles and influence of the president, the Congress, and other participants in the making of national policy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 201",
+    "title": "Politics of Bureaucracy",
+    "credits": 3.0,
+    "description": "Problems of the public service; internal dynamics of public organizations; acquisition and allocation of public funds; the roles of bureaucracy in relation to public policy, clients, the citizenry, and society. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 202",
+    "title": "The United States Supreme Court",
+    "credits": 3.0,
+    "description": "Examination of the process of policy making on the Supreme Court. Focuses upon the selection of justices, factors affecting the court's decision making, and the impact of its policies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 203",
+    "title": "Race, Innocence, and the Decline of the Death Penalty",
+    "credits": 4.0,
+    "description": "A large majority of Americans supports the death penalty in the abstract, but the number of death sentences and executions has been declining since the mid-1990s. This course explores the decline of the death penalty by looking at race, questions of innocence, and the new politics of capital punishment.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 204",
+    "title": "Introduction to Southern Politics",
+    "credits": 3.0,
+    "description": "This course examines the politics of the American South. Each state is studied separately and we examine the region from a broad/general perspective. Both academic books and journal articles are read. By the end of the course, students should be familiar with historical and contemporary politics in the South.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 205",
+    "title": "Politics in the U.S. States",
+    "credits": 3.0,
+    "description": "State and local governments in the United States exercise considerable power over public policies such as education, social welfare, and taxation. This course examines similarities and differences across the U.S. states to better understand the causes and consequences of politics in these settings. Previously offered as POLI 101. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 206",
+    "title": "Race and the Right to Vote in the United States",
+    "credits": 3.0,
+    "description": "This course surveys scholarly literature on political psychology, electoral institutions, racial politics, and access to the ballot in the United States. In 30 hours of community service with partner organizations, students forge deeper connections between the university and the broader community. Through consistent reflections on the importance and potential downfalls of service learning, students gain a multi-faceted view of the practice and learn how to become better service learners.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 207",
+    "title": "The Politics of Organized Interests",
+    "credits": 3.0,
+    "description": "This course examines how interests organize themselves, enter into and then interact within interest communities, and seek to influence government policy through electoral activity and lobbying legislators, executives, and courts.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 208",
+    "title": "Political Parties and Elections",
+    "credits": 3.0,
+    "description": "An analysis of the dynamics of party alignment and realignment and of nomination and election to public office in American national government. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 209",
+    "title": "Analyzing Public Opinion",
+    "credits": 3.0,
+    "description": "A study of forces affecting public opinion and its expression in various political activities. Emphasis on gathering and analyzing opinion data. Course may be taught in the computer classroom. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 210I",
+    "title": "Global Issues and Globalization",
+    "credits": 3.0,
+    "description": "Survey of international social, political, and cultural patterns in selected societies of Africa, Asia, America, and Europe, stressing comparative analysis of conflicts and change in different historical contexts. LAC recitation sections offered in French, German, and Spanish.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 211",
+    "title": "Religion and Politics",
+    "credits": 3.0,
+    "description": "Religion and politics are deeply intertwined in contemporary America, as evidenced by heated and often highly partisan debates over a wide variety of political issues such as abortion and immigration. This course addresses the variety of ways in which religion and politics intersect for voters and political elites with a focus on understanding how scholars operationalize religious concepts and use data to make empirical claims about the relationship between religion and politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 212",
+    "title": "Principles of Political Science",
+    "credits": 3.0,
+    "description": "Despite the appearance of complexity and randomness, politics is deeply structured in ways that can be researched and understood. This course has three objectives. First, it will provide students with essential nuts and bolts for further study in political science. Second, it introduces students who wish to study comparative politics and international organization to the substantive foundations of these fields. Third, and most generally, the course contributes to an understanding of global politics and varieties of democracy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 215",
+    "title": "Political Psychology: An Introduction",
+    "credits": 3.0,
+    "description": "Findings of the behavioral sciences are examined as they relate to politics. Includes such issues as human nature, community, political socialization, alienation, mass movements, belief systems, and personality.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 216",
+    "title": "Survey Research Methodology",
+    "credits": 3.0,
+    "description": "Surveys impact our lives in more ways than most people realize. Among other things, surveys allow us to predict who will win elections, determine how congressional districts are drawn, understand what the public wants from their elected leaders, and measure macroeconomic trends. This course examines how surveys are used in society, teaches students how to design and implement their own surveys, and provides training in how to analyze, interpret, and communicate survey findings to a broad audience.",
+    "requisites_text": "Prerequisite, POLI\u00a0281 or equivalent, with instructor permission.",
+    "requisite_codes": [
+      "POLI 281"
+    ]
+  },
+  {
+    "code": "POLI 217",
+    "title": "Women and Politics",
+    "credits": 3.0,
+    "description": "A comparison of men and women as political actors at the mass and elite level in America. Topics considered include the \"gender gap,\" the women's movement, abortion, and the Equal Rights Amendment.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 220",
+    "title": "Race, Ethnicity, and Electoral Representation in the United States",
+    "credits": 3.0,
+    "description": "This course examines the electoral representation of racial and ethnic minorities in the United States. While multiple ethnic groups are studied, there will be an emphasis on the two largest minority groups in the country: Latinos and African Americans.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 225",
+    "title": "Introduction to Community Engaged Research",
+    "credits": 3.0,
+    "description": "This course introduces students to Community Engaged Research (CER), a research approach in which researchers directly engage and partner with community members throughout the research process, from developing questions to designing and conducting studies to produce rigorous academic research and build power for communities. The semester is divided into three modules. In the first module, students will learn the main pillars of CER. In the second module, students will apply the skills learned in the first module to major concepts in political science. The third module is dedicated to learning from community organizers and partners across a range of issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 231",
+    "title": "Latin America and the United States in World Politics",
+    "credits": 3.0,
+    "description": "A survey of the events, institutions, and issues that have dominated relations between Latin America and the United States.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 232",
+    "title": "Politics of the United Kingdom",
+    "credits": 3.0,
+    "description": "An introduction to contemporary UK politics emphasizing the political battle between socialist and conservative ideologies. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 233",
+    "title": "Comparative Politics of the Middle East",
+    "credits": 3.0,
+    "description": "This course is designed as an introduction to contemporary Middle Eastern politics for advanced undergraduates. To explore this topic, the course combines systematic analytical approaches to big questions with concrete knowledge of events and developments in specific countries. In so doing, it aims to give students a critical understanding of politics while simultaneously building empirical knowledge about the Middle East/North Africa region. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 234",
+    "title": "Comparative Politics of the Global South",
+    "credits": 3.0,
+    "description": "An overview of politics and government in the Global South, emphasizing theories and challenges of development, modernization, and democratization. Regional emphasis may vary by instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 235",
+    "title": "The Politics of Russia and Eurasia",
+    "credits": 3.0,
+    "description": "Factors and forces that explain the rise and demise of the Soviet political system and consideration of emerging new political configurations in the area. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 236",
+    "title": "Politics of East-Central Europe",
+    "credits": 3.0,
+    "description": "Examines contemporary politics in east-central Europe by looking at the communist period, the 1989 revolutions, and the political, economic, and social transformations underway in the area. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 237",
+    "title": "The Politics of China",
+    "credits": 3.0,
+    "description": "An introduction to the politics of People's Republic of China with a focus on the Reform Era. Provides a working knowledge for understanding political events in contemporary China in three parts: historical background, evolution of political institutions, and changing relations between ordinary people and the Chinese state.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 238",
+    "title": "Politics of the Global South: Latin America",
+    "credits": 3.0,
+    "description": "An introduction to politics and political economy of Latin America, emphasizing Latin America's position in the Global South and including consideration of leading theoretical explanations of development and political change. Country emphasis varies with instructor. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 239",
+    "title": "Introduction to European Government",
+    "credits": 3.0,
+    "description": "A treatment of the political institutions and processes of western European democracies, with special attention to France, Germany, England, and Italy. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 240",
+    "title": "African American Politics",
+    "credits": 3.0,
+    "description": "A survey of African American political development from emancipation to the present. The course examines the dynamics of minority group politics with African Americans as the primary unit of analysis. Students consider African American politics in domestic and global contexts and issues of local, regional, national, and international relevance.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 241",
+    "title": "Comparative Political Behavior",
+    "credits": 3.0,
+    "description": "Political behavior is the study of attitudes, ideology, and engagement with the government. Why are some individuals more likely than others to support specific policies? How do we understand the connection between voters and political parties? What makes an individual more likely to vote? When and where are broad social movements, wars, rebellions and revolutions most likely to occur? Comparative political behavior studies how these phenomena operate across different institutional and cultural environments. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 248",
+    "title": "Intersectionality: Race, Gender, Sexuality, and Social Justice",
+    "credits": 3.0,
+    "description": "The first goal of this super course is to give students real tools for how to address multiple modes of difference and identity formations like race, gender, class, and sexuality.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 252",
+    "title": "International Organizations and Global Issues",
+    "credits": 3.0,
+    "description": "Examines international organizations and their relationships with and impact upon international politics, international law, and selected global issues. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 253",
+    "title": "Problems in World Order",
+    "credits": 3.0,
+    "description": "An examination of selected topics in international relations, such as security and defense, international integration, and north-south relations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 254",
+    "title": "International Environmental Politics",
+    "credits": 3.0,
+    "description": "Covers the politics of environmental issues, with a focus on issues that have become internationalized. It focuses on the special problems that arise in creating rules for environmental management and regulation when no single government has authority to enforce those rules.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 255",
+    "title": "International Migration and Citizenship Today",
+    "credits": 3.0,
+    "description": "This class explores the moral, economic, political, and cultural dimensions of international migration. It is discussion-based and tackles such thorny questions as: Do we have an obligation to let poor people into our rich country? What constitutes persecution? How do foreigners affect national identity? How should citizenship be allocated? Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 256",
+    "title": "The Politics of the First Era (1880-1914) of Globalization",
+    "credits": 3.0,
+    "description": "This course considers the politics of international trade and finance on the eve of World War I. We explore the factors, domestic and international, that facilitated integration prior to World War I, as well as those that prevented a return to economic openness in the 1920s and 1930s.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 257",
+    "title": "Politics, Society, and Culture in Postwar Germany",
+    "credits": 3.0,
+    "description": "The interdisciplinary seminar will explore cultural, historical, and political issues of contemporary Germany and analyze German developments from the postwar period to the present. Readings and discussions in English.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 258",
+    "title": "Political Economy of Migration and Mobility",
+    "credits": 3.0,
+    "description": "How does global migration affect both domestic and international political dynamics, and vice versa? This course explores the politics of global migration and mobility, offering insights into how the movement of people impacts politics at the individual, domestic, and international levels. Join the class to gain a deeper understanding of the migration issues shaping global discourses. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 260",
+    "title": "Crisis and Change in Russia and Eastern Europe",
+    "credits": 3.0,
+    "description": "Draws on historical, political, economic, and sociological perspectives to analyze social, cultural, and institutional change.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 265",
+    "title": "Feminism and Political Theory",
+    "credits": 3.0,
+    "description": "Introduction to feminist theory and its implications for the study and practice of political theory. Topics: women in feminist critiques of the Western political tradition, schools of feminist political theory.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 270",
+    "title": "Classical Political Thought",
+    "credits": 3.0,
+    "description": "Survey designed to introduce students to major political thinkers and ideas of the ancient world and of the medieval period. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 271",
+    "title": "Modern Political Thought",
+    "credits": 3.0,
+    "description": "Survey course designed to introduce students to major political thinkers and schools of thought dating roughly from the 16th century to the present. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 272",
+    "title": "The Ethics of Peace, War, and Defense",
+    "credits": 3.0,
+    "description": "An analysis of ethical issues that arise in peace, war, and defense, e.g., the legitimacy of states, just war theory, terrorism, weapons of mass destruction.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 275",
+    "title": "Nationalism, Immigration and the Politics of Identity",
+    "credits": 3.0,
+    "description": "Examination of the theories of nationalism and immigration, followed by  an analysis of the interplay between national identity, immigration, and populism. This course first explores these issues theoretically and then more concretely by examining these issues in England and Scotland. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 276",
+    "title": "Major Issues in Political Theory",
+    "credits": 3.0,
+    "description": "An examination of major issues in political thought, including equality; obedience; violence and nonviolence; justice; forms of social, economic, and political life; liberty; and human nature and politics. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 279",
+    "title": "American Political Thought Through the Civil War",
+    "credits": 3.0,
+    "description": "A survey course in early American political ideas through the Civil War, with emphasis on the role of politics, society, and economy in American thought. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 280",
+    "title": "American Political Thought After the Civil War",
+    "credits": 3.0,
+    "description": "A survey course in American political ideas from the Civil War to the present, with emphasis on the role of politics, society, and economy in American thought. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 281",
+    "title": "Data in Politics I: An Introduction",
+    "credits": 3.0,
+    "description": "The Information Revolution has had a transformative effect on business, journalism, law, policy, and more. This course illustrates the breadth of ways in which data can help solve important social problems and increases students' comfort handling and analyzing data themselves. Students leave with a foundation for acquiring more advanced techniques.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 285",
+    "title": "Applied Experimental Research: Politics in the US and Europe",
+    "credits": 3.0,
+    "description": "The course familiarizes students with experimental research methods in political science, including laboratory experiments, field experiments, and survey experiments. Students will design and conduct an experimental research project on a research question about US or European politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 287",
+    "title": "Strategy and International Relations",
+    "credits": 3.0,
+    "description": "Introduction to the study of strategic decision making in international relations, with an emphasis on the application of basic game theoretic models.  Incorporates in-class simulations of international relations scenarios.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 288",
+    "title": "Strategy and Politics",
+    "credits": 3.0,
+    "description": "Offers an introduction to positive political theory, the application of rational choice analysis (or economic models) to the study of political phenomena. Topics include social choice theory, legislative voting, problems of cooperation and collective action, and public choice theory. Encourages students to think about politics from a critical vantage point.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 290",
+    "title": "Special Topics in Political Science",
+    "credits": 3.0,
+    "description": "A detailed examination of special topics in political science. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 291",
+    "title": "Undergraduate Learning Assistant Practicum",
+    "credits": 1.0,
+    "description": "This course is for students selected as Undergraduate Learning Assistants (ULAs) for political science courses during the semester they serve as ULAs. This course will provide support and structure to make them effective in their role, including training in pedagogy and University policies; ongoing mentorship and supervision; and opportunities for reflection, assessment, and evaluation. May not count toward the political science major. Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 299",
+    "title": "Special Topics in Political Science, FC-POWER",
+    "credits": 3.0,
+    "description": "A detailed examination of special topics in political science.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 325",
+    "title": "Institute of Politics Fellows Seminar in Civic Leadership",
+    "credits": 1.5,
+    "description": "This course is facilitated by a Fellow from the UNC Institute of Politics, an experienced political practitioner who has held elected or appointed office. Over the course of the semester, students will engage in active and sustained dialogue with the Fellow and with one another on topics relevant to the Fellow's professional experience in public life. May not count toward the political science major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 333",
+    "title": "Race and Public Policy in the United States",
+    "credits": 3.0,
+    "description": "Exploration of the relationship between race and public policy in the U.S. Primary focus on African Americans, but other racial groups also studied.  Key areas include reproductive justice, health care, employment, labor, welfare, education, housing, environmental justice, policing, criminalization, foreign policy, immigration, and war.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 345",
+    "title": "Buying Influence: Interest Groups and Public Policy",
+    "credits": 3.0,
+    "description": "Students will gain an understanding of the role interest groups play in American public policy and how that role has shifted over time. The course emphasizes the role of interest groups in four policy areas: civil rights, the environment, social policy, and campaign finance.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 350",
+    "title": "Peace Science Research",
+    "credits": 3.0,
+    "description": "This Course-based Undergraduate Research Experience (CURE) introduces students to the practice of quantitative research on peace, conflict, and conflict resolution. Students work in teams to develop original research projects that answer policy-relevant questions in the field of peace science.",
+    "requisites_text": "Prerequisite, POLI\u00a0150 .",
+    "requisite_codes": [
+      "POLI 150"
+    ]
+  },
+  {
+    "code": "POLI 381",
+    "title": "Data in Politics II: Frontiers and Applications",
+    "credits": 3.0,
+    "description": "New approaches to data analysis are having a transformative effect on business, journalism, law, and policy - to name just a few sectors. This course is for students who have a basic familiarity working with social science data. It uses this foundation to teach more advanced ways to think about inference and uncertainty, with an emphasis on cutting-edge techniques and applications to real world problems.",
+    "requisites_text": "Prerequisite, POLI\u00a0281 .",
+    "requisite_codes": [
+      "POLI 281"
+    ]
+  },
+  {
+    "code": "POLI 384",
+    "title": "Gateway to Philosophy, Politics, and Economics",
+    "credits": 3.0,
+    "description": "One course in economics strongly recommended. This interdisciplinary gateway course provides an introduction to subjects and quantitative techniques used to analyze problems in philosophy, political science, and economics. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 395",
+    "title": "Mentored Research in Political Science",
+    "credits": 1.0,
+    "description": "Required preparation, six hours of POLI course credit. Permission of the instructor. Students carry out a research project under the direct supervision of a faculty mentor. Learning contract required. Open to political science majors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 396",
+    "title": "Directed Readings in Political Science",
+    "credits": 1.0,
+    "description": "Required preparation, six hours of POLI course credit. Permission of the instructor. Directed readings in a special field under the direction of a faculty member. Learning contract required. Open to political science majors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 400",
+    "title": "Executive Politics",
+    "credits": 3.0,
+    "description": "This course explores how presidents select policy options, how they decide timing, what shapes their congressional support, and how they build successful coalitions.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 401",
+    "title": "Political Economy I: The Domestic System",
+    "credits": 3.0,
+    "description": "Problems of the national government in managing capitalist development and economic growth; political constraints; patterns of conflict among domestic actors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 404",
+    "title": "Race, Immigration, and Urban Politics",
+    "credits": 3.0,
+    "description": "This course provides a survey of the literature on race, immigration, and urban politics in the contemporary United States. The goal is to understand the complex relationship between racial/ethnic identity and local political processes. Students explore topics such as police brutality, immigration, the education system, and coalition politics.",
+    "requisites_text": "Prerequisite, POLI\u00a0100 .",
+    "requisite_codes": [
+      "POLI 100"
+    ]
+  },
+  {
+    "code": "POLI 405",
+    "title": "Local Politics in the United States",
+    "credits": 3.0,
+    "description": "This course provides an overview of the politics of local governments in the United States. Topics covered include the economics and history of urban agglomerations, local governments' place in the American federal system, the role of race and immigration in how parties and coalitions govern, whether local governments are responsive to voters, and the role cities play in shaping housing, education, climate, and criminal justice policy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 406",
+    "title": "State Governments: Laboratories of Democracy",
+    "credits": 3.0,
+    "description": "Advanced topics in state government and politics, including political behavior and processes, governmental institutions, public policies. Emphasis on how states serve as the laboratories of democracy in a federal system.",
+    "requisites_text": "Prerequisite, POLI\u00a0100 or 101.",
+    "requisite_codes": [
+      "POLI 100"
+    ]
+  },
+  {
+    "code": "POLI 409",
+    "title": "Mock Constitutional Convention",
+    "credits": 3.0,
+    "description": "Students employ their understanding of political philosophy and practical politics to write a new constitution for the United States. Emphasis is on creative blending of theory and practice.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 410",
+    "title": "American Constitutional Law I:  Structures of Power",
+    "credits": 3.0,
+    "description": "A study of the U.S. Supreme Court's interpretation of the constitutional principles of federalism and the separation of powers.  Focusing on the written opinions in the Court's leading cases, the course emphasizes both the legal and the political factors that shape the Court's constitutional decisions.",
+    "requisites_text": "Pre- or corequisite, POLI\u00a0100 .",
+    "requisite_codes": [
+      "POLI 100"
+    ]
+  },
+  {
+    "code": "POLI 411",
+    "title": "American Constitutional Law II:  Civil Liberties and Rights",
+    "credits": 3.0,
+    "description": "A study of the U.S. Supreme Court's interpretation of the constitutional protections of the Bill of Rights and the Fourteenth Amendment.  Relying upon the Court's written opinions in cases involving civil liberties and civil rights, the course examines how the Constitution limits the powers of both the federal and state governments. Honors version available.",
+    "requisites_text": "Prerequisite, POLI\u00a0100 .",
+    "requisite_codes": [
+      "POLI 100"
+    ]
+  },
+  {
+    "code": "POLI 412",
+    "title": "United States National Elections",
+    "credits": 3.0,
+    "description": "Course studies United States presidential and congressional elections. Emphasis on individual vote, changing party strengths, and the relation of outcomes to policy. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 414",
+    "title": "Election Administration in the United States",
+    "credits": 3.0,
+    "description": "This is a course about how we administer elections in the United States. The people, processes, and rules by which we administer elections in the United States are critically important to the exercise of free and fair elections that is a cornerstone of a democratic form of governance. A major component of this course is your work as an elections official in the Fall 2024 election. Must be a registered voter in Orange County, NC.",
+    "requisites_text": "Prerequisite, POLI\u00a0100 .",
+    "requisite_codes": [
+      "POLI 100"
+    ]
+  },
+  {
+    "code": "POLI 416",
+    "title": "Constitutional Policies and the Judicial Process",
+    "credits": 3.0,
+    "description": "Analysis of the structure and functions of judicial systems emphasizing the organization, administration, and politics of judicial bureaucracies and roles of judges, juries, counsel, litigants, and interested groups in adjudication processes.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 417",
+    "title": "Advanced Political Psychology",
+    "credits": 3.0,
+    "description": "Examines in greater depth issues in the field of political psychology, including conflict and conflict resolution, socialization, attitude formation, mass movements, leader-follower relationships, and psychobiography. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 418",
+    "title": "Mass Media and American Politics",
+    "credits": 3.0,
+    "description": "Junior-senior standing required. Examination of the role, behavior, and influence of the mass media in American politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 419",
+    "title": "Race and Politics in the Contemporary United States",
+    "credits": 3.0,
+    "description": "Restricted to juniors and seniors. Surveys the vast literature on race and politics in the contemporary United States and examines the complex relationship between racial and ethnic identity and political outcomes. It explores broad political science concepts in the context of racial and ethnic groups. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 420",
+    "title": "Legislative Politics",
+    "credits": 3.0,
+    "description": "Examines the politics of the United States Congress. Emphasis on representation, the legislative process, and policy making. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 421",
+    "title": "Framing Public Policies",
+    "credits": 3.0,
+    "description": "This course will focus on the process by which policies get framed, or defined, in public discussions. Framing is focusing attention on some elements of a complex public problem rather than others. Readings combine psychological background with case histories of United States and comparative public policy changes over time.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 422",
+    "title": "Minority Representation in the American States",
+    "credits": 3.0,
+    "description": "This class explores the political representation of blacks, Latina/os, women, and gays and lesbians in the American states. How do these groups achieve descriptive and substantive representation? How does state context shape the political representation of these minorities? Students taking this course should have a strong interest in state politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 424",
+    "title": "Legislative Procedure in Congress",
+    "credits": 3.0,
+    "description": "Examines legislative procedure in Congress. Requires active participation in a Model Congress.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 428",
+    "title": "Sexuality, Race, and Gender: Identity and Political Representation",
+    "credits": 3.0,
+    "description": "Analyzing the impact of the descriptive representation of marginalized communities on public policy, legislation, and social change. Sexual orientation, identity, gender, ethnicity and race, and the intersectionality of these communities. We seek to understand the role that elected officials can have in driving change, affecting their colleagues and constituents.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 429",
+    "title": "Diversity and Politics",
+    "credits": 3.0,
+    "description": "Diversity is sometimes cited as a facilitator of political cooperation but more often it is considered a challenge for constructive civic engagement. This course engages the various ways in which different forms of diversity (e.g., racial, ethnic, religious, linguistic, national origin) and politics interact across a wide range of societies.",
+    "requisites_text": "Prerequisite, POLI\u00a0130 .",
+    "requisite_codes": [
+      "POLI 130"
+    ]
+  },
+  {
+    "code": "POLI 430",
+    "title": "Analysis of National Security Policy",
+    "credits": 3.0,
+    "description": "Course explores contemporary threats to national security, approaches to national security strategy, policy instruments, the role of military force, and the policy-making process.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 431",
+    "title": "African Politics",
+    "credits": 3.0,
+    "description": "This course explores the political and economic development of countries in sub-Saharan Africa, including historical factors and contemporary issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 432",
+    "title": "Tolerance in Liberal States",
+    "credits": 3.0,
+    "description": "Compares and explains contemporary cases of tolerance and intolerance in the U.S., Canada, and the EU. Considers controversies involving religion, race, ethnicity, gender, sexual orientation, political ideology, multiculturalism, and populism.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 433",
+    "title": "Politics of the European Union",
+    "credits": 3.0,
+    "description": "Examines the politics and political economy of institutional change and policy making in the European Union in comparative perspective. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 434",
+    "title": "Politics of Mexico",
+    "credits": 3.0,
+    "description": "This course provides a survey of 20th-century politics in Mexico, including the construction of the single-party regime under the PRI and the political and economic changes in the second half of the century that marked the end of the one-party regime and inaugurated a new era of political competition.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 435",
+    "title": "Democracy and Development in Latin America",
+    "credits": 3.0,
+    "description": "The analysis of central issues of democracy and development in Latin America. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 438",
+    "title": "Democracy and International Institutions in an Undivided Europe",
+    "credits": 3.0,
+    "description": "Explores the collapse of communist rule in 1989 and the reaction of international institutions to the challenges of democratization, economic transition, ethnic conflict, and European integration in an undivided Europe.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 439",
+    "title": "Analyzing European Public Opinion",
+    "credits": 3.0,
+    "description": "The course introduces students to the theory and practice of studying European public opinion. The course is split into four parts. In the first part, we will discuss core concepts and important problems in the study of public opinion. In the second part, we will study tools and common data sets for the analysis of European public opinion. In the third part, we will examine several recent contributions on different aspects of European public opinion.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 440",
+    "title": "How to Stay in Power When the People Want You Dead: The Politics of Authoritarian Survival",
+    "credits": 3.0,
+    "description": "Dictators do not rely on consent of the people to stay in power. But they do still face constraints and must perform a delicate balancing act to maintain enough support to stay in office and reap its rewards. This class seeks to understand when autocrats are successful and when they fail.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 441",
+    "title": "Israeli Politics and Society",
+    "credits": 3.0,
+    "description": "This course will explore Israeli society, Israeli politics, and the Arab-Israeli conflict.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 442",
+    "title": "International Political Economy",
+    "credits": 3.0,
+    "description": "Theories of international political economy, major trends in international economic relations, selected contemporary policy issues.",
+    "requisites_text": "Prerequisite, POLI\u00a0150 .",
+    "requisite_codes": [
+      "POLI 150"
+    ]
+  },
+  {
+    "code": "POLI 443",
+    "title": "American Foreign Policy: Formulation and Conduct",
+    "credits": 3.0,
+    "description": "The role of Congress, the press, public opinion, the president, the secretary and the Department of State, the military, and the intelligence community in making American foreign policy. Emphasizes the impact of the bureaucratic process on the content of foreign policy.",
+    "requisites_text": "Prerequisite, POLI\u00a0150 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "POLI 150"
+    ]
+  },
+  {
+    "code": "POLI 444",
+    "title": "Terrorism and International Peace",
+    "credits": 3.0,
+    "description": "The U.S. 9/11 attack represents the defining terrorist attack to Americans, but in most of the world, terrorism has long been part of politics. We will examine what motivates individuals to consider violence, how individuals organize to protect their political interests, the types of tactics used by violent groups and the state's response, before concluding with a study of collapsed states, the international implications of political violence, and possibilities for conflict resolution.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 447",
+    "title": "Immigrant Integration in Contemporary Western Europe",
+    "credits": 3.0,
+    "description": "Immigrant integration has been one of the most intense political issues in Western Europe in recent decades. The extent to which these immigrants have successfully integrated is a hot topic of debate across Europe, and there is no consensus about the best way to promote integration. This course explores these debates. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 448",
+    "title": "The Politics of Multilevel Governance",
+    "credits": 3.0,
+    "description": "Political authority is changing around the world. Decision making has shifted down to state and local governments, such as Catalonia and Scotland, and up to international organizations such as the European Union and the World Health Organization. What does this mean for the future of the national state? Honors version available.",
+    "requisites_text": "Prerequisite,  At least one POLI course, EURO course, or TAM course.",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 449",
+    "title": "Beg, Borrow, or Steal: How Governments Get Money and Its Effects on Accountability",
+    "credits": 3.0,
+    "description": "This course explores the politics behind taxation, foreign aid, natural resources, and debt, focusing on how each affects accountability and state capacity. Topics include when governments tax; whether taxation causes democratization; the effects of foreign aid and oil money on corruption and conflict; and how government debt shapes domestic politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 450",
+    "title": "Contemporary Inter-American Relations",
+    "credits": 3.0,
+    "description": "A comprehensive analysis of hemispheric international relations and foreign policies of individual Latin American nations. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 451",
+    "title": "Race, Ethnicity, and Political Change in Comparative Perspective",
+    "credits": 3.0,
+    "description": "The course examines the interplay of race, ethnicity, political institutions, and political mobilization in modern state and nation-building. Through the use of broadly drawn international case studies, the politics of ethnicity and race is analyzed from the perspective of global processes of state building, colonialism and decolonization, and capitalist development as well from local development of ideology and political organizations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 452",
+    "title": "Africa and International Conflict",
+    "credits": 3.0,
+    "description": "The purpose of this course is to examine Africa's conflicts using an historical examination and advances in international relations theory. We will examine European colonial intervention, the wars of independence, the Cold War, and the use of proxies, insurgencies, the African World War, the Sudanese War, and the \"war of terrorism.\"",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 453",
+    "title": "When Countries Go Broke: Political Responses to Financial Crises",
+    "credits": 3.0,
+    "description": "What happens when countries go broke? This course considers the complex historical relation between revenue generation and the development of the nation-state, and details a variety of major crises facing governments today, including the political determinants of and responses to major recent financial crises.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 457",
+    "title": "International Conflict Processes",
+    "credits": 3.0,
+    "description": "Analysis of international conflict and the causal mechanisms that drive or prevent conflict. Emphasis is on the conditions and processes of conflict and cooperation between nations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 458",
+    "title": "International Conflict Management and Resolution",
+    "credits": 3.0,
+    "description": "Examines the management and resolution of international and civil wars. Honors version available.",
+    "requisites_text": "Prerequisite, POLI\u00a0150 .",
+    "requisite_codes": [
+      "POLI 150"
+    ]
+  },
+  {
+    "code": "POLI 459",
+    "title": "Trans-Atlantic Security",
+    "credits": 3.0,
+    "description": "The course explores the development of Euro-Atlantic security institutions (NATO, EU) and compares security policy in the United States and Europe. Cases include policy toward the Balkans, Afghanistan, Russia, and Ukraine. Includes review of concepts of security and selected international relations approaches to international organizations. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 460",
+    "title": "Polarization and Partnership: American Politics and Transatlantic Relations",
+    "credits": 3.0,
+    "description": "This course examines how polarization in U.S. politics shapes the evolving partnership between America and Europe. It explores how partisan conflict, populism, and institutional fragmentation influence transatlantic cooperation on climate policy, energy security, technology regulation, and defense. Combining perspectives from comparative and international politics, students analyze the tensions and opportunities defining contemporary transatlantic relations. Through theory-driven readings, discussions, and a final individual research paper, the course encourages critical reflection on how domestic divides and global uncertainty affect multilateral cooperation, trust, and the future of the transatlantic alliance.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 462",
+    "title": "A Divided Union? Polarization of Climate Change in the EU",
+    "credits": 3.0,
+    "description": "This course examines how polarization and public opinion shape climate policy within the European Union. Focusing on fragmentation across member states, it analyzes how national preferences and contestation influence EU-wide ambition and governance. Students will critically assess institutional responses, the EU's leadership in global climate politics, and the challenges of sustaining collective action. Through country-specific case studies, progress reports, and an independent term paper, students explore the political dynamics that determine the EU's ability to act as a global environmental leader amid deepening societal and ideological divides.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 469",
+    "title": "Conflict and Intervention in the Former Yugoslavia",
+    "credits": 3.0,
+    "description": "Focuses on ethnic and political conflicts in the former Yugoslavia and efforts by the international community to end conflict and promote peace and reconstruction. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 470",
+    "title": "Social and Political Philosophy",
+    "credits": 3.0,
+    "description": "An examination of the logic of social and political thought with an analysis of such concepts as society, state, power, authority, freedom, social and political obligation, law, rights. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 471",
+    "title": "Contemporary Political Thought",
+    "credits": 3.0,
+    "description": "Survey of the historical foundations, central tenets, and political consequences of prominent 20th-century political theories. Topics include contemporary liberalism and Marxism, fascism, theories of development, populism, feminism. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 472",
+    "title": "Problems of Modern Democratic Theory",
+    "credits": 3.0,
+    "description": "Major problem areas in democratic theory including definitions, presuppositions, and justifications of democracy, liberty, equality, minority rights, public interest, participation, dissent, and civil disobedience. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 473",
+    "title": "Politics and Literature",
+    "credits": 3.0,
+    "description": "Identifies and interprets political ideas using historical and contemporary literary sources. Examines literature as political practice.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 474",
+    "title": "Global Justice",
+    "credits": 3.0,
+    "description": "This course looks at major themes in contemporary theories of global ethics and global justice. Potential topics include the duty to give aid to foreigners, global distributive justice, resource rights and justice, and immigration ethics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 475",
+    "title": "Environmental Political Theory",
+    "credits": 3.0,
+    "description": "This course brings the tools and techniques of political theory to bear on contemporary environmental challenges. Students will examine different conceptions of nature and of human-nature relations, investigate arguments about the moral and political status of nonhuman others, think about the role of individual responsibility in addressing climate change, and grapple with issues of inequality, environmental justice, and power.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 476",
+    "title": "The Political Theory of the American Founding",
+    "credits": 3.0,
+    "description": "A role-immersive simulation of the Constitutional Convention of 1787.  Students employ their knowledge of the political theory and science of the founding period to become the Convention of 1787 and write a constitution.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 477",
+    "title": "Advanced Feminist Political Theory",
+    "credits": 3.0,
+    "description": "Examines in greater depth and complexity current issues in feminist political theory. Topics: theories of subjectivity and solidarity, feminist poststructuralist and post-Marxist thinking, gender in the public sphere.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 478",
+    "title": "The Politics, Philosophy, and Economics of Education",
+    "credits": 3.0,
+    "description": "The course explores the politics, philosophy, and economics of US education. We will cover topics such as the goals of education; education politics at the local, state, and federal levels; school finance; accountability; markets in education; the role of philanthropy; and student debt.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 480",
+    "title": "Survey Experiments",
+    "credits": 3.0,
+    "description": "A research intensive course on the design, implementation, interpretation, and communication of political science survey experiments. Honors version available.",
+    "requisites_text": "Prerequisite, POLI\u00a0281 or equivalent.",
+    "requisite_codes": [
+      "POLI 281"
+    ]
+  },
+  {
+    "code": "POLI 481",
+    "title": "Understanding Influence: Misinformation, Polarization, and Social Media in Politics",
+    "credits": 3.0,
+    "description": "This course is designed to provide a broad introduction to key questions, theories, methodologies, and debates in public opinion, with an emphasis on cutting edge research in the current public opinion literature on the topic of misinformation, polarization, and social media. How informed is the public? How does the public need to be? What are the cognitive and social origins of misinformation? Why has polarization increased so dramatically over the past 40 years? What role does social media, and the internet more generally, play in democratic societies in the 21st century?",
+    "requisites_text": "Prerequisite, POLI\u00a0281 or equivalent, with instructor permission.",
+    "requisite_codes": [
+      "POLI 281"
+    ]
+  },
+  {
+    "code": "POLI 487",
+    "title": "Networks in International Relations",
+    "credits": 3.0,
+    "description": "The modern international system is a highly-connected interdependent network of people, non-state actors, and governments.  The course will introduce key concepts from network analysis to provide the conceptual and methodological tools to analyze networks in international politics. Students will also learn statistical tools used to analyze and visualize network data.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 488",
+    "title": "Game Theory",
+    "credits": 3.0,
+    "description": "Increasingly, political and social scientists are using game theory to analyze strategic interactions across different settings. This course aims to give students a deep technical understanding of the most relevant concepts of game theory and how these concepts have been applied to the study of political and economic phenomena.",
+    "requisites_text": "Prerequisite, POLI\u00a0287 or 288 .",
+    "requisite_codes": [
+      "POLI 287",
+      "POLI 288"
+    ]
+  },
+  {
+    "code": "POLI 490",
+    "title": "Advanced Special Topics in Political Science",
+    "credits": 3.0,
+    "description": "A detailed examination of advanced special topics in political science. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 630",
+    "title": "Political Contestation in Europe",
+    "credits": 3.0,
+    "description": "Examines recent developments in the European integration process by exploring the potential for political contestation concerning European Union matters in national politics. Familiarizes students with the main theoretical approaches and the extensive empirical work dealing with the effects of European integration.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 631",
+    "title": "European Security: The Enlarging European Union and the Trans-Atlantic Relationship",
+    "credits": 3.0,
+    "description": "Permission of the instructor for undergraduates. Since the collapse of communism from 1989 to 1991, the European Union has faced a fundamentally different geopolitical neighborhood and an evolving relationship with the United States. We will explore how Europe has addressed new challenges to its security in its neighborhood and beyond.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 632",
+    "title": "The European Union as a Global Actor",
+    "credits": 3.0,
+    "description": "Permission of the instructor for undergraduates. This seminar introduces students to basic theoretical approaches to both international relations and the European Union by focusing on the European Union's external relations and foreign policies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 635",
+    "title": "Transatlantic Politics of Climate Change",
+    "credits": 3.0,
+    "description": "This course compares climate change policies of the European Union and the United States within the context of global climate policy and institutions.  By investigating climate change policy, students will gain an understanding of the policy processes in the EU and US.  The course also introduces climate policy in EU member states and US states.  Students engage in active learning exercises and produce a final research paper.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 636",
+    "title": "EU Foreign Policy in Times of Uncertainty",
+    "credits": 3.0,
+    "description": "This research-intensive seminar examines the evolution of EU foreign policy amid growing global uncertainty and internal contestation. Organized around thematic modules, the course explores how the EU navigates key domains--security, climate, trade, migration, and digital governance--while balancing normative commitments and strategic interests. Students engage critically with challenges such as de-Europeanization, norm contestation, and polarization, analyzing how external shocks like Russia's invasion of Ukraine reshape policy responses. Combining theory-driven scholarship with official EU sources, the course culminates in an individual term paper and includes a Diplomacy Lab component on Arctic security and EU-U.S. coordination.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 691H",
+    "title": "Honors Seminar in Research Design",
+    "credits": 3.0,
+    "description": "Required of all students in the honors program in political science.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 692H",
+    "title": "Honors Thesis Research",
+    "credits": 3.0,
+    "description": "Required of all students in the honors program in political science.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 693H",
+    "title": "Honors Thesis Research",
+    "credits": 3.0,
+    "description": "Required of all students in the honors program in political science.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 698",
+    "title": "Philosophy, Politics, and Economics: Capstone Course",
+    "credits": 3.0,
+    "description": "Permission of the department. The Capstone Seminar is the final course in the PPE sequence. The seminar has two components: a set of readings that focus on cutting edge work at the intersection of Philosophy, Political Science, and Economics and individual research projects selected in consultation with the instructor. The project involves giving a presentation to, and getting feedback from, seminar participants, and culminates in a final research paper. Throughout, participants will be actively engaging with each other, deepening their understanding of core concepts and tools of PPE, and applying them to specific issues.",
+    "requisites_text": "Prerequisite, PHIL\u00a0384 .",
+    "requisite_codes": [
+      "PHIL 384"
+    ]
+  },
+  {
+    "code": "POLI 700",
+    "title": "Core Seminar on American Political Institutions",
+    "credits": 3.0,
+    "description": "An overview of research on American politics that introduces students to a wide range of substantive understandings and theoretical perspectives. POLI\u00a0700 emphasizes American political institutions.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 701",
+    "title": "Core Seminar on American Political Behavior",
+    "credits": 3.0,
+    "description": "An overview of research on American politics that introduces students to a wide range of substantive understandings and theoretical perspectives. POLI701 emphasizes mass political behavior.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 703",
+    "title": "Congress and Theory Building",
+    "credits": 3.0,
+    "description": "This course examines diverse theoretical perspectives on national institutional change and stability, using as our institutional focus the United States Congress between 1789 and 1989.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 704",
+    "title": "American Presidency",
+    "credits": 3.0,
+    "description": "Survey of the substantial literature and research on the American Presidency.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 705",
+    "title": "Judicial Politics",
+    "credits": 3.0,
+    "description": "Survey of recent literature on the politics of judicial institutions and the behavior of judges, lawyers, litigants, and other actors in the judicial process, emphasizing relationships between judicial and other policy-making processes.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 706",
+    "title": "Race and Politics in the United States",
+    "credits": 3.0,
+    "description": "Race is at the center of American politics. Everything from voting rights to education policy to the quality of drinking water is shaped by race. This graduate seminar will focus on race in US politics, and while readings will cover multiple racial groups, Black politics will receive the most attention. My goal is that you will leave this course with a broad understanding of how central race is to understanding American politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 708",
+    "title": "Seminar in Subnational Politics and Policy",
+    "credits": 3.0,
+    "description": "This course surveys the major topics and research programs in subnational American politics and policy, with special attention to the vertical and horizontal intergovernmental interactions inherent within federal political systems.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 710",
+    "title": "Political Parties",
+    "credits": 3.0,
+    "description": "Selected problems and issues in the study of American and comparative parties and party systems.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 711",
+    "title": "Current Research on Mass Political Behavior",
+    "credits": 3.0,
+    "description": "Theoretical study of mass behavior (i.e., participation, voting, protest) in the American context. This course emphasizes recent research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 712",
+    "title": "Public Opinion",
+    "credits": 3.0,
+    "description": "A study of public opinion, its formation, expression, and impact on political systems and public policy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 713",
+    "title": "Dynamics of Electoral Politics",
+    "credits": 3.0,
+    "description": "Change within mass electorates. Topics include issue and attitude change, political realignments, and models of electoral competition.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 714",
+    "title": "Political Socialization",
+    "credits": 3.0,
+    "description": "The learning process by which individuals acquire values, attitudes, and norms affecting their behavior in the political community, with emphasis on major agencies of socialization: family, schools, peer groups, and media.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 715",
+    "title": "Seminar on Political Psychology",
+    "credits": 3.0,
+    "description": "This course surveys and evaluates current and past research in political psychology. Topics may include: personality, attitudes and values, socialization, political reasoning, information processing, decision making, political identity, and political affect.",
+    "requisites_text": "Prerequisite, POLI\u00a0711 .",
+    "requisite_codes": [
+      "POLI 711"
+    ]
+  },
+  {
+    "code": "POLI 716",
+    "title": "Organized Interests in United States Politics",
+    "credits": 3.0,
+    "description": "The course examines the major theories and empirical research on how organized interests mobilize and maintain themselves, interact within populations, exercise influence through lobbying, and impact public policy. It includes the full range of interest organizations operating in American politics at any level and in all institutional venues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 717",
+    "title": "Potential for Democratic Stability in Deeply Divided Societies",
+    "credits": 3.0,
+    "description": "The theory of power sharing  tries to explain how stable democracy is possible in deeply divided societies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 718",
+    "title": "Agenda-Setting",
+    "credits": 3.0,
+    "description": "This class will focus on theoretical and empirical approaches to the study of agenda-setting in both American and comparative settings. Begins in the 1950s through current literature, covering a wide range of methodological approaches. Assignments include participation in seminar discussion, short papers on readings, and substantial original research paper.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 720",
+    "title": "Managing Public Policy",
+    "credits": 3.0,
+    "description": "The role(s), function(s), and strategy of public administrators in the formulation, adoption, and implementation of public policies. Policy from the perspective of the policy maker; cases exploring the relationship of theories to actual policy processes. Spring.",
+    "requisites_text": "Prerequisites, POLI\u00a0700 , 745 , or PUBA\u00a0723 .",
+    "requisite_codes": [
+      "POLI 700",
+      "POLI 745",
+      "PUBA 723"
+    ]
+  },
+  {
+    "code": "POLI 721",
+    "title": "Public Policy and Administration",
+    "credits": 3.0,
+    "description": "Alternative explanation of public policies and policy-making processes; introduction to policy analysis as a way to inform choices among policy options; policy implementation through administrative practices and procedures.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 723",
+    "title": "Approaches to Conflict Transformation: Theory and Practice of Peacebuilding Across Contexts",
+    "credits": 3.0,
+    "description": "In this course, students will learn about a variety of mechanisms for resolving or transforming conflict on interpersonal, community, state, and international levels. The pedagogy of this course will be both theoretical and practical. Through readings, assignments, and class discussion, we will wrestle with questions about the efficacy, significance, and ethical implications of various methods of conflict transformation; and we will learn some techniques of conflict resolution from experienced practitioners.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 724",
+    "title": "Organization Design",
+    "credits": 3.0,
+    "description": "Field theory, motivation, communication, and systems perspectives as theoretical bases for organization design.",
+    "requisites_text": "Prerequisite, POLI\u00a0700 , or permission of the instructor.",
+    "requisite_codes": [
+      "POLI 700"
+    ]
+  },
+  {
+    "code": "POLI 725",
+    "title": "Public Administration Analysis and Evaluation II",
+    "credits": 3.0,
+    "description": "Second course in a two-course sequence introducing students to applied research design, data collection, data management, data analysis, and analytical reporting to allow students to conduct original research, be informed consumers of other research, and ultimately improve public program planning and evaluation decisions.",
+    "requisites_text": "Prerequisite, PUBA\u00a0719 .",
+    "requisite_codes": [
+      "PUBA 719"
+    ]
+  },
+  {
+    "code": "POLI 726",
+    "title": "Intergovernmental Relations",
+    "credits": 3.0,
+    "description": "Conflict and cooperation among governmental officials representing national, state, and local governments in the United States; changing roles of governments and new mechanisms for intergovernmental collaboration.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 727",
+    "title": "Framing",
+    "credits": 3.0,
+    "description": "This class will focus on the theoretical and empirical studies of individual and collective framing. Readings will be from journalism, sociology, psychology, and political science and will include both US-based and comparative studies. Assignments include participation in seminar discussion, short papers on readings, and substantial original research paper.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 728",
+    "title": "Policy Workshop",
+    "credits": 3.0,
+    "description": "Application of theories and techniques of policy analysis and planning to current public problems for actual clients. Focus on design and execution of policy research, and interpretation and presentation of results.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 729",
+    "title": "The Psychology of Collective Politics",
+    "credits": 3.0,
+    "description": "Explores the psychological underpinnings of collective politics from the perspective of both individuals and groups. Political behaviors examined include deliberation, protest, nationalism, and intergroup conflict.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 730",
+    "title": "Comparative Political Research and Analysis",
+    "credits": 3.0,
+    "description": "The seminar introduces the beginning graduate student to the central issues and major developments in the field of comparative government and politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 731",
+    "title": "The Politics of Development and Change",
+    "credits": 3.0,
+    "description": "The theories, concepts, and mechanisms of political change, with particular attention to processes of development and modernization in the new nations of Africa, Asia, and Latin America.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 732",
+    "title": "Political Economy of Multilevel Government",
+    "credits": 3.0,
+    "description": "The vertical distribution of governmental authority is changing around the world. Decision making, resources, and power are shifting downward (to state and local governments) and upward (to supra-national bodies like the European Union, other regional or international organizations). This course examines theories and empirical studies that explore the causes and consequences of these trends.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 733",
+    "title": "European Institutions and Integration",
+    "credits": 3.0,
+    "description": "This seminar introduces students to key concepts and developments of European integration and critically assesses the evolution of the European Union.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 734",
+    "title": "Comparative Political Behavior",
+    "credits": 3.0,
+    "description": "Political behavior of the public in cross-national or non-American settings. Political culture, belief systems, participation, protest, revolution, voting behavior, civic behavior, socialization, and media.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 735",
+    "title": "Comparative Bureaucracy",
+    "credits": 3.0,
+    "description": "A cross-national examination of functions, career patterns, role behavior, and relationships of bureaucratic elites within the context of national political systems. Research on particular countries is emphasized.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 736",
+    "title": "Political Transitions and Democratization in Comparative Perspective",
+    "credits": 3.0,
+    "description": "Examination of contrasting theoretical approaches to understanding democracy. Comparative study of Africa, Eastern Europe, and Latin America elucidates challenges and opportunities that affect possibilities for democratization and consolidation.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 737",
+    "title": "Psychology of Elite Decision Making",
+    "credits": 3.0,
+    "description": "Political thinking of politicians and civil servants in domestic and foreign policy. Perception, cognition, learning, attitude change and persuasion, aging, motivation, emotions, and personality.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 738",
+    "title": "Power and Morality in Politics",
+    "credits": 3.0,
+    "description": "Motives of power and morality in rational choice theories and theories of power sharing. Empirical findings and normative evaluations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 739",
+    "title": "Communist Political Systems",
+    "credits": 3.0,
+    "description": "An examination of the political evolution and process in societies governed by communist parties.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 740",
+    "title": "Issues in Latin American Politics",
+    "credits": 3.0,
+    "description": "Explores the central issues of Latin American politics and analyzes major theoretical debates.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 741",
+    "title": "Latin American Politics: Research and Analysis",
+    "credits": 3.0,
+    "description": "Reviews major works and theoretical perspectives in the literature, assesses contemporary political science research on Latin America, and examines problems of field research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 742",
+    "title": "Political Economy of Latin American Development",
+    "credits": 3.0,
+    "description": "Examines effects of state, regime-type, and political processes on agricultural and industrial policy in Latin America. Also considers the informal economy, international debt, and relationship between policy and politicization.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 743",
+    "title": "Seminar on United States - Latin American Relations",
+    "credits": 3.0,
+    "description": "Analysis of the central conceptual concerns and major theoretical approaches to the study of inter-American relations, with a focus on United States foreign policy toward the region.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 744",
+    "title": "African Politics: Challenges of Democratization and Development",
+    "credits": 3.0,
+    "description": "Study of the politics of development in contemporary Africa, with emphasis on changing state society relations, the roles of peasants and women in politics, and prospects for democratization.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 745",
+    "title": "Varieties of Democratic Capitalism in Europe and North America",
+    "credits": 3.0,
+    "description": "This course will examine the development of different types of welfare states in Europe and North America.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 746",
+    "title": "Identities and Transitions",
+    "credits": 3.0,
+    "description": "Capstone course for the REEES concentration in the Global Studies MA program. Interdisciplinary course focusing on the variety of problems encountered by the societies of East European countries and successor states of the former Soviet Union in their transition from communism to democracy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 747",
+    "title": "Diversity and Politics",
+    "credits": 3.0,
+    "description": "Diversity is sometimes cited as a facilitator of political cooperation but more often it is considered a challenge for constructive civic engagement. This course engages the ways in which different forms of diversity (e.g., racial, ethnic, religious, linguistic, gender, national-origin, sexuality) and politics interact across a wide range of societies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 748",
+    "title": "Fiscal Politics",
+    "credits": 3.0,
+    "description": "This course covers the politics of government budgets. It focuses on the sources of revenue (taxation, foreign aid, national resources, and debt) as well as levels of redistribution in a comparative perspective.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 750",
+    "title": "Theories of International Relations I",
+    "credits": 3.0,
+    "description": "Introduction to the central issues and major theoretical developments in the field of international relations, focusing on system structure, political and security issues, and decision making.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 751",
+    "title": "Theories of International Relations II",
+    "credits": 3.0,
+    "description": "Introduction to the central issues and major theoretical developments in the field of international relations, focusing on the politics of international economic relations, law and organization, and fundamental system change.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 752",
+    "title": "International Organization",
+    "credits": 3.0,
+    "description": "Theories and approaches to the study of international organizations and regimes, plus selected noneconomic case studies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 753",
+    "title": "International Conflict and Cooperation",
+    "credits": 3.0,
+    "description": "An examination of international conflict and cooperative processes in the context of the evolution of the international system.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 754",
+    "title": "Formal Models of International Relations",
+    "credits": 3.0,
+    "description": "An examination of research that uses formal models to analyze decision making in international relations, with a focus on non-cooperative game theory.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 756",
+    "title": "Politics of the International Economy",
+    "credits": 3.0,
+    "description": "Positive theories of political choice in trade, monetary relations, foreign investment, and regional integration.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 757",
+    "title": "Political Economy of the Nation State in the World System",
+    "credits": 3.0,
+    "description": "Analysis of the interaction between the external sector of the economy and domestic politics in weak capitalist states.",
+    "requisites_text": "Prerequisite, ECON\u00a0460 or 465 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "ECON 460",
+      "ECON 465"
+    ]
+  },
+  {
+    "code": "POLI 758",
+    "title": "Theories of Foreign Policy",
+    "credits": 3.0,
+    "description": "This course is an introduction to the field of foreign policy analysis. Its primary goal is to expose students to the theories and methods of foreign policy research and analysis.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 759",
+    "title": "Research in Cooperation and Conflict Processes",
+    "credits": 3.0,
+    "description": "Advanced doctoral-level course. Builds off POLI\u00a0750 to explore current lines of research on conflict and cooperation. Each student will develop potential research projects and one expanded research project. The project should be suitable for subsequent development into a thesis and/or publication. Course focuses on research and the research process.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 763",
+    "title": "Divided Societies",
+    "credits": 3.0,
+    "description": "When a society is deeply divided along racial, ethnic, religious or linguistic lines, this classical model brings the risk that the majoritarian segment of society always stays in power.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 768",
+    "title": "Feminist Political Theory",
+    "credits": 3.0,
+    "description": "A survey of feminist approaches to politics and political inquiry.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 771",
+    "title": "Modern Political Theory",
+    "credits": 3.0,
+    "description": "An introduction to modern political thought, its major thinkers and issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 773",
+    "title": "Major Issues in Political Theory",
+    "credits": 3.0,
+    "description": "An introduction to the major issues of political theory, with emphasis on the major thinkers in the history of Western political thought.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 774",
+    "title": "Classical Political Theory",
+    "credits": 3.0,
+    "description": "An introduction to ancient and medieval political thought, its major thinkers and issues.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 775",
+    "title": "American Political Theory",
+    "credits": 3.0,
+    "description": "Survey of issues and problems in American political thought, with analysis of major thinkers and selected topics and emphasis on the role of family, society, and economy in political theory.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 776",
+    "title": "Recent and Contemporary Political Theory",
+    "credits": 3.0,
+    "description": "An introduction to recent and contemporary political thought, its major thinkers and issues.  Emphasis on Continental thought.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 777",
+    "title": "Major Figures in Political Theory",
+    "credits": 3.0,
+    "description": "An in-depth study of the primary and secondary literature on one or two major figures in the history of political thought (e.g., Plato, Machiavelli, Hobbes, Marx).",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 778",
+    "title": "The Formal Theory of Institutions",
+    "credits": 3.0,
+    "description": "This course is a comprehensive introduction to the burgeoning literature on the formal theory of institutions.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 780",
+    "title": "Scope and Methods of Political Research",
+    "credits": 2.0,
+    "description": "Permission of the instructor. A discussion of the theory and process of political analysis, including philosophy of science, research design, the methods of drawing causal inferences, and of generating data.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 782",
+    "title": "Logic of Political Inquiry",
+    "credits": 3.0,
+    "description": "A critical examination of models of political inquiry. Empirical (naturalist), interpretive, and critical metatheories are considered in terms of each model's ontological, epistemological, and practical/political consequences and presuppositions.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 783",
+    "title": "Probability and Statistics",
+    "credits": 4.0,
+    "description": "Introduction to probability theory and basic principles of statistical inference, including estimation and tests of hypotheses; basic programming in R.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 784",
+    "title": "Methods for Causal Inference",
+    "credits": 4.0,
+    "description": "Introduction to causal inference techniques, with an emphasis on applications in Political Science and other Social Sciences. The course adopts a design-based perspective, clearly differentiating between identification assumptions which guide the treatment assignment process and the probabilistic models that generate outcomes. After defining frameworks based on potential outcomes and causal graphs, we focus on techniques for designing and analyzing experimental and observational studies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 786",
+    "title": "Time Series Analysis of Political Data",
+    "credits": 3.0,
+    "description": "Discusses the problems that arise when regression methodologies are applied to time series and pooled time series data.",
+    "requisites_text": "Prerequisite, POLI\u00a0784 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "POLI 784"
+    ]
+  },
+  {
+    "code": "POLI 787",
+    "title": "Advanced Topics in Political Data Science",
+    "credits": 3.0,
+    "description": "Survey of important contemporary trends in advanced data analysis. Likely topics include multilevel models, measurement models, machine learning, modeling dependence, and advanced computation in R.",
+    "requisites_text": "Prerequisites, POLI\u00a0783 and 784 .",
+    "requisite_codes": [
+      "POLI 783",
+      "POLI 784"
+    ]
+  },
+  {
+    "code": "POLI 788",
+    "title": "Statistics and Data Analysis for Political Science and Policy Research",
+    "credits": 3.0,
+    "description": "This course focuses on the application of statistical analysis to quantitative data in order to study theoretically and substantively interesting questions about politics and policy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 789",
+    "title": "Game Theory",
+    "credits": 3.0,
+    "description": "This class provides graduate students with an introduction to game theoretic modeling, focusing on noncooperative game theory. Topics covered include normal form games, extensive-form games, and games of incomplete information.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 790",
+    "title": "Positive Political Theory",
+    "credits": 3.0,
+    "description": "This seminar surveys applications of rational choice models across the subfields of political science. It also considers critiques of national choice approaches and alternative theoretical approaches to modeling human behavior.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 791",
+    "title": "Game Theory II",
+    "credits": 3.0,
+    "description": "This course is designed for students who desire greater proficiency in the more advanced topics. The course focuses on games of incomplete information that are widely used in political science like signaling and cheap-talk games and on topics that are starting to play a prominent role like principal agents models.",
+    "requisites_text": "Prerequisite, POLI\u00a0789 .",
+    "requisite_codes": [
+      "POLI 789"
+    ]
+  },
+  {
+    "code": "POLI 792",
+    "title": "Research Seminar in Political Communication",
+    "credits": 3.0,
+    "description": "Participants consider the scientific literature and conduct innovative research. Topics focus on different media institutions' structure, political actors' communication strategies, and the ways that citizens engage with social, print, and electronic media. The aim is to better understand political news, public opinion, and the character of electoral democracy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 799",
+    "title": "TAM Internship Credit",
+    "credits": 3.0,
+    "description": "POLI\u00a0799 includes both an internship and an academic component. The student intern is required to work at least 8 hours per week, for a minimum of 100 hours, at the internship agency. In addition to the hours worked, the student must, under the supervision of the faculty supervisor, write a research paper or complete a comparable project, and keep a journal of internship activities.",
+    "requisites_text": "Prerequisite,  one semester of coursework in TAM.",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 801",
+    "title": "Judicial Behavior Research",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 803",
+    "title": "Seminar on Application of Political Behavior Research to Public Problems",
+    "credits": 3.0,
+    "description": "Exploration and examination of the ways in which political behavior research can be applied to understanding and ameliorating public problems.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 811",
+    "title": "Seminar in Political Sociology",
+    "credits": 3.0,
+    "description": "The relationships between social structure and political decisions. Regimes and social structure; bureaucracies, political associations, and professions; science and politics; closed and open politics; political movements and change.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 813",
+    "title": "Comparative Welfare States",
+    "credits": 3.0,
+    "description": "This course examines the development, achievements, present crisis, and future of welfare states in advanced industrial democracies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 830",
+    "title": "European Politics",
+    "credits": 3.0,
+    "description": "Active participation of students in a research project on career motives and ethical principles in European countries.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 831",
+    "title": "Comparative European Societies",
+    "credits": 3.0,
+    "description": "Examination of commonalities and differences of European societies and of the tensions and difficulties attending the European integration process.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 846",
+    "title": "Seminar in International Communication",
+    "credits": 3.0,
+    "description": "Reading and research in selected topics. Focus in recent years has included global news flow, communication and social change, communication in the collapse of communism, Western dominance in international communication, global culture, and the influence of technology.",
+    "requisites_text": "Prerequisite, MEJO\u00a0446 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "MEJO 446"
+    ]
+  },
+  {
+    "code": "POLI 850",
+    "title": "Theories of International Politics",
+    "credits": 3.0,
+    "description": "Topics relating to the development of theory in the realm of international politics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 851",
+    "title": "Seminar in International Relations",
+    "credits": 3.0,
+    "description": "Special topics in international relations, such as alliances, bargaining, decision making, economic interdependence, and international human rights.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 852",
+    "title": "U.S.-E.U. Lecture Series",
+    "credits": 1.0,
+    "description": "One credit course designed to enhance students' understanding of transatlantic studies through lectures from and discussion with experts in the field. Topics will focus on European Union and/or United States foreign and domestic politics as well as on contemporary transatlantic relations.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 853",
+    "title": "Political Economy of International Money and Finance",
+    "credits": 3.0,
+    "description": "Investigates the linkages between politics and economics in various realms of global finance, including exchange rates, sovereign debt, and foreign direct investment. Consider efforts to govern global finance, as well as the intersections between domestic politics and the international economy. Classical works and recent research in this area.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 860",
+    "title": "Data Collection Methods",
+    "credits": 3.0,
+    "description": "Reviews alternative data collection techniques used in surveys, concentrating on the impact these techniques have on the quality of survey data. Topics covered include errors associated with nonresponse, interviewing, and data processing.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 861",
+    "title": "Questionnaire Design",
+    "credits": 3.0,
+    "description": "Examines the stages of questionnaire design including developmental interviewing, question writing, question evaluation, pretesting, questionnaire ordering, and formatting. Reviews the literature on questionnaire construction. Provides hands-on experience in developing questionnaires.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 862",
+    "title": "Practicum on Experiments in Political Science",
+    "credits": 3.0,
+    "description": "A practicum on conducting experiments in Political Science.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 870",
+    "title": "Seminar in Political Theory",
+    "credits": 3.0,
+    "description": "Special topics in political theory such as Marxism and Socialism, Democratic theory, contemporary political thought, or related topics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 880",
+    "title": "Design and Analysis of Experiments and Surveys",
+    "credits": 3.0,
+    "description": "Introduction to the use of experimental and survey research methods in political science. Topics include: factorial designs, repeated measures design, ANOVA, sampling theory, survey errors and costs, and questionnaire design.",
+    "requisites_text": "Prerequisites, POLI\u00a0780 and 783 .",
+    "requisite_codes": [
+      "POLI 780",
+      "POLI 783"
+    ]
+  },
+  {
+    "code": "POLI 881",
+    "title": "Teaching Political Science",
+    "credits": 1.5,
+    "description": "This course is designed to train graduate students to serve as teaching assistants. It will focus on how to teach at UNC and how to run a good section. Topics covered will include rules and regulations, resources available through student services, emergency procedures, classroom management, how to stimulate discussion and keep up participation, and how to develop supplementary syllabi.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 882",
+    "title": "Fall Friday Lecture Series on Trans-Atlantic Topics",
+    "credits": 1.0,
+    "description": "This course is designed to enhance students' understanding of trans-Atlantic studies through lectures from and discussion with experts in the field.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 883",
+    "title": "Introduction to Bayesian Modeling for Political & Social Research",
+    "credits": 3.0,
+    "description": "Introduction to Bayesian modeling and data analysis. The course focuses on basic Bayesian and MCMC theory, as well as applications in the context of common regression and measurement models, including multilevel (generalized) linear models, mixture models, item-response theory models and models for text classification. Basic knowledge of mathematical statistics is desirable, and working knowledge of both the R programming language and the maximum likelihood estimation framework is required.",
+    "requisites_text": "Prerequisite, POLI\u00a0784 .",
+    "requisite_codes": [
+      "POLI 784"
+    ]
+  },
+  {
+    "code": "POLI 884",
+    "title": "Introduction to Machine Learning",
+    "credits": 3.0,
+    "description": "A seminar-style course providing an introduction to the main concepts and models of machine learning. Prior completion of POLI\u00a0883 is recommended.",
+    "requisites_text": "Prerequisites, POLI\u00a0783 , 784 , and 787 .",
+    "requisite_codes": [
+      "POLI 783",
+      "POLI 784",
+      "POLI 787"
+    ]
+  },
+  {
+    "code": "POLI 885",
+    "title": "Behavioral Economics and Experiments",
+    "credits": 3.0,
+    "description": "The purpose of this course is to provide students with an introduction to behavioral decision research and its applications. Behavioral decision research is intensely interdisciplinary, employing concepts and tools from economics, statistics, and other disciplines, as well as the core discipline of psychology. BDR has had an impact on the fields of medicine, law, military science, environmental sciences, and public policy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 888",
+    "title": "Applying Data Analysis to Transatlantic Studies",
+    "credits": 3.0,
+    "description": "This course is designed to get students to expand multivariate data analysis skills and to think critically about the presentation of information in professional settings and the media. A key goal is to give participants the confidence to critically evaluate whether the presentation of data is professionally sound. Another central goal is to expand skills in multivariate analysis by engaging in a semester-long research project that culminates in a publication quality paper.",
+    "requisites_text": "Prerequisite, POLI\u00a0788 .",
+    "requisite_codes": [
+      "POLI 788"
+    ]
+  },
+  {
+    "code": "POLI 890",
+    "title": "Directed Readings in Political Science",
+    "credits": 1.0,
+    "description": "Permission of the department. Directed readings in a special field under the direction of a member of the graduate faculty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 891",
+    "title": "Special Topics in Political Science",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Seminar in selected areas of political science. Topics vary from year to year. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 993",
+    "title": "Master's Research and Thesis",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "POLI 994",
+    "title": "Doctoral Research and Dissertation",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  }
+]

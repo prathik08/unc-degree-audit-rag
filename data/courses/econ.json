@@ -1,0 +1,1537 @@
+[
+  {
+    "code": "ECON 54",
+    "title": "First-Year Seminar: The Entrepreneurial Imagination: Turning Ideas into Reality",
+    "credits": 3.0,
+    "description": "What are the skills and competencies that great entrepreneurs have in common and how might first-year students begin to acquire such skills? This course will answer the question by combining a study of the writings of leading scholars on innovation and entrepreneurship with analytical case studies on successful entrepreneurs.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 55",
+    "title": "First-Year Seminar: Economics of Sports",
+    "credits": 3.0,
+    "description": "This course teaches you some basic economic principles by using examples from the world of sport. Through readings, videos, lectures, discussions, and personal experiences we will use the sports industry to learn about the economic way of thinking, market structures, labor markets, game theory, market failure, and public finance. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 56",
+    "title": "First-Year Seminar: Entrepreneurship: Asia and the West",
+    "credits": 3.0,
+    "description": "This course fits the Carolina Entrepreneurial Initiative (CEI), with a communication intensive, global issues framework.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 57H",
+    "title": "First-Year Seminar: Constructing Your Own Venture",
+    "credits": 3.0,
+    "description": "This class presents principles of entrepreneurship in the context of creating an entrepreneurial venture.  You will work in teams over the semester to take an idea, identify its customers and bring it to life, working intensively with instructors and designated advisors. Teams will present a viable product at semester end.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 58",
+    "title": "First-Year Seminar: Researching the Tools for Success in College",
+    "credits": 3.0,
+    "description": "In this Course-based Undergraduate Research Experience (CURE), we will study the barriers and tools for success in college. Students will develop a measure of success and identify a focal barrier to success in collaboration with classmates and drawing on existing research. Students will synthesize existing evidence in the related literature, collect their own data, and create their own evidence on the topic. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 89",
+    "title": "First Year Seminar:  Special Topics",
+    "credits": 3.0,
+    "description": "This is a special topics course.  Content will vary each semester. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 100",
+    "title": "Economic Principles",
+    "credits": 3.0,
+    "description": "Discussion of economic topics of current interest for students with little or no background in economics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 101",
+    "title": "Introduction to Economics",
+    "credits": 4.0,
+    "description": "Introduction to fundamental issues in economics including competition, scarcity, opportunity cost, resource allocation, unemployment, inflation, and the determination of prices. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 111",
+    "title": "The Economics of Entrepreneurship and Innovation",
+    "credits": 3.0,
+    "description": "This course will present the fundamental concepts of economics necessary to the understanding of the theory and practice of entrepreneurship. Topics include supply and demand, consumer choice, profit maximization and choice under uncertainty. The presentation of these topics will be structured around a series of case studies of entrepreneurial innovation.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 125",
+    "title": "Introduction to Entrepreneurship",
+    "credits": 3.0,
+    "description": "This course covers both theoretical frameworks and practical examples of how to think like an entrepreneur and identify innovative opportunities. Students will learn about innovating, marshalling limited resources, inspiring teams, and persisting through challenges and uncertainty, often by trying, learning from what happens, and trying something better. Students will be applying the concepts of high-performing teams, design thinking, lean startup, pitching, as well as a range of different tools for evaluating venture feasibility and viability. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 193",
+    "title": "Internship in Shuford Program in Entrepreneurship",
+    "credits": 1.0,
+    "description": "This is an internship credit course for the internship completed by students in the Entrepreneurship minor. The internship is a requirement for the Entrepreneurship minor. The internship should be approved for credit by the Career Development Manager in the Shuford Program in Entrepreneurship. This is a controlled enrollment course and students cannot enroll by themselves in ConnectCarolina. The Shuford Program's Coordinator will enroll the students after the internship is approved for credit.",
+    "requisites_text": "Prerequisites, ECON\u00a0125 and ECON\u00a0325 .",
+    "requisite_codes": [
+      "ECON 125",
+      "ECON 325"
+    ]
+  },
+  {
+    "code": "ECON 199",
+    "title": "Special Topics in Economics, FC-KNOWING",
+    "credits": 3.0,
+    "description": "Topic varies from semester to semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 290",
+    "title": "Special Topics",
+    "credits": 1.0,
+    "description": "The goal of the course is to better prepare ECON majors for their careers upon graduation.  We will work on building real-life core transferable skills that will help students in their pursuit of careers not just right out of college but years down the road for jobs that may not have even been created yet. The skills will be both technical as well as working on leadership and teamwork attributes.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 or permission of the instructor.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 291",
+    "title": "Undergraduate Learning Assistant Seminar and Practicum",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Studies have shown that courses utilizing undergraduate learning assistants have improved quality of instruction, sensitivity to student concerns, and overall student contact. Undergraduate learning assistants also gain an improved knowledge of the subject matter, heightened communication skills, and a sense of membership in the academic community.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 292",
+    "title": "Career Preparation for Economics Majors",
+    "credits": 1.0,
+    "description": "This course prepares ECON majors for their careers upon graduation. This class will teach students skills needed to shape their career from first job through last. We emphasize how to market yourself, network, interview techniques and creating an effective resume. We will build core transferable skills that will help students in pursuing a career not just right out of college but years in the future for jobs that may not have even been created yet. Majors only.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and ECON\u00a0410 ; permission from instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 293",
+    "title": "Internship",
+    "credits": 3.0,
+    "description": "Permission of the director of undergraduate studies. Majors only. A supervised internship appropriate for experiential education in economics. Cannot count toward the economics major. Pass/Fail only.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 310",
+    "title": "Microeconomics: Theory and Applications",
+    "credits": 3.0,
+    "description": "Analysis of the ways in which consumers and business firms interact in a market economy. Students may not receive credit for both ECON\u00a0310 and 410 .",
+    "requisites_text": "Prerequisite, ECON\u00a0101 .",
+    "requisite_codes": [
+      "ECON 101"
+    ]
+  },
+  {
+    "code": "ECON 320",
+    "title": "Macroeconomics: Theory and Policy",
+    "credits": 3.0,
+    "description": "Analysis of economic theory and government policy as they relate to such national economic variables as output, income, employment, inflation, investment, and budget and trade deficits. Students may not receive credit for both ECON\u00a0320 and 420 or both ECON\u00a0320 and 423 .",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 325",
+    "title": "Entrepreneurship: Principles, Concepts, Frameworks, and Fluency",
+    "credits": 3.0,
+    "description": "This class provides a foundation in key principles, concepts, and fluency in entrepreneurship, specifically in the areas of design thinking, understanding consumers and customers, company strategy, and entrepreneurial finance and capital formation. Additionally, the class introduces important skills and tools important in startups and growth companies such as branding, storytelling and video making. Priority is given to students accepted into the Shuford Minor in Entrepreneurship. Honors version available.",
+    "requisites_text": "Prerequisite, ECON\u00a0125 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "ECON 125"
+    ]
+  },
+  {
+    "code": "ECON 326",
+    "title": "Social Entrepreneurship",
+    "credits": 3.0,
+    "description": "Examines students' knowledge and understanding of social entrepreneurship as an innovative approach to addressing complex social needs. Affords students the opportunity to engage in a business planning exercise designed to assist them in establishing and launching a social purpose entrepreneurial venture. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 327",
+    "title": "Venture-Creation Workshop",
+    "credits": 3.0,
+    "description": "This course applies to the entrepreneurial process with hands-on activities and guidance from experienced entrepreneurs.  Students work in teams to experience first-hand what it is like to create a new venture.  Different sections are offered for the following types of ventures: commercial, sports management, media and entertainment, arts, and scientific. Each section instructor has entrepreneurial experience in that venture type. Other track courses for the Entrepreneurship Minor are listed at Shuford.unc.edu. Honors version available.",
+    "requisites_text": "Prerequisite, ECON\u00a0325 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "ECON 325"
+    ]
+  },
+  {
+    "code": "ECON 328",
+    "title": "Arts Entrepreneurship",
+    "credits": 3.0,
+    "description": "The goal of this course is to build upon the teachings of ECON\u00a0125 and ECON\u00a0325 by conceptualizing, writing, preparing, and presenting formal business plans for entrepreneurial ventures in the arts. We will examine the challenges and changing nature of entrepreneurship and innovation as they relate to the arts with a goal to provide business world examples of such challenges.",
+    "requisites_text": "Prerequisites, ECON\u00a0101 , 125 , and 325 .",
+    "requisite_codes": [
+      "ECON 101",
+      "ECON 125",
+      "ECON 325"
+    ]
+  },
+  {
+    "code": "ECON 330",
+    "title": "Economic History of the United States",
+    "credits": 3.0,
+    "description": "Main features of the American economy: colonial times to the present. Students may not receive credit for both ECON\u00a0330 and ECON 430.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 345",
+    "title": "Public Policy Toward Business",
+    "credits": 3.0,
+    "description": "Industry structure and its relation to performance; market imperfections; description and analysis of antitrust and regulation. Students may not receive credit for both ECON\u00a0345 and ECON\u00a0445 .",
+    "requisites_text": "Prerequisite, ECON\u00a0310 or 410 .",
+    "requisite_codes": [
+      "ECON 310",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 360",
+    "title": "Survey of International and Development Economics",
+    "credits": 3.0,
+    "description": "An introduction to basic economic concepts critical to understanding issues of economic development and international economics, particularly as they relate to contemporary policy issues facing both developing and industrialized countries. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 362",
+    "title": "Exploring Economies",
+    "credits": 3.0,
+    "description": "During this course, students will explore both microeconomic and macroeconomic principles in the context of a host country.  Students will hone their ability to think like an economist while examining the host country's culture and economy through interactive discussions, activities, and site-visits.  Topics will vary based on location, but could include market structures and prices, market failures, labor markets, trade, economic growth and inequality, fiscal and monetary policy, exchange rates, and costs of living.",
+    "requisites_text": "Prerequisite, ECON\u00a0101 ; a grade of C or better is required.",
+    "requisite_codes": [
+      "ECON 101"
+    ]
+  },
+  {
+    "code": "ECON 370",
+    "title": "Economic Applications of Data Science",
+    "credits": 3.0,
+    "description": "This course is a broad-based introduction to numerical and data-science methods used in economics. The R programming language will be introduced assuming no prior experience. Subsequent lectures will focus on real-world data with economic applications. Methods will include wrangling, cleaning, and visualizing data, descriptive analysis, optimization, and statistical learning. Majors only.",
+    "requisites_text": "Prerequisite, ECON\u00a0101 .",
+    "requisite_codes": [
+      "ECON 101"
+    ]
+  },
+  {
+    "code": "ECON 380",
+    "title": "The Economics of Labor Relations",
+    "credits": 3.0,
+    "description": "An economic analysis of workplace issues, including worker quits, layoffs and unemployment, discrimination and affirmative action, and the setting of pay, fringe benefits, and working conditions. Students may not receive credit for both ECON\u00a0380 and ECON\u00a0480 .",
+    "requisites_text": "Prerequisite, ECON\u00a0310 or 410 .",
+    "requisite_codes": [
+      "ECON 310",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 384",
+    "title": "Gateway to Philosophy, Politics, and Economics",
+    "credits": 3.0,
+    "description": "One course in economics strongly recommended. This interdisciplinary gateway course provides an introduction to subjects and quantitative techniques used to analyze problems in philosophy, political science, and economics. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 390",
+    "title": "Special Topics",
+    "credits": 1.0,
+    "description": "Topic varies from semester to semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 393",
+    "title": "Practicum in Entrepreneurship",
+    "credits": 3.0,
+    "description": "This capstone course is a hands-on learning lab to prepare you for entrepreneurial life.  This class introduces you to speakers, readings, podcasts, exercises, assignments and practical lessons about entrepreneurship. It provides you with critical analysis of your performance as seen through the lens of other Founders, Entrepreneurs, and Senior Executives.  You develop both practical skills of financial and operational management and soft skills for personal and professional development needed to be competitive in entrepreneurial activity. Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0125 , 325 , and an internship approved by the Shuford coordinator.",
+    "requisite_codes": [
+      "ECON 125",
+      "ECON 325"
+    ]
+  },
+  {
+    "code": "ECON 394",
+    "title": "Advanced Entrepreneurship Practicum",
+    "credits": 3.0,
+    "description": "An advanced, hands-on course for students with the academic learning of the Shuford Minor and a passion for launching a venture, whether for-profit or nonprofit.  You will work with entrepreneurship mentors and coaches to apply the lessons of the Shuford Minor and to convert your idea into an enterprise that launches your solution into its intended market.  Teaching style is practical, collaborative, and devoted to learning-by-doing.",
+    "requisites_text": "Prerequisites, ECON\u00a0325 and ECON\u00a0327 or equivalent; permission from instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 325",
+      "ECON 327"
+    ]
+  },
+  {
+    "code": "ECON 395",
+    "title": "Research Course",
+    "credits": 1.0,
+    "description": "Topic varies from semester to semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 396",
+    "title": "Independent Study in Entrepreneurship",
+    "credits": 1.0,
+    "description": "Readings and research under the supervision of a member of the department. Permission of the director of undergraduate studies.",
+    "requisites_text": "Prerequisites, ECON\u00a0125 and ECON\u00a0325 .",
+    "requisite_codes": [
+      "ECON 125",
+      "ECON 325"
+    ]
+  },
+  {
+    "code": "ECON 400",
+    "title": "Introduction to Data Science and Econometrics",
+    "credits": 4.0,
+    "description": "This course is a comprehensive introduction to statistics, including descriptive statistics and statistical graphics, probability theory, distributions, parameter estimation, hypothesis testing, simple and multiple regression, and use of powerful statistical estimation software. This course includes a substantial introduction to basic econometrics. Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0101 with a grade of C or better; MATH\u00a0152 , 231 , STOR 112, or 113 with a grade of C- or better.",
+    "requisite_codes": [
+      "ECON 101",
+      "MATH 152",
+      "MATH 231",
+      "STOR 113"
+    ]
+  },
+  {
+    "code": "ECON 410",
+    "title": "Intermediate Microeconomics",
+    "credits": 4.0,
+    "description": "This course explores the foundations of Microeconomic theory, focusing on the choices of consumers and producers. The organization of markets and its implications for firm behavior and market equilibrium are also examined. Honors version available.",
+    "requisites_text": "Prerequisite, ECON\u00a0101 with a grade of C or better; MATH\u00a0152 , 231 , STOR 112, or 113 with a grade of C- or better.",
+    "requisite_codes": [
+      "ECON 101",
+      "MATH 152",
+      "MATH 231",
+      "STOR 113"
+    ]
+  },
+  {
+    "code": "ECON 411",
+    "title": "Game Theory",
+    "credits": 3.0,
+    "description": "Game theory is the study of strategic interactions, where the best choice for the individual depends directly on what other individuals are doing. This course formalizes strategic interactions as mathematical games. Students examine the concept of a strategy, examine what it means to be rational or irrational, and define solution concepts that correspond to different assumptions.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 with a grade of C or better, or COMP\u00a0550 , POLI\u00a0287 , or POLI\u00a0288 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "ECON 410",
+      "COMP 550",
+      "POLI 287",
+      "POLI 288"
+    ]
+  },
+  {
+    "code": "ECON 413",
+    "title": "Law and Economics",
+    "credits": 3.0,
+    "description": "This course explores topics in law and economics. Students learn about economic models, principles, and research applied to relevant legal questions. Specific topics include: the economic foundations of property, tort, and contract law; how economic principles inform enforcement practices; and how economics concepts are applied in domains such as antitrust and intellectual property.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 .",
+    "requisite_codes": [
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 415",
+    "title": "Market Failures",
+    "credits": 3.0,
+    "description": "This course is a continuation of ECON\u00a0410 . While ECON\u00a0410 dealt with basic price theory and market successes, this course will mainly cover market failures. In particular, we will first explore the notion of efficiency and equity in a partial and general equilibrium framework. We will then add asymmetric information, behavioral economics, externalities, public goods, and market power to models learned in ECON\u00a0101 and ECON\u00a0410 to analyze the effects on economic efficiency.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 416",
+    "title": "Behavioral Economics",
+    "credits": 3.0,
+    "description": "This course covers alternatives to the standard rational choice model featured in ECON\u00a0410 . The course covers four themes: choice under certainty (e.g. menu and endowment effects), choice under uncertainty (e.g. prospect theory), intertemporal choice (e.g. hyperbolic preferences), and strategic choices by individuals (e.g., social preferences, envy, altruism). The readings focus on the contributions of experimental economics and neuroeconomics.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 420",
+    "title": "Intermediate Macroeconomics",
+    "credits": 3.0,
+    "description": "An introduction to contemporary macroeconomic concepts and analysis. Topics include the level, fluctuations, and growth of national income, and monetary and fiscal policies designed to achieve economic goals. Students may not receive credit for both ECON\u00a0320 and ECON\u00a0420 . Honors version available.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 423",
+    "title": "Financial Markets and Economic Fluctuations",
+    "credits": 3.0,
+    "description": "An examination of financial institutions and markets, their role in economic conditions, and the use of macroeconomic policies in affecting those conditions. Students may not receive credit for both ECON\u00a0320 and ECON\u00a0423 . Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 420 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 420",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 425",
+    "title": "Financial Economics",
+    "credits": 3.0,
+    "description": "How does a risk averse individual allocate their funds? Students begin by defining and measuring risk, making connection to their microeconomics training. They then develop and use asset pricing models to explore the interplay between risk and return. Finally, students use these tools to develop a mean-variance optimal portfolio allocation. Students are introduced to basic quantitative tools and participate in myriad practical applications.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 420 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 420",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 434",
+    "title": "History of Economic Doctrines",
+    "credits": 3.0,
+    "description": "A survey of the fundamental forms of economic thought from the scholastics through Keynes.",
+    "requisites_text": "Prerequisites, ECON\u00a0101 , 400 , and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 101",
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 436",
+    "title": "Urban Economics",
+    "credits": 3.0,
+    "description": "This course introduces space into economic models to study the location of economic activity and implications for business and individuals.  We examine contemporary issues of housing, transportation, education, employment, poverty, and crime, exploring possible solutions. Also considered will be theories of why cities exist, causes of their growth and decline.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; both with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 440",
+    "title": "Analysis of Public Finance",
+    "credits": 3.0,
+    "description": "Application of economic analysis to the taxing and spending functions of government. Students may not receive credit for both ECON 340 and ECON\u00a0440 .",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 445",
+    "title": "Industrial Organization",
+    "credits": 3.0,
+    "description": "The course covers the causes and consequences of firms' strategic behavior, focusing on situations in which firms have market power. The main analytical tools are microeconomic theory and game theory. Topics covered include: pricing, product design, imperfect competition, collusion and cartels, firm-to-firm supply relationships, mergers, and antitrust policy. Students may not receive credit for both ECON\u00a0345 and 445 .",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 450",
+    "title": "Health Economics: Problems and Policy",
+    "credits": 3.0,
+    "description": "Economic analysis applied to problems and public policy in health care.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 452",
+    "title": "Economics of Global Pandemics",
+    "credits": 3.0,
+    "description": "During this course, students will explore the effects of past pandemics and consider the micro- and macroeconomic impacts of the COVID19 pandemic on individuals, firms, and societies.  Some topics include interpreting infection and mortality data, fiscal and monetary policy responses, encouraging research and development of vaccines, effects of pandemics on labor markets, allocation of scarce resources during pandemics, and the implications of the pandemic on racial, gender, and income inequality.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and ECON\u00a0410 with a grade C or better.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 455",
+    "title": "Environmental Economic Theory",
+    "credits": 3.0,
+    "description": "A rigorous economic analysis of environmental issues, with particular emphasis on the problem of designing appropriate institutions and regulations under private information and the interaction between economic and ecological systems. Topics include emission fees and marketable permits, pollution models, carbon regulation, and ecosystem service markets.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 460",
+    "title": "International Economics",
+    "credits": 3.0,
+    "description": "An introduction to international trade, the balance of payments, and related issues of foreign economic policy.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 461",
+    "title": "European Economic Integration",
+    "credits": 3.0,
+    "description": "Economic and political aspects of European economic integration, the EC customs union, barriers to integration, convergence vs. divergence of inflation rates and income levels, enlargement of the EC.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better is required in ECON\u00a0400 and 410 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 465",
+    "title": "Economic Development",
+    "credits": 3.0,
+    "description": "An introduction to the economic characteristics and problems of the less developed countries and to the theories and policies applicable to the developing economy.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 468",
+    "title": "Socialism, Planning, and the Contemporary Russian Economy",
+    "credits": 3.0,
+    "description": "Study of the principles, design, organization, and performance of state-controlled economies relying on planning or regulated markets, with an emphasis on continuity and post-communist transition.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , and 310 or 410 ; a grade of C or better in ECON\u00a0400 , and 310 or 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 310",
+      "ECON 410",
+      "ECON 400",
+      "ECON 310",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 469",
+    "title": "Asian Economic Systems",
+    "credits": 3.0,
+    "description": "This course provides an in-depth examination of the behavioral principles and performances of five core Asian economic systems: Japan, China, Taiwan/South Korea, North Korea and Thailand.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , and 310 or 410 ; a grade of C or better in ECON\u00a0400 , and 310 or 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 310",
+      "ECON 410",
+      "ECON 400",
+      "ECON 310",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 470",
+    "title": "Econometrics",
+    "credits": 3.0,
+    "description": "Econometrics is the application of statistical methods and economic theory to the problem of identifying, estimating, and testing economic models. This course covers concepts and methods used in empirical economic research. Students will learn how to conduct and how to critique empirical studies in economics. Students may not receive credit for both ECON\u00a0470 and 570. Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 480",
+    "title": "Labor Economics",
+    "credits": 3.0,
+    "description": "An introduction to the field of labor economics with emphasis on how the interactions between firms and workers influence wages, employment, unemployment, and inflation. Students may not receive credit for both ECON\u00a0380 and ECON\u00a0480 .",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 482",
+    "title": "Compensation In Organizations",
+    "credits": 3.0,
+    "description": "How people are paid can make or break an organization. This course studies organizational economics, with a focus on how compensation shapes work within organizations. Using a workhorse game theoretic model, case studies and recent empirical work in economics and management, students will learn how pay can help or hurt effort, teamwork, multitasking, and much more. This course will be useful for students interested in consulting, human resource analytics or starting their own company. A background in game theory is not required.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 485",
+    "title": "Economics of Sports",
+    "credits": 3.0,
+    "description": "This course applies microeconomic techniques to study the allocation of resources in professional and collegiate sports, the determinants of an athlete's salary, racial discrimination, gender wage differentials, and the economic impact of sports within the local community. The course engages students with real-world sports stories and incorporates empirical research and statistical analysis to test different economic theories.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 486",
+    "title": "Gender and Economics",
+    "credits": 3.0,
+    "description": "This course uses basic microeconomic theory and recent empirical studies to examine the causes and consequences of gender differences in economic outcomes. Topics covered may include family formation and dissolution, fertility decisions, human capital investment, labor force participation, the gender earnings gap, and occupational choice.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 487",
+    "title": "Economics of Life: Applying Economics to Life's Big Questions",
+    "credits": 3.0,
+    "description": "This course explores the intersection of economics and self-examination in trying to live a good life. Students will learn about economic models, data, and research in the following areas: 1.) education, 2.) career, 3.) finance, 4.) well-being, 5.) family, and 6.) groups. Students will review evidence and readings from published economic research, classic economic thinkers, contemporary economists, and academic thinkers from related fields (primarily philosophy, psychology, and political science).",
+    "requisites_text": "Prerequisite, ECON\u00a0410 .",
+    "requisite_codes": [
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 490",
+    "title": "Special Topics",
+    "credits": 3.0,
+    "description": "Topic varies from semester to semester.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 493",
+    "title": "Practicum in Quantitative Financial Economics",
+    "credits": 1.0,
+    "description": "This practicum provides students the opportunity to implement and test the models being developed in ECON\u00a0525 . Students will work with multiple data sources and programming platforms, and engage in a series of practical experiments using live market information.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 425 ; a grade of C or better in ECON\u00a0400 and 410 is required; corequisite, ECON\u00a0525 .",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 425",
+      "ECON 400",
+      "ECON 410",
+      "ECON 525"
+    ]
+  },
+  {
+    "code": "ECON 495",
+    "title": "Research Course",
+    "credits": 1.0,
+    "description": "Topic varies from semester to semester. Permission of the instructor.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and ECON\u00a0410 ; with grade C or better.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 496",
+    "title": "Independent Study",
+    "credits": 1.0,
+    "description": "Permission of the director of undergraduate studies. Readings and research under the supervision of a member of the department.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 ; a grade of C or better in ECON\u00a0410 is required.",
+    "requisite_codes": [
+      "ECON 410",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 510",
+    "title": "Advanced Microeconomic Theory",
+    "credits": 3.0,
+    "description": "A treatment of topics in microeconomic theory not normally covered in ECON\u00a0410 . Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 511",
+    "title": "Advanced Game Theory in Economics",
+    "credits": 3.0,
+    "description": "Topics in noncooperative and cooperative game theory are covered, along with a selection of applications to economics in areas such as industrial organization, international trade, public finance, and general equilibrium. Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 411 and 410 ; a grade of C or better is required; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 411",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 520",
+    "title": "Advanced Macroeconomic Theory",
+    "credits": 3.0,
+    "description": "This course will emphasize theoretical and empirical topics such as growth, labor search, Phillips curves, stagflation, and optimal government policy. Honors version available.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 420 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 420",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 522",
+    "title": "Macroeconomic Analysis of the Labor Market",
+    "credits": 3.0,
+    "description": "This course addresses all aspects of the labor market that have economy-wide relevance. Both in the long run and in the short run, the labor market is of central importance for the national economy for many key policy questions, and for individual well-being. We will cover topics such as long-term trends in income, employment, and hours worked; determinants and consequences of income inequality; and application to minimum-wage, transfer-program, fiscal-stimulus and unemployment-insurance policies.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 420 with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 420"
+    ]
+  },
+  {
+    "code": "ECON 523",
+    "title": "Computational Methods for Economists",
+    "credits": 3.0,
+    "description": "This course offers a hands-on introduction to the computational techniques essential for modern economic analysis. The computational part of the course includes numerical methods for solving a system of nonlinear equations, optimization, dynamic programming, and an introduction to deep learning and reinforcement learning. These methods are applied to real-world economic problems, such as portfolio choice, life-cycle investment strategies, and business cycle analysis. Students will work on projects that allow them to explore topics independently, gaining both theoretical insights as well as practical programming skills.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , ECON\u00a0410 , and at least one of the following: ECON\u00a0420 , ECON\u00a0425 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 420",
+      "ECON 425",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 525",
+    "title": "Advanced Financial Economics",
+    "credits": 3.0,
+    "description": "Building upon the foundation developed in ECON\u00a0425 , students take part in each of the five steps of the asset allocation process (explore, explain, predict, allocate, and protect) by addressing the following questions. How does the modern financial economist acquire, clean, and transform data? What drives asset returns? Can we forecast returns? How do we form a portfolio in the presence of risk? How do we assess and manage risk?",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , 425 and 470 ; a grade of C or better in ECON\u00a0400 , 410 and 470 is required; Corequisite, ECON\u00a0493 .",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 425",
+      "ECON 470",
+      "ECON 400",
+      "ECON 410",
+      "ECON 470",
+      "ECON 493"
+    ]
+  },
+  {
+    "code": "ECON 540",
+    "title": "Advanced Public Finance",
+    "credits": 3.0,
+    "description": "Selected topics in taxation, public expenditures, and governmental transfer programs.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 340 or 440 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 440",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 545",
+    "title": "Advanced Industrial Organization",
+    "credits": 3.0,
+    "description": "This course covers empirical and numerical techniques for the study of market power and market failure. The covered methods are commonly applied in antitrust and regulatory policy analysis, economic consulting, and quantitative marketing studies.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and ECON\u00a0445 OR ECON\u00a0411 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 445",
+      "ECON 411",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 550",
+    "title": "Advanced Health Econometrics",
+    "credits": 3.0,
+    "description": "Get your hands dirty with health data. Learn the econometric tools necessary for empirical analysis of health-related outcomes and behaviors. Use economic theory to construct hypotheses and use econometrics to measure effects of individual, organizational, and public policy determinants. Empirically analyze detailed data to understand medical care demand, health behaviors, and health production. Interpret statistical findings using health-related applications.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 and at least one of the following: ECON\u00a0470 , ECON\u00a0450 ; a grade of C- or better in ECON\u00a0470 or ECON\u00a0450 and a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470",
+      "ECON 450",
+      "ECON 470",
+      "ECON 450",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 551",
+    "title": "Economics of Education",
+    "credits": 3.0,
+    "description": "This course will apply and build on existing economic theory and econometric skills to study education policy. Topics include education production, teacher quality, and investment in education, with a particular emphasis on recent policies aimed at reducing inequality. Students will learn how to conduct and how to critique empirical studies in economics of education.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and 470 .",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470"
+    ]
+  },
+  {
+    "code": "ECON 552",
+    "title": "The Economics of Health Care Markets and Policy",
+    "credits": 3.0,
+    "description": "This course explores the strategic choices of insurers and health care providers, their effect on patient welfare, and the role of government regulation in shaping health-care market outcomes. We will read academic papers covering topics such as moral hazard in health insurance provision, the impact of capitation on cost and quality of care, and the effect of hospital mergers on prices and insurance premiums. We will use tools from Industrial Organization and related empirical literatures.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and at least one of the following: ECON\u00a0445 , ECON\u00a0450 , ECON\u00a0482 ; all with a grade of C or better.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 445",
+      "ECON 450",
+      "ECON 482"
+    ]
+  },
+  {
+    "code": "ECON 560",
+    "title": "Advanced International Economics",
+    "credits": 3.0,
+    "description": "Analysis and interpretation of selected problems and policy issues. Content varies, but attention is given to such topics as trade barriers, trade patterns, floating exchange rates, and international monetary policy.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and at least one of the following: ECON\u00a0420 , 425 , ECON\u00a0460 , or ECON\u00a0470 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 420",
+      "ECON 425",
+      "ECON 460",
+      "ECON 470",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 565",
+    "title": "Research in Development Economics",
+    "credits": 3.0,
+    "description": "The course is designed to advance analytical skills in the field of development economics. The course covers empirical models of development gap, economic growth, human capital, income inequality, corruption, immigration, informality, and current COVID-19 crisis. Students will learn how researchers evaluate development policies, including tax and welfare reforms, education programs, privatization, regulation, immigration, and COVID-19-related policies. Students will improve programming skills in Stata and use real-world survey data in writing a research project.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 with a grade of C or better; Pre- or corequisite, ECON\u00a0470 or 570.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470"
+    ]
+  },
+  {
+    "code": "ECON 571",
+    "title": "Advanced Econometrics",
+    "credits": 3.0,
+    "description": "Econometric models and inference methods. Topics include non-linear econometric models, quasi-experimental methods for program evaluation (heterogeneous treatment effect models, differences-in-differences methods, and regression discontinuity designs), and advanced methods for panel data.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 , and ECON\u00a0470 or 570; a grade of C- or better in ECON\u00a0470 is required; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470",
+      "ECON 470",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 573I",
+    "title": "Machine Learning and Econometrics",
+    "credits": 3.0,
+    "description": "Big data and Machine learning techniques with economic applications. Students will learn how to explore, visualize, and analyze high-dimensional datasets, build predictive models, and estimate causal effects in R. Topics include an advanced overview of linear and logistic regression, model selection and regularization, LASSO, cross-validation, experiments and causal inference, treatment effects with high-dimensional controls, difference-in-differences, networks, classification and clustering, latent variable models, bagging and the bootstrap, decision trees and random forests, deep learning, textual analysis.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 and 470 ; a grade of C- or better in ECON\u00a0470 and a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470",
+      "ECON 470",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 575",
+    "title": "Applied Time Series Analysis and Forecasting",
+    "credits": 3.0,
+    "description": "Econometric techniques for time series data. Topics include ARMA models, forecasting, nonstationarity, conditional heteroskedasticity, and multiple equation models.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 , 410 and 470 ; a grade of C- or better in ECON\u00a0470 is required; a grade of C or better in ECON\u00a0400 and 410 is required; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470",
+      "ECON 470",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 580",
+    "title": "Advanced Labor Economics",
+    "credits": 3.0,
+    "description": "A theoretical and empirical analysis of labor supply, human capital, income inequality, discrimination, and labor market  policies. Using real-world survey data, students will gain skills in data management, programming, and policy evaluation.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 with a grade of C or better in both, and at least one of the following: ECON\u00a0470 , ECON\u00a0480 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 470",
+      "ECON 480"
+    ]
+  },
+  {
+    "code": "ECON 590",
+    "title": "Special Topics",
+    "credits": 3.0,
+    "description": "Topic varies from semester to semester.",
+    "requisites_text": "Prerequisites, ECON\u00a0400 and 410 ; a grade of C or better in ECON\u00a0400 and 410 is required.",
+    "requisite_codes": [
+      "ECON 400",
+      "ECON 410",
+      "ECON 400",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 595",
+    "title": "Research Course",
+    "credits": 1.0,
+    "description": "Topic varies from semester to semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 596",
+    "title": "Independent Study",
+    "credits": 1.0,
+    "description": "Permission of the director of undergraduate studies. Readings and research under the supervision of a member of the department.",
+    "requisites_text": "Prerequisite, ECON\u00a0410 ; a grade of C or better in ECON\u00a0410 is required.",
+    "requisite_codes": [
+      "ECON 410",
+      "ECON 410"
+    ]
+  },
+  {
+    "code": "ECON 691H",
+    "title": "Honors Course",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Readings in economics and beginning of directed research on an honors thesis. Required of all candidates for graduation with honors in economics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 692H",
+    "title": "Honors Course",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Completion of an honors thesis under the direction of a member of the faculty. Required of all candidates for graduation with honors in economics.",
+    "requisites_text": "Prerequisite, ECON\u00a0691H .",
+    "requisite_codes": [
+      "ECON 691H"
+    ]
+  },
+  {
+    "code": "ECON 698",
+    "title": "Philosophy, Politics, and Economics: Capstone Course",
+    "credits": 3.0,
+    "description": "Permission of the department. The Capstone Seminar is the final course in the PPE sequence. The seminar has two components: a set of readings that focus on cutting edge work at the intersection of Philosophy, Political Science, and Economics and individual research projects selected in consultation with the instructor. The project involves giving a presentation to, and getting feedback from, seminar participants, and culminates in a final research paper. Throughout, participants will be actively engaging with each other, deepening their understanding of core concepts and tools of PPE, and applying them to specific issues.",
+    "requisites_text": "Prerequisite, PHIL\u00a0384 .",
+    "requisite_codes": [
+      "PHIL 384"
+    ]
+  },
+  {
+    "code": "ECON 700",
+    "title": "Basic Quantitative Techniques",
+    "credits": 3.0,
+    "description": "Topics from real analysis, linear algebra, calculus, convex analysis, nonlinear programming, dynamic programming.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 701",
+    "title": "Analytical Methods for Mathematical Economics",
+    "credits": 3.0,
+    "description": "Covers mathematical bases for economic analysis. Proofs, real analysis, functional analysis, convexity, fixed points, and modularity.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 710",
+    "title": "Advanced Microeconomic Theory I",
+    "credits": 3.0,
+    "description": "This course offers a graduate level introduction to decision theory, general equilibrium and game theory.",
+    "requisites_text": "Pre- or corequisites, ECON\u00a0410 and 700 .",
+    "requisite_codes": [
+      "ECON 410",
+      "ECON 700"
+    ]
+  },
+  {
+    "code": "ECON 711",
+    "title": "Advanced Microeconomic Theory II",
+    "credits": 3.0,
+    "description": "This course covers basic game theory and information economics. It covers games in normal and extensive form. Topics include repeated games, Bayesian games, dynamic games of incomplete information, mechanism design, and contracting.",
+    "requisites_text": "Prerequisite, ECON\u00a0710 .",
+    "requisite_codes": [
+      "ECON 710"
+    ]
+  },
+  {
+    "code": "ECON 720",
+    "title": "Advanced Macroeconomic Theory I",
+    "credits": 3.0,
+    "description": "Macroeconomic models and solution methods. Overlapping generations, growth models in discrete and continuous time, endogenous growth, stochastic growth, heterogeneous agents with incomplete markets.",
+    "requisites_text": "Prerequisite, ECON\u00a0700 or permission of instructor.",
+    "requisite_codes": [
+      "ECON 700"
+    ]
+  },
+  {
+    "code": "ECON 721",
+    "title": "Advanced Macroeconomic Theory II",
+    "credits": 3.0,
+    "description": "Growth models, general equilibrium approach to monetary theory; input-output; disequilibrium theory; extensions of Keynesian and classical models.",
+    "requisites_text": "Prerequisite, ECON\u00a0720 .",
+    "requisite_codes": [
+      "ECON 720"
+    ]
+  },
+  {
+    "code": "ECON 770",
+    "title": "Introduction to Econometric Theory",
+    "credits": 3.0,
+    "description": "Probability theory, expectation, conditional expectation, modes of convergence, limit and interchange theorems, and the asymptotics of maximum likelihood, generalized method of moments and efficient method of moments.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 771",
+    "title": "Econometrics",
+    "credits": 3.0,
+    "description": "Standard first year course in econometric theory and methods. Topics include least squares and maximum likelihood, asymptotic theory, classic inference, GMM, seemingly unrelated regression, endogeneity bias, and multi-stage least squares.",
+    "requisites_text": "Prerequisite, ECON\u00a0770 .",
+    "requisite_codes": [
+      "ECON 770"
+    ]
+  },
+  {
+    "code": "ECON 775",
+    "title": "Applied Econometric Analysis",
+    "credits": 3.0,
+    "description": "This course covers concepts and methods used in economic research with an emphasis on empirical applications. Topics include the basic single equation regression model, multiple equation models, discrete and categorical dependent variables, instrumental variables and longitudinal data. Permission of the instructor required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 799",
+    "title": "Experimental",
+    "credits": 1.0,
+    "description": "Varied.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 805",
+    "title": "Seminar in Teaching Methods in Economic for TAs",
+    "credits": 1.0,
+    "description": "Covers skills in lecturing, encouraging student participation and active learning, writing exams, planning and evaluating courses. Students design and teach a module that includes class discussion and hands-on learning. Targeted to beginning teaching assistants.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 806",
+    "title": "Seminar in Teaching Methods in Economics",
+    "credits": 1.0,
+    "description": "Doctoral candidacy in economics or permission of the instructor. Covers skills in lecturing, encouraging student participation and active learning, writing exams, planning and evaluating courses. Students design and teach a module that includes class discussion and hands-on learning. Targeted to those teaching independent sections.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 810",
+    "title": "Game Theory I",
+    "credits": 3.0,
+    "description": "Noncooperative games in strategic and extensive form, with perfect and imperfect information. Other topics from: information economics, mechanism design, auctions, repeated games, bargaining, bounded rationality, learning, evolutionary games, cooperative games.",
+    "requisites_text": "Prerequisite, ECON\u00a0710 and 711 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 710",
+      "ECON 711"
+    ]
+  },
+  {
+    "code": "ECON 811",
+    "title": "Game Theory II",
+    "credits": 3.0,
+    "description": "This course is a continuation of ECON\u00a0810 . Topics covered will be chosen from those listed, but not covered in ECON\u00a0810 .",
+    "requisites_text": "Prerequisite, ECON\u00a0810 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "ECON 810"
+    ]
+  },
+  {
+    "code": "ECON 820",
+    "title": "Monetary Theory",
+    "credits": 3.0,
+    "description": "This course focuses on econometric testing of macroeconomic theories. Topics will vary from year to year, but will include for example, modern theories of short-run fluctuations: sources of business cycle and the evolution of income, employment, interest rate, and prices, monetary and fiscal policy theories in the presence of real and nominal rigidities.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 821",
+    "title": "Topics in Macroeconomics II",
+    "credits": 1.0,
+    "description": "This course covers topics in macroeconomics such as economic growth, human capital, wealth inequality, and trade. The precise topics depend on the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 822",
+    "title": "Firm Dynamics and Production Networks",
+    "credits": 3.0,
+    "description": "This course studies producer heterogeneity and its macroeconomic implications, i.e., aggregate growth or fluctuations. It introduces a set of theoretical and quantitative tools and aims to provide a coherent view of aggregate production from a disaggregated perspective. The course starts from classic firm-dynamics models and their applications, emphasizing the cross-sectional variation among firms. The second part introduces networks in macroeconomics and their implications, focusing on the connections among firms. Specific topics may differ each year.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 840",
+    "title": "Advanced Finance: Expenditure",
+    "credits": 3.0,
+    "description": "Analysis of market failure and reasons for public spending, cost-benefit analysis and program budgeting, public decision making, redistribution and fiscal equity, intergovernmental transfers.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 841",
+    "title": "Advanced Public Finance: Revenues",
+    "credits": 3.0,
+    "description": "Criteria for judging tax structures, incidence and impact of taxation, user charges and debt finance, intergovernmental coordination, and macroeconomic effects.",
+    "requisites_text": "Prerequisite, ECON\u00a0840 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 840"
+    ]
+  },
+  {
+    "code": "ECON 845",
+    "title": "Advanced Business Organization and Social Control",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Extensive readings in the literature are required. Emphasis is placed upon the role of economic analysis in dealing with problems in this field.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 846",
+    "title": "Theoretical Industrial Organization",
+    "credits": 3.0,
+    "description": "This course covers theoretical industrial organization (IO). Topics typically covered include: price discrimination, product bundling, foreclosure analysis, vertical relations between firms, two-sided markets, dynamic games, and markets with switching costs and network effects.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 847",
+    "title": "EMPIRICAL INDUSTRIAL ORGANIZATION I",
+    "credits": 3.0,
+    "description": "This course covers empirical methods in industrial organization (IO), and is typically presented as the first part of a two-course empirical IO sequence. Topics typically covered include: demand estimation, information issues, vertical relations between firms, and productivity.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 848",
+    "title": "EMPIRICAL INDUSTRIAL ORGANIZATION II",
+    "credits": 3.0,
+    "description": "This course covers empirical methods in industrial organization (IO), and is typically presented as the second part of a two-course empirical IO sequence. Topics typically covered include: static games of complete and incomplete information, dynamic demand, dynamic games, and auctions.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 850",
+    "title": "Health Economics",
+    "credits": 3.0,
+    "description": "Measurement and modeling of the demand for medical care, the demand for and supply of health insurance, and the incorporation of health, medical care, and health insurance in determining both short and long run labor supply.",
+    "requisites_text": "Prerequisites, ECON\u00a0710 and 771 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 710",
+      "ECON 771"
+    ]
+  },
+  {
+    "code": "ECON 851",
+    "title": "Health Economics for Developing Countries",
+    "credits": 3.0,
+    "description": "Major topics are: how health and development are related, the demand for health services, cost-benefit and cost-effectiveness analysis, and methods for financing health care in developing, resource-constrained nations.",
+    "requisites_text": "Prerequisites, ECON\u00a0710 and 771 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "ECON 710",
+      "ECON 771"
+    ]
+  },
+  {
+    "code": "ECON 852",
+    "title": "Health Economics: Markets and Supply-Side Actors",
+    "credits": 3.0,
+    "description": "This course explores the economics of health care markets with a focus on supply-side actors, such as insurers, hospitals and physicians, and drug manufacturers. We will cover an assortment of topics in health economics and analyze them using tools from applied microeconomics and industrial organization.",
+    "requisites_text": "Prerequisite, ECON\u00a0847 , 848 , 873 , 880 or 881 .",
+    "requisite_codes": [
+      "ECON 847",
+      "ECON 848",
+      "ECON 873",
+      "ECON 880",
+      "ECON 881"
+    ]
+  },
+  {
+    "code": "ECON 855",
+    "title": "Economics and Population",
+    "credits": 3.0,
+    "description": "Analysis of economic-demographic interrelationships including: population and economic development; population, environmental decay, and zero population growth; models of fertility, migration, and spatial organization; population policy. (Not regularly offered.)",
+    "requisites_text": "Prerequisite,  graduate standing in economics or permission of the instructor.",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 860",
+    "title": "Theory of International Trade",
+    "credits": 3.0,
+    "description": "Graduate standing in economics or permission of the instructor. The theory of international values; comparative advantage and the gains from trade; commercial policy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 861",
+    "title": "International Monetary Economics",
+    "credits": 3.0,
+    "description": "Graduate standing in economics or permission of the instructor. Analysis of the international monetary system; exchange rates; the process of adjustment in the balance of payments.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 865",
+    "title": "Economic Development: Theory and Policy",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Intensive study of the development processes and problems of the less developed countries, with emphasis on theories of growth and development, internal and external policies, and planning strategies.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 870",
+    "title": "Advanced Econometrics",
+    "credits": 3.0,
+    "description": "ECON\u00a0870 constitutes a one-semester treatment of the fundamental theory of econometrics. Topics covered include asymptotic distribution theory, linear and nonlinear models, specification testing techniques, and simultaneous equations models.",
+    "requisites_text": "Prerequisites, ECON\u00a0770 , 771 , and MATH 547.",
+    "requisite_codes": [
+      "ECON 770",
+      "ECON 771"
+    ]
+  },
+  {
+    "code": "ECON 871",
+    "title": "Time Series Econometrics",
+    "credits": 3.0,
+    "description": "Advanced introduction to time series analysis. Covers stationarity, ergodicity, autoregressive and moving average models, unit roots and spurious regression, vector autoregressive models, cointegration, structural breaks/parameter instability and models with time-varying parameters.",
+    "requisites_text": "Prerequisites, ECON\u00a0770 and ECON\u00a0771 .",
+    "requisite_codes": [
+      "ECON 770",
+      "ECON 771"
+    ]
+  },
+  {
+    "code": "ECON 872",
+    "title": "Nonlinear Econometric Methods",
+    "credits": 3.0,
+    "description": "Density estimation, nonparametric regression, neural nets, nonlinear regression, generalized method of moments, seminonparametric time series, estimating stochastic differential equations and nonlinear latent variables.",
+    "requisites_text": "Prerequisite, ECON\u00a0870 .",
+    "requisite_codes": [
+      "ECON 870"
+    ]
+  },
+  {
+    "code": "ECON 873",
+    "title": "Microeconometrics",
+    "credits": 3.0,
+    "description": "Limited dependent variable models such as binary outcome models, multinomial outcome models, and censored and truncated outcome models. Count data models. Duration models. Panel data analysis.",
+    "requisites_text": "Prerequisite, ECON\u00a0870 .",
+    "requisite_codes": [
+      "ECON 870"
+    ]
+  },
+  {
+    "code": "ECON 874",
+    "title": "Advanced Topics in Causal Inference",
+    "credits": 3.0,
+    "description": "This course covers recent advanced topics in causal inference, such as potential outcome models, randomized experiments, selection on observables, instrumental variables, testability of identifying assumptions, difference-in-differences models, changes-in-changes approach, synthetic control methods, regression discontinuity designs, and sample selection.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 876",
+    "title": "Advanced Topics in Data Science and Finance",
+    "credits": 3.0,
+    "description": "The course is intended for PhD students in economics, finance, and related fields. With a focus on asset pricing, it is designed to teach students how to conduct empirical research using machine learning, high-dimensional data science, and AI tools. The goal is for students to become familiar with the most recent methodological advances and to be able to analyze and evaluate new research effectively.",
+    "requisites_text": "Prerequisites, ECON\u00a0770 and ECON\u00a0771 .",
+    "requisite_codes": [
+      "ECON 770",
+      "ECON 771"
+    ]
+  },
+  {
+    "code": "ECON 877",
+    "title": "Foundations for Continuous Time Asset Pricing",
+    "credits": 3.0,
+    "description": "This course introduces students to mathematical foundations and economic interpretation of the main probabilistic tools (stochasatic calculus, martingale methods) in continuous time finance.",
+    "requisites_text": "Prerequisites, STOR\u00a0634 and 635 .",
+    "requisite_codes": [
+      "STOR 634",
+      "STOR 635"
+    ]
+  },
+  {
+    "code": "ECON 880",
+    "title": "Labor Economics I",
+    "credits": 3.0,
+    "description": "Analysis of short- and long-run aspects of supply and demand of labor, including empirical analysis of labor force behavior of males, females, blacks, and whites. Microeconomic effects of marriage, fertility, mobility on labor supply, and macroeconomic effects of unemployment on inflation.",
+    "requisites_text": "Prerequisite, ECON\u00a0710 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "ECON 710"
+    ]
+  },
+  {
+    "code": "ECON 881",
+    "title": "Labor Economics II",
+    "credits": 3.0,
+    "description": "This course covers a range of topics in labor economics, with a unifying theme of understanding how economics informs policies for alleviating inequality. Topics include social interactions, education, early childhood intervention, and discrimination.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 882",
+    "title": "Topics in Labor Economics-Dynamics and Search",
+    "credits": 3.0,
+    "description": "The course covers specific topics in labor economics by paying particular attention to dynamic considerations. The focus is on two groups of contributions, organized by methodology: The first group emphasizes search frictions in the labor market; the second uses discrete choice models to treat labor market dynamic. Specific topics covered in the course include: equilibrium unemployment, returns to Schooling, gender differentials, household interaction.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 883",
+    "title": "Search Theory",
+    "credits": 3.0,
+    "description": "Search frictions have long been recognized as a reason for the existence of labor and capital unemployment. It is also a leading explanation for the price and wage dispersion, a standard tool in monetary economics. This course covers a number of widely used models of search frictions, and discusses how they relate to imperfect information about individual or match-specific characteristics and or coordination problems.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 890",
+    "title": "Seminar",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Individual research in a special field under direction of a member of the department.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 892",
+    "title": "Research Practicum",
+    "credits": 1.0,
+    "description": "Students complete a pre-approved internship under the direction of a faculty member and the director of graduate studies. A paper summarizing the research work is required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 896",
+    "title": "Independent Study",
+    "credits": 1.0,
+    "description": "Varied.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 899",
+    "title": "Experimental",
+    "credits": 1.0,
+    "description": "Varied.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 900",
+    "title": "Dissertation Workshop: Topics in Economics",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Discussion of current research with topics varying from year to year. Oral and written reports on dissertation research. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 901",
+    "title": "Dissertation Completion Workshop",
+    "credits": 1.5,
+    "description": "The main course objective is to formally practice communication (verbally and written) of research methods and findings. The course also provides professional development designed to formally prepare students for the economics job market.  These course activities provide students with professional competencies and connections and help them envision their future with clarity and confidence. Targeted to those in their last year of doctoral studies that are seeking employment.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 910",
+    "title": "Dissertation Workshop in Microeconomic Theory",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Discussion of current research in microeconomic theory and industrial organization. Oral and written reports on dissertation research. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 920",
+    "title": "Dissertation Workshop in Macroeconomics",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Discussion of current research in macroeconomics and monetary economics. Oral and written reports on dissertation research. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 945",
+    "title": "Dissertation Workshop in Industrial Organization",
+    "credits": 1.5,
+    "description": "Discussion of current research in industrial organization. Student presentations of dissertation and other research. Oral and written reports on dissertation research. Instructor permission required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 958",
+    "title": "Seminar in Population",
+    "credits": 3.0,
+    "description": "Graduate standing in economics required. For advanced population students, this course addresses the newest and most advanced economic demography literature.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 960",
+    "title": "Dissertation Workshop in International and Development Economics",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Discussion of current research in international and development economics. Oral and written reports on dissertation research. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 966",
+    "title": "Seminar in Economic Development",
+    "credits": 1.0,
+    "description": "This course is an introduction to the literature and research methods of economic development and transition economies. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 968",
+    "title": "Seminar in Soviet Economics",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Studies of selected problems of the Soviet economy and related aspects of Soviet economic thought. Seminar members are expected to present reports on assigned research topics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 970",
+    "title": "Dissertation Workshop in Econometrics and Financial Econometrics",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Discussion of current research in econometrics and financial econometrics. Oral and written reports on dissertation research. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 971",
+    "title": "Research in Econometrics",
+    "credits": 3.0,
+    "description": "The course introduces students to theoretical and applied research topics in econometrics. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 981",
+    "title": "Seminar in Labor",
+    "credits": 1.0,
+    "description": "The course introduces students to research topics in labor economics. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 985",
+    "title": "Dissertation Workshop in Applied Microeconomics",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Discussion of current research in applied microeconomics. Student presentations of dissertation and other research. Oral and written reports on dissertation research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 990",
+    "title": "Special Topics",
+    "credits": 1.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 992",
+    "title": "Master's (Non-Thesis)",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "ECON 994",
+    "title": "Doctoral Research and Dissertation",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  }
+]

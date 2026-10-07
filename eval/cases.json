@@ -1,0 +1,1527 @@
+[
+  {
+    "id": "cs_freshman",
+    "tags": [
+      "requirement_lookup",
+      "cs",
+      "zero_progress"
+    ],
+    "major_slug": "computer-science-bs",
+    "completed_courses": [],
+    "question": "What am I missing for my major?",
+    "expected": {
+      "major": "Computer Science Major, B.S.",
+      "total_hours": 65.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [
+            "COMP 110"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "COMP 210",
+            "COMP 211",
+            "COMP 301",
+            "COMP 311",
+            "COMP 283",
+            "COMP 455",
+            "COMP 550"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP\u00a0496 and COMP\u00a0692H ). 2 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "MATH 231",
+            "MATH 232",
+            "MATH 233",
+            "MATH 347",
+            "STOR 435"
+          ],
+          "satisfied": [],
+          "choose_groups": [
+            {
+              "description": "Two science courses chosen from: 1 8",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "BIOL 101&101L",
+                "BIOL 202",
+                "BIOL 205",
+                "BIOL 220",
+                "BIOL 240",
+                "CHEM 101&101L",
+                "CHEM 102&102L",
+                "EMES 101&101L",
+                "EMES 103&103L",
+                "PHYS 114",
+                "PHYS 115",
+                "PHYS 118",
+                "PHYS 119",
+                "PHYS 451",
+                "PHYS 452"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "ASTR\u00a0100 / 100L or ASTR\u00a0101 / 100L or ASTR\u00a0102 / 100L or ASTR\u00a0103 / 100L",
+                "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements."
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "cs_partial",
+    "tags": [
+      "requirement_lookup",
+      "cs",
+      "partial_progress"
+    ],
+    "major_slug": "computer-science-bs",
+    "completed_courses": [
+      "COMP 110",
+      "COMP 210",
+      "MATH 231",
+      "MATH 232"
+    ],
+    "question": "What do I still need to graduate?",
+    "expected": {
+      "major": "Computer Science Major, B.S.",
+      "total_hours": 65.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "COMP 110"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "COMP 211",
+            "COMP 301",
+            "COMP 311",
+            "COMP 283",
+            "COMP 455",
+            "COMP 550"
+          ],
+          "satisfied": [
+            "COMP 210"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP\u00a0496 and COMP\u00a0692H ). 2 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "MATH 233",
+            "MATH 347",
+            "STOR 435"
+          ],
+          "satisfied": [
+            "MATH 231",
+            "MATH 232"
+          ],
+          "choose_groups": [
+            {
+              "description": "Two science courses chosen from: 1 8",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "BIOL 101&101L",
+                "BIOL 202",
+                "BIOL 205",
+                "BIOL 220",
+                "BIOL 240",
+                "CHEM 101&101L",
+                "CHEM 102&102L",
+                "EMES 101&101L",
+                "EMES 103&103L",
+                "PHYS 114",
+                "PHYS 115",
+                "PHYS 118",
+                "PHYS 119",
+                "PHYS 451",
+                "PHYS 452"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "ASTR\u00a0100 / 100L or ASTR\u00a0101 / 100L or ASTR\u00a0102 / 100L or ASTR\u00a0103 / 100L",
+                "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements."
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "cs_alternative_satisfied",
+    "tags": [
+      "requirement_lookup",
+      "cs",
+      "alternatives"
+    ],
+    "major_slug": "computer-science-bs",
+    "completed_courses": [
+      "COMP 110",
+      "COMP 210",
+      "STOR 315",
+      "MATH 231"
+    ],
+    "question": "Have I completed the discrete math requirement?",
+    "expected": {
+      "major": "Computer Science Major, B.S.",
+      "total_hours": 65.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "COMP 110"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "COMP 211",
+            "COMP 301",
+            "COMP 311",
+            "COMP 455",
+            "COMP 550"
+          ],
+          "satisfied": [
+            "COMP 210",
+            "COMP 283"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP\u00a0496 and COMP\u00a0692H ). 2 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "MATH 232",
+            "MATH 233",
+            "MATH 347",
+            "STOR 435"
+          ],
+          "satisfied": [
+            "MATH 231"
+          ],
+          "choose_groups": [
+            {
+              "description": "Two science courses chosen from: 1 8",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "BIOL 101&101L",
+                "BIOL 202",
+                "BIOL 205",
+                "BIOL 220",
+                "BIOL 240",
+                "CHEM 101&101L",
+                "CHEM 102&102L",
+                "EMES 101&101L",
+                "EMES 103&103L",
+                "PHYS 114",
+                "PHYS 115",
+                "PHYS 118",
+                "PHYS 119",
+                "PHYS 451",
+                "PHYS 452"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "ASTR\u00a0100 / 100L or ASTR\u00a0101 / 100L or ASTR\u00a0102 / 100L or ASTR\u00a0103 / 100L",
+                "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements."
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "cs_choose_group_partial",
+    "tags": [
+      "requirement_lookup",
+      "cs",
+      "choose_group_partial"
+    ],
+    "major_slug": "computer-science-bs",
+    "completed_courses": [
+      "COMP 110",
+      "COMP 210",
+      "COMP 211",
+      "COMP 283",
+      "COMP 301",
+      "COMP 311",
+      "COMP 455",
+      "COMP 550",
+      "MATH 231",
+      "MATH 232",
+      "MATH 233",
+      "MATH 347",
+      "STOR 435",
+      "BIOL 101&101L"
+    ],
+    "question": "Am I done with my science requirement?",
+    "expected": {
+      "major": "Computer Science Major, B.S.",
+      "total_hours": 65.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "COMP 110"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [
+            "COMP 210",
+            "COMP 211",
+            "COMP 301",
+            "COMP 311",
+            "COMP 283",
+            "COMP 455",
+            "COMP 550"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP\u00a0496 and COMP\u00a0692H ). 2 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [],
+          "satisfied": [
+            "MATH 231",
+            "MATH 232",
+            "MATH 233",
+            "MATH 347",
+            "STOR 435"
+          ],
+          "choose_groups": [
+            {
+              "description": "Two science courses chosen from: 1 8",
+              "required_count": 2,
+              "satisfied_options": [
+                "BIOL 101&101L"
+              ],
+              "remaining_options": [
+                "BIOL 202",
+                "BIOL 205",
+                "BIOL 220",
+                "BIOL 240",
+                "CHEM 101&101L",
+                "CHEM 102&102L",
+                "EMES 101&101L",
+                "EMES 103&103L",
+                "PHYS 114",
+                "PHYS 115",
+                "PHYS 118",
+                "PHYS 119",
+                "PHYS 451",
+                "PHYS 452"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "ASTR\u00a0100 / 100L or ASTR\u00a0101 / 100L or ASTR\u00a0102 / 100L or ASTR\u00a0103 / 100L",
+                "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements."
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "psyc_freshman",
+    "tags": [
+      "requirement_lookup",
+      "psychology",
+      "zero_progress"
+    ],
+    "major_slug": "psychology-ba",
+    "completed_courses": [],
+    "question": "What am I missing for my major?",
+    "expected": {
+      "major": "Psychology Major, B.A.",
+      "total_hours": 41.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [
+            "PSYC 101"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "PSYC 210",
+            "PSYC 270",
+            "NSCI 221",
+            "NSCI 222",
+            "NSCI 225",
+            "PSYC 220",
+            "PSYC 242",
+            "PSYC 245",
+            "NSCI 225",
+            "PSYC 230",
+            "PSYC 250",
+            "PSYC 260"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "One course below 400 from four of the five following psychology program areas: 12",
+            "Behavioral and Integrative Neuroscience:",
+            "Clinical:",
+            "Cognitive:",
+            "Developmental:",
+            "Social:",
+            "Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC\u00a0493 or NSCI\u00a0493 5 6",
+            "One additional PSYC and/or NSCI course above 101; may not include PSYC\u00a0190 or NSCI\u00a0190 . 5 3"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "BIOL 101&101L"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below) 3",
+            "One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major. 3-4"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "psyc_partial",
+    "tags": [
+      "requirement_lookup",
+      "psychology",
+      "partial_progress"
+    ],
+    "major_slug": "psychology-ba",
+    "completed_courses": [
+      "PSYC 101",
+      "PSYC 210",
+      "PSYC 270"
+    ],
+    "question": "What do I still need to graduate?",
+    "expected": {
+      "major": "Psychology Major, B.A.",
+      "total_hours": 41.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "PSYC 101"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "NSCI 221",
+            "NSCI 222",
+            "NSCI 225",
+            "PSYC 220",
+            "PSYC 242",
+            "PSYC 245",
+            "NSCI 225",
+            "PSYC 230",
+            "PSYC 250",
+            "PSYC 260"
+          ],
+          "satisfied": [
+            "PSYC 210",
+            "PSYC 270"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "One course below 400 from four of the five following psychology program areas: 12",
+            "Behavioral and Integrative Neuroscience:",
+            "Clinical:",
+            "Cognitive:",
+            "Developmental:",
+            "Social:",
+            "Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC\u00a0493 or NSCI\u00a0493 5 6",
+            "One additional PSYC and/or NSCI course above 101; may not include PSYC\u00a0190 or NSCI\u00a0190 . 5 3"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "BIOL 101&101L"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below) 3",
+            "One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major. 3-4"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "psyc_duplicate_requirement",
+    "tags": [
+      "requirement_lookup",
+      "psychology",
+      "data_quirk"
+    ],
+    "major_slug": "psychology-ba",
+    "completed_courses": [
+      "PSYC 101",
+      "NSCI 225"
+    ],
+    "question": "Have I satisfied the NSCI 225 requirement?",
+    "expected": {
+      "major": "Psychology Major, B.A.",
+      "total_hours": 41.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "PSYC 101"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "PSYC 210",
+            "PSYC 270",
+            "NSCI 221",
+            "NSCI 222",
+            "PSYC 220",
+            "PSYC 242",
+            "PSYC 245",
+            "PSYC 230",
+            "PSYC 250",
+            "PSYC 260"
+          ],
+          "satisfied": [
+            "NSCI 225",
+            "NSCI 225"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "One course below 400 from four of the five following psychology program areas: 12",
+            "Behavioral and Integrative Neuroscience:",
+            "Clinical:",
+            "Cognitive:",
+            "Developmental:",
+            "Social:",
+            "Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC\u00a0493 or NSCI\u00a0493 5 6",
+            "One additional PSYC and/or NSCI course above 101; may not include PSYC\u00a0190 or NSCI\u00a0190 . 5 3"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "BIOL 101&101L"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below) 3",
+            "One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major. 3-4"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "bio_freshman",
+    "tags": [
+      "requirement_lookup",
+      "biology",
+      "zero_progress",
+      "data_quirk"
+    ],
+    "major_slug": "biology-bs",
+    "completed_courses": [],
+    "question": "What am I missing for my major?",
+    "expected": {
+      "major": "Biology Major, B.S.",
+      "total_hours": 67.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [
+            "BIOL 101&101L"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Fundamentals Core Courses",
+          "missing": [
+            "BIOL 103",
+            "BIOL 104",
+            "BIOL 105L"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Intermediate Level Core Courses",
+          "missing": [
+            "BIOL 220",
+            "BIOL 240",
+            "BIOL 250",
+            "BIOL 260"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Two from among the following five options: 3 6-7",
+            "An organismal structure and diversity course (see list below)",
+            "Four biology electives (each of three or more credits) numbered above 200 (not including BIOL\u00a0213 , BIOL\u00a0222 , BIOL\u00a0253 , BIOL\u00a0291 , BIOL\u00a0292 , BIOL\u00a0293 , BIOL\u00a0294 , BIOL\u00a0295 , BIOL\u00a0296 , BIOL 353, a second semester of BIOL\u00a0395 , and BIOL\u00a0495 ). At least two courses in the major must have a laboratory (not including BIOL\u00a0101L or BIOL\u00a0105L ). ENEC\u00a0489 can also count as a biology elective. 4,5 14"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "CHEM 101&101L",
+            "CHEM 102&102L",
+            "CHEM 261",
+            "MATH 231"
+          ],
+          "satisfied": [],
+          "choose_groups": [
+            {
+              "description": "Two of the following: 6-8",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "MATH 232",
+                "PHYS 115",
+                "COMP 110",
+                "STOR 120"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One of the following: 4",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "PHYS 114",
+                "PHYS 118"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "A choice of two additional allied sciences electives selected from the course list below (some courses are more than 3 credits) 6",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [],
+              "met": false,
+              "unverifiable_notes": [
+                "Remaining General Education requirements and enough free electives to accumulate 120 academic hours"
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "bio_partial",
+    "tags": [
+      "requirement_lookup",
+      "biology",
+      "partial_progress"
+    ],
+    "major_slug": "biology-bs",
+    "completed_courses": [
+      "BIOL 101&101L",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 105L",
+      "CHEM 101&101L"
+    ],
+    "question": "What do I still need to graduate?",
+    "expected": {
+      "major": "Biology Major, B.S.",
+      "total_hours": 67.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "BIOL 101&101L"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Fundamentals Core Courses",
+          "missing": [],
+          "satisfied": [
+            "BIOL 103",
+            "BIOL 104",
+            "BIOL 105L"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Intermediate Level Core Courses",
+          "missing": [
+            "BIOL 220",
+            "BIOL 240",
+            "BIOL 250",
+            "BIOL 260"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Two from among the following five options: 3 6-7",
+            "An organismal structure and diversity course (see list below)",
+            "Four biology electives (each of three or more credits) numbered above 200 (not including BIOL\u00a0213 , BIOL\u00a0222 , BIOL\u00a0253 , BIOL\u00a0291 , BIOL\u00a0292 , BIOL\u00a0293 , BIOL\u00a0294 , BIOL\u00a0295 , BIOL\u00a0296 , BIOL 353, a second semester of BIOL\u00a0395 , and BIOL\u00a0495 ). At least two courses in the major must have a laboratory (not including BIOL\u00a0101L or BIOL\u00a0105L ). ENEC\u00a0489 can also count as a biology elective. 4,5 14"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "CHEM 102&102L",
+            "CHEM 261",
+            "MATH 231"
+          ],
+          "satisfied": [
+            "CHEM 101&101L"
+          ],
+          "choose_groups": [
+            {
+              "description": "Two of the following: 6-8",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "MATH 232",
+                "PHYS 115",
+                "COMP 110",
+                "STOR 120"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One of the following: 4",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "PHYS 114",
+                "PHYS 118"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "A choice of two additional allied sciences electives selected from the course list below (some courses are more than 3 credits) 6",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [],
+              "met": false,
+              "unverifiable_notes": [
+                "Remaining General Education requirements and enough free electives to accumulate 120 academic hours"
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "bio_choose_group_partial",
+    "tags": [
+      "requirement_lookup",
+      "biology",
+      "choose_group_partial"
+    ],
+    "major_slug": "biology-bs",
+    "completed_courses": [
+      "BIOL 101&101L",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 105L",
+      "BIOL 220",
+      "BIOL 240",
+      "BIOL 250",
+      "BIOL 260",
+      "CHEM 101&101L",
+      "CHEM 102&102L",
+      "CHEM 261",
+      "MATH 231",
+      "MATH 232"
+    ],
+    "question": "What's left for me to finish the major?",
+    "expected": {
+      "major": "Biology Major, B.S.",
+      "total_hours": 67.0,
+      "sections": [
+        {
+          "name": "Gateway Course",
+          "missing": [],
+          "satisfied": [
+            "BIOL 101&101L"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Fundamentals Core Courses",
+          "missing": [],
+          "satisfied": [
+            "BIOL 103",
+            "BIOL 104",
+            "BIOL 105L"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Intermediate Level Core Courses",
+          "missing": [],
+          "satisfied": [
+            "BIOL 220",
+            "BIOL 240",
+            "BIOL 250",
+            "BIOL 260"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Two from among the following five options: 3 6-7",
+            "An organismal structure and diversity course (see list below)",
+            "Four biology electives (each of three or more credits) numbered above 200 (not including BIOL\u00a0213 , BIOL\u00a0222 , BIOL\u00a0253 , BIOL\u00a0291 , BIOL\u00a0292 , BIOL\u00a0293 , BIOL\u00a0294 , BIOL\u00a0295 , BIOL\u00a0296 , BIOL 353, a second semester of BIOL\u00a0395 , and BIOL\u00a0495 ). At least two courses in the major must have a laboratory (not including BIOL\u00a0101L or BIOL\u00a0105L ). ENEC\u00a0489 can also count as a biology elective. 4,5 14"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [],
+          "satisfied": [
+            "CHEM 101&101L",
+            "CHEM 102&102L",
+            "CHEM 261",
+            "MATH 231"
+          ],
+          "choose_groups": [
+            {
+              "description": "Two of the following: 6-8",
+              "required_count": 2,
+              "satisfied_options": [
+                "MATH 232"
+              ],
+              "remaining_options": [
+                "PHYS 115",
+                "COMP 110",
+                "STOR 120"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One of the following: 4",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "PHYS 114",
+                "PHYS 118"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "A choice of two additional allied sciences electives selected from the course list below (some courses are more than 3 credits) 6",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [],
+              "met": false,
+              "unverifiable_notes": [
+                "Remaining General Education requirements and enough free electives to accumulate 120 academic hours"
+              ]
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "econ_freshman",
+    "tags": [
+      "requirement_lookup",
+      "economics",
+      "zero_progress"
+    ],
+    "major_slug": "economics-bs",
+    "completed_courses": [],
+    "question": "What am I missing for my major?",
+    "expected": {
+      "major": "Economics Major, B.S.",
+      "total_hours": 51.0,
+      "sections": [
+        {
+          "name": "Gateway Requirement",
+          "missing": [
+            "ECON 101"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "ECON 400",
+            "ECON 410",
+            "ECON 420",
+            "ECON 470"
+          ],
+          "satisfied": [],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher 1, 3 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "MATH 231",
+            "MATH 232",
+            "MATH 233"
+          ],
+          "satisfied": [],
+          "choose_groups": [
+            {
+              "description": "Select two of the following: 6",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "COMP 110",
+                "MATH 347",
+                "MATH 381",
+                "STOR 415",
+                "STOR 435"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "econ_partial",
+    "tags": [
+      "requirement_lookup",
+      "economics",
+      "partial_progress"
+    ],
+    "major_slug": "economics-bs",
+    "completed_courses": [
+      "ECON 101",
+      "ECON 400",
+      "MATH 231",
+      "MATH 232"
+    ],
+    "question": "What do I still need to graduate?",
+    "expected": {
+      "major": "Economics Major, B.S.",
+      "total_hours": 51.0,
+      "sections": [
+        {
+          "name": "Gateway Requirement",
+          "missing": [],
+          "satisfied": [
+            "ECON 101"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "ECON 410",
+            "ECON 420",
+            "ECON 470"
+          ],
+          "satisfied": [
+            "ECON 400"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher 1, 3 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [
+            "MATH 233"
+          ],
+          "satisfied": [
+            "MATH 231",
+            "MATH 232"
+          ],
+          "choose_groups": [
+            {
+              "description": "Select two of the following: 6",
+              "required_count": 2,
+              "satisfied_options": [],
+              "remaining_options": [
+                "COMP 110",
+                "MATH 347",
+                "MATH 381",
+                "STOR 415",
+                "STOR 435"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "econ_choose_group_partial",
+    "tags": [
+      "requirement_lookup",
+      "economics",
+      "choose_group_partial"
+    ],
+    "major_slug": "economics-bs",
+    "completed_courses": [
+      "ECON 101",
+      "ECON 400",
+      "ECON 410",
+      "ECON 420",
+      "ECON 470",
+      "MATH 231",
+      "MATH 232",
+      "MATH 233",
+      "COMP 110"
+    ],
+    "question": "Am I done with my electives requirement?",
+    "expected": {
+      "major": "Economics Major, B.S.",
+      "total_hours": 51.0,
+      "sections": [
+        {
+          "name": "Gateway Requirement",
+          "missing": [],
+          "satisfied": [
+            "ECON 101"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": []
+        },
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [
+            "ECON 400",
+            "ECON 410",
+            "ECON 420",
+            "ECON 470"
+          ],
+          "choose_groups": [],
+          "unverifiable_notes": [
+            "Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher 1, 3 15"
+          ]
+        },
+        {
+          "name": "Additional Requirements",
+          "missing": [],
+          "satisfied": [
+            "MATH 231",
+            "MATH 232",
+            "MATH 233"
+          ],
+          "choose_groups": [
+            {
+              "description": "Select two of the following: 6",
+              "required_count": 2,
+              "satisfied_options": [
+                "COMP 110"
+              ],
+              "remaining_options": [
+                "MATH 347",
+                "MATH 381",
+                "STOR 415",
+                "STOR 435"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            }
+          ],
+          "unverifiable_notes": []
+        }
+      ]
+    }
+  },
+  {
+    "id": "poli_freshman",
+    "tags": [
+      "requirement_lookup",
+      "political_science",
+      "zero_progress"
+    ],
+    "major_slug": "political-science-ba",
+    "completed_courses": [],
+    "question": "What am I missing for my major?",
+    "expected": {
+      "major": "Political Science Major, B.A.",
+      "total_hours": 27.0,
+      "sections": [
+        {
+          "name": "Core Requirements",
+          "missing": [
+            "POLI 100",
+            "POLI 150"
+          ],
+          "satisfied": [],
+          "choose_groups": [
+            {
+              "description": "One course in comparative politics chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "POLI 130",
+                "POLI 232",
+                "POLI 233",
+                "POLI 234",
+                "POLI 235",
+                "POLI 236",
+                "POLI 237",
+                "POLI 238",
+                "POLI 239",
+                "POLI 241"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in political theory chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "POLI 265",
+                "POLI 270",
+                "POLI 271",
+                "POLI 272",
+                "POLI 275",
+                "POLI 276",
+                "POLI 280",
+                "POLI 470",
+                "POLI 471",
+                "POLI 472",
+                "POLI 475",
+                "POLI 476",
+                "POLI 478"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in research methods chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "POLI 209",
+                "POLI 281",
+                "POLI 285",
+                "POLI 287",
+                "POLI 288",
+                "POLI 381",
+                "POLI 417",
+                "POLI 487",
+                "POLI 488",
+                "POLI 691H"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "Four political science (POLI) electives at the 100 level or above 1,2 12"
+              ]
+            }
+          ],
+          "unverifiable_notes": [
+            "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "poli_one_group_satisfied",
+    "tags": [
+      "requirement_lookup",
+      "political_science",
+      "choose_group_partial"
+    ],
+    "major_slug": "political-science-ba",
+    "completed_courses": [
+      "POLI 100",
+      "POLI 150",
+      "POLI 130"
+    ],
+    "question": "What do I still need to graduate?",
+    "expected": {
+      "major": "Political Science Major, B.A.",
+      "total_hours": 27.0,
+      "sections": [
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [
+            "POLI 100",
+            "POLI 150"
+          ],
+          "choose_groups": [
+            {
+              "description": "One course in comparative politics chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [
+                "POLI 130"
+              ],
+              "remaining_options": [
+                "POLI 232",
+                "POLI 233",
+                "POLI 234",
+                "POLI 235",
+                "POLI 236",
+                "POLI 237",
+                "POLI 238",
+                "POLI 239",
+                "POLI 241"
+              ],
+              "met": true,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in political theory chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "POLI 265",
+                "POLI 270",
+                "POLI 271",
+                "POLI 272",
+                "POLI 275",
+                "POLI 276",
+                "POLI 280",
+                "POLI 470",
+                "POLI 471",
+                "POLI 472",
+                "POLI 475",
+                "POLI 476",
+                "POLI 478"
+              ],
+              "met": false,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in research methods chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "POLI 209",
+                "POLI 281",
+                "POLI 285",
+                "POLI 287",
+                "POLI 288",
+                "POLI 381",
+                "POLI 417",
+                "POLI 487",
+                "POLI 488",
+                "POLI 691H"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "Four political science (POLI) electives at the 100 level or above 1,2 12"
+              ]
+            }
+          ],
+          "unverifiable_notes": [
+            "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "poli_two_groups_satisfied",
+    "tags": [
+      "requirement_lookup",
+      "political_science",
+      "choose_group_partial"
+    ],
+    "major_slug": "political-science-ba",
+    "completed_courses": [
+      "POLI 100",
+      "POLI 150",
+      "POLI 130",
+      "POLI 265"
+    ],
+    "question": "How close am I to finishing my major requirements?",
+    "expected": {
+      "major": "Political Science Major, B.A.",
+      "total_hours": 27.0,
+      "sections": [
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [
+            "POLI 100",
+            "POLI 150"
+          ],
+          "choose_groups": [
+            {
+              "description": "One course in comparative politics chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [
+                "POLI 130"
+              ],
+              "remaining_options": [
+                "POLI 232",
+                "POLI 233",
+                "POLI 234",
+                "POLI 235",
+                "POLI 236",
+                "POLI 237",
+                "POLI 238",
+                "POLI 239",
+                "POLI 241"
+              ],
+              "met": true,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in political theory chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [
+                "POLI 265"
+              ],
+              "remaining_options": [
+                "POLI 270",
+                "POLI 271",
+                "POLI 272",
+                "POLI 275",
+                "POLI 276",
+                "POLI 280",
+                "POLI 470",
+                "POLI 471",
+                "POLI 472",
+                "POLI 475",
+                "POLI 476",
+                "POLI 478"
+              ],
+              "met": true,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in research methods chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [],
+              "remaining_options": [
+                "POLI 209",
+                "POLI 281",
+                "POLI 285",
+                "POLI 287",
+                "POLI 288",
+                "POLI 381",
+                "POLI 417",
+                "POLI 487",
+                "POLI 488",
+                "POLI 691H"
+              ],
+              "met": false,
+              "unverifiable_notes": [
+                "Four political science (POLI) electives at the 100 level or above 1,2 12"
+              ]
+            }
+          ],
+          "unverifiable_notes": [
+            "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "poli_near_complete",
+    "tags": [
+      "requirement_lookup",
+      "political_science",
+      "near_complete"
+    ],
+    "major_slug": "political-science-ba",
+    "completed_courses": [
+      "POLI 100",
+      "POLI 150",
+      "POLI 130",
+      "POLI 265",
+      "POLI 209"
+    ],
+    "question": "Am I done with my major requirements?",
+    "expected": {
+      "major": "Political Science Major, B.A.",
+      "total_hours": 27.0,
+      "sections": [
+        {
+          "name": "Core Requirements",
+          "missing": [],
+          "satisfied": [
+            "POLI 100",
+            "POLI 150"
+          ],
+          "choose_groups": [
+            {
+              "description": "One course in comparative politics chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [
+                "POLI 130"
+              ],
+              "remaining_options": [
+                "POLI 232",
+                "POLI 233",
+                "POLI 234",
+                "POLI 235",
+                "POLI 236",
+                "POLI 237",
+                "POLI 238",
+                "POLI 239",
+                "POLI 241"
+              ],
+              "met": true,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in political theory chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [
+                "POLI 265"
+              ],
+              "remaining_options": [
+                "POLI 270",
+                "POLI 271",
+                "POLI 272",
+                "POLI 275",
+                "POLI 276",
+                "POLI 280",
+                "POLI 470",
+                "POLI 471",
+                "POLI 472",
+                "POLI 475",
+                "POLI 476",
+                "POLI 478"
+              ],
+              "met": true,
+              "unverifiable_notes": []
+            },
+            {
+              "description": "One course in research methods chosen from: 3",
+              "required_count": 1,
+              "satisfied_options": [
+                "POLI 209"
+              ],
+              "remaining_options": [
+                "POLI 281",
+                "POLI 285",
+                "POLI 287",
+                "POLI 288",
+                "POLI 381",
+                "POLI 417",
+                "POLI 487",
+                "POLI 488",
+                "POLI 691H"
+              ],
+              "met": true,
+              "unverifiable_notes": [
+                "Four political science (POLI) electives at the 100 level or above 1,2 12"
+              ]
+            }
+          ],
+          "unverifiable_notes": [
+            "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:"
+          ]
+        }
+      ]
+    }
+  }
+]

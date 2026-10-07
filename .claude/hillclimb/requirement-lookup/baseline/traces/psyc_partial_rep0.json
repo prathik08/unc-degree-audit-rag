@@ -1,0 +1,27 @@
+[
+  {
+    "role": "system",
+    "content": "You are a UNC Chapel Hill degree-planning assistant for a specific student in the psychology-ba major.\n\nUse check_missing_requirements and check_eligible_next_courses for anything about degree requirements or what to take next - they run exact logic over the real catalog, don't reason about this yourself. Their eligibility check is conservative: `prereqs_definitely_met: false` can mean \"not actually met\" OR \"met via an 'or' alternative the tool couldn't verify automatically\" - read the accompanying `requisites_text` yourself to tell which, and say so in your answer if it's ambiguous rather than guessing.\n\nUse search_courses for open-ended questions about course content or topics (e.g. \"what's a good course about X\"), not for requirement/prereq questions.\n\nAlways cite specific course codes. If a bucket of electives has no structured course list (only a text note), say so explicitly rather than inventing which courses satisfy it. When listing more than a handful of courses, use a markdown table (columns: Code, Status/Notes) instead of a bullet list - it's easier to scan."
+  },
+  {
+    "role": "user",
+    "content": "What do I still need to graduate?"
+  },
+  {
+    "role": "assistant",
+    "content": "I'll check which of your degree requirements are still missing."
+  },
+  {
+    "role": "tool_call",
+    "name": "check_missing_requirements",
+    "content": "{}"
+  },
+  {
+    "role": "tool_result",
+    "content": "{\n  \"major\": \"Psychology Major, B.A.\",\n  \"total_hours\": 41.0,\n  \"sections\": [\n    {\n      \"name\": \"Gateway Course\",\n      \"missing\": [],\n      \"satisfied\": [\n        \"PSYC 101\"\n      ],\n      \"choose_groups\": [],\n      \"unverifiable_notes\": []\n    },\n    {\n      \"name\": \"Core Requirements\",\n      \"missing\": [\n        \"NSCI 221\",\n        \"NSCI 222\",\n        \"NSCI 225\",\n        \"PSYC 220\",\n        \"PSYC 242\",\n        \"PSYC 245\",\n        \"NSCI 225\",\n        \"PSYC 230\",\n        \"PSYC 250\",\n        \"PSYC 260\"\n      ],\n      \"satisfied\": [\n        \"PSYC 210\",\n        \"PSYC 270\"\n      ],\n      \"choose_groups\": [],\n      \"unverifiable_notes\": [\n        \"One course below 400 from four of the five following psychology program areas: 12\",\n        \"Behavioral and Integrative Neuroscience:\",\n        \"Clinical:\",\n        \"Cognitive:\",\n        \"Developmental:\",\n        \"Social:\",\n        \"Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC\\u00a0493 or NSCI\\u00a0493 5 6\",\n        \"One additional PSYC and/or NSCI course above 101; may not include PSYC\\u00a0190 or NSCI\\u00a0190 . 5 3\"\n      ]\n    },\n    {\n      \"name\": \"Additional Requirements\",\n      \"missing\": [\n        \"BIOL 101&101L\"\n      ],\n      \"satisfied\": [],\n      \"choose_groups\": [],\n      \"unverifiable_notes\": [\n        \"One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below) 3\",\n        \"One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major. 3-4\"\n      ]\n    }\n  ]\n}"
+  },
+  {
+    "role": "assistant",
+    "content": "Here's what you still need to graduate with your Psychology B.A.:\n\n## **Gateway Course**\n\u2713 Complete \u2013 you've taken **PSYC 101**\n\n## **Core Requirements** (Missing courses)\nYou need to complete the following specific courses:\n- **NSCI 221**\n- **NSCI 222**\n- **NSCI 225** (listed twice, but only counts once)\n- **PSYC 220**\n- **PSYC 230**\n- **PSYC 242**\n- **PSYC 245**\n- **PSYC 250**\n- **PSYC 260**\n\nYou've already completed **PSYC 210** and **PSYC 270** \u2713\n\n**Plus, you need to satisfy these elective/bucket requirements:**\n- One course below 400 from **four of the five psychology program areas** (Behavioral & Integrative Neuroscience, Clinical, Cognitive, Developmental, Social) \u2013 12 credits required\n- Two additional PSYC and/or NSCI courses numbered 395\u2013699 (excluding PSYC 493 / NSCI 493) \u2013 5-6 credits\n- One additional PSYC and/or NSCI course above 101 (excluding PSYC 190 / NSCI 190) \u2013 5 credits\n\n## **Additional Requirements** (Missing)\n- **BIOL 101 & 101L** (Biology + Lab)\n- One Allied Science course (non-PSYC/NSCI) \u2013 this list is defined separately\n- One additional quantitative reasoning course (FC-QUANT) not used elsewhere\n\nWould you like me to check which of these courses you're eligible to take next, or do you have questions about any specific requirement?"
+  }
+]

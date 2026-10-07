@@ -1,0 +1,203 @@
+{
+  "major": "Biology Major, B.S.",
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/biology-major-bs/",
+  "total_hours": 67.0,
+  "sections": [
+    {
+      "name": "Gateway Course",
+      "required_courses": [
+        {
+          "code": "BIOL 101&101L",
+          "title": "Principles of Biology and Introductory Biology Laboratory",
+          "hours": 4.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": []
+    },
+    {
+      "name": "Core Requirements",
+      "required_courses": [],
+      "choose_groups": [],
+      "notes": []
+    },
+    {
+      "name": "Fundamentals Core Courses",
+      "required_courses": [
+        {
+          "code": "BIOL 103",
+          "title": "How Cells Function",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "BIOL 104",
+          "title": "Biodiversity",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "BIOL 105L",
+          "title": "Biological Research Skills",
+          "hours": 3.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": []
+    },
+    {
+      "name": "Intermediate Level Core Courses",
+      "required_courses": [
+        {
+          "code": "BIOL 220",
+          "title": "Molecular Genetics",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "BIOL 240",
+          "title": "Cell Biology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "BIOL 250",
+          "title": "Evolutionary Biology",
+          "hours": null,
+          "alternatives": []
+        },
+        {
+          "code": "BIOL 260",
+          "title": "Introduction to Ecology",
+          "hours": null,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": [
+        "Two from among the following five options: 3 6-7",
+        "An organismal structure and diversity course (see list below)",
+        "Four biology electives (each of three or more credits) numbered above 200 (not including BIOL\u00a0213 , BIOL\u00a0222 , BIOL\u00a0253 , BIOL\u00a0291 , BIOL\u00a0292 , BIOL\u00a0293 , BIOL\u00a0294 , BIOL\u00a0295 , BIOL\u00a0296 , BIOL 353, a second semester of BIOL\u00a0395 , and BIOL\u00a0495 ). At least two courses in the major must have a laboratory (not including BIOL\u00a0101L or BIOL\u00a0105L ). ENEC\u00a0489 can also count as a biology elective. 4,5 14"
+      ]
+    },
+    {
+      "name": "Additional Requirements",
+      "required_courses": [
+        {
+          "code": "CHEM 101&101L",
+          "title": "General Descriptive Chemistry I and Quantitative Chemistry Laboratory I",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "CHEM 102&102L",
+          "title": "General Descriptive Chemistry II and Quantitative Chemistry Laboratory II",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "CHEM 261",
+          "title": "Introduction to Organic Chemistry I",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "MATH 231",
+          "title": "Calculus of Functions of One Variable I",
+          "hours": 4.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [
+        {
+          "n": 2,
+          "trigger_text": "Two of the following: 6-8",
+          "options": [
+            {
+              "code": "MATH 232",
+              "title": "Calculus of Functions of One Variable II",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 115",
+              "title": "General Physics II: For Students of the Life Sciences",
+              "hours": null,
+              "alternatives": [
+                {
+                  "code": "PHYS 119",
+                  "title": "Introductory Calculus-based Electromagnetism and Quanta"
+                }
+              ]
+            },
+            {
+              "code": "COMP 110",
+              "title": "Introduction to Programming",
+              "hours": null,
+              "alternatives": [
+                {
+                  "code": "COMP 116",
+                  "title": "Introduction to Scientific Programming"
+                },
+                {
+                  "code": "BIOL 222",
+                  "title": "Introduction to Programming with Biological Data"
+                }
+              ]
+            },
+            {
+              "code": "STOR 120",
+              "title": "Foundations of Statistics and Data Science",
+              "hours": null,
+              "alternatives": [
+                {
+                  "code": "STOR 215",
+                  "title": "Foundations of Decision Sciences"
+                },
+                {
+                  "code": "STOR 151",
+                  "title": "Introduction to Data Analysis"
+                },
+                {
+                  "code": "STOR 155",
+                  "title": "Introduction to Data Models and Inference"
+                }
+              ]
+            }
+          ],
+          "notes": []
+        },
+        {
+          "n": 1,
+          "trigger_text": "One of the following: 4",
+          "options": [
+            {
+              "code": "PHYS 114",
+              "title": "General Physics I: For Students of the Life Sciences",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 118",
+              "title": "Introductory Calculus-based Mechanics and Relativity",
+              "hours": null,
+              "alternatives": []
+            }
+          ],
+          "notes": []
+        },
+        {
+          "n": 2,
+          "trigger_text": "A choice of two additional allied sciences electives selected from the course list below (some courses are more than 3 credits) 6",
+          "options": [],
+          "notes": [
+            "Remaining General Education requirements and enough free electives to accumulate 120 academic hours"
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

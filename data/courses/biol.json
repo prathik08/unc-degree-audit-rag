@@ -1,0 +1,2951 @@
+[
+  {
+    "code": "BIOL 53",
+    "title": "First-Year Seminar: Biotechnology: Genetically Modified Foods to the Sequence of the Human Genome",
+    "credits": 3.0,
+    "description": "Restricted to first-year students. Introduction, in a first-year seminar, to recent advances in genetics and cell biology, and discussion and debate concerning how these advances are changing medicine, agriculture, and other aspects of our lives.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 55",
+    "title": "First-Year Seminar: The Roots and Flowering of Civilization: A Seminar on Plants and People",
+    "credits": 3.0,
+    "description": "Restricted to first-year students. The focus of this first-year seminar will be on the transition from hunter-gatherer, the interchange of crops, medicinal and psychoactive plants, and organic vs. industrial farming methods.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 57",
+    "title": "First-Year Seminar: Detecting the Future: Human Diseases and Genetic Tests",
+    "credits": 3.0,
+    "description": "Restricted to first-year students. A first-year seminar focusing on the future of human diseases and genetic tests.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 59",
+    "title": "First-Year Seminar:  Unsolved Problems in the Genomic Age",
+    "credits": 3.0,
+    "description": "We are living in times of a genetic revolution. We have sequenced the human genome and are in a position to transform medical treatment in the world. In spite of the advances in DNA sequencing, there remain mysteries in terms of how the cell accesses genetic information and how our genomes are transmitted to progeny cells with such high fidelity. The principles governing chromosome organization have been discovered through advances in biology, physics, and statistics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 61",
+    "title": "First-Year Seminar: Sea Turtles: A Case Study in the Biology of Conservation",
+    "credits": 3.0,
+    "description": "Restricted to first-year students. An examination of the biology and conservation of sea turtles, with an emphasis on how current scientific research informs conservation practices.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 62",
+    "title": "First-Year Seminar: Mountains Beyond Mountains: Infectious Disease in the Developing World",
+    "credits": 3.0,
+    "description": "Restricted to first-year students. In this course we will examine the challenges of treating infectious disease in the developing world, and explore the root causes of global health care inequity. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 63",
+    "title": "First-Year Seminar: Investigating the Biodiversity Crisis: A Hands-On Approach",
+    "credits": 3.0,
+    "description": "A global biodiversity crisis is unfolding, and species are going extinct at an alarming rate or experiencing large population declines that impact ecosystem function. This class will enable students to: Understand the nature of the on-going biodiversity crisis, its causes, and its place in life's evolutionary history. Appreciate the problems and approaches to studying the biodiversity crisis. Gain hands-on experience identifying biodiversity and working with biodiversity data. Debate and evaluate alternative solutions to biodiversity loss.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 65",
+    "title": "First-Year Seminar: Pneumonia",
+    "credits": 3.0,
+    "description": "Restricted to first-year students. Pneumonia will be a lens to examine a thread of history of biology and medicine. Current research to understand the condition, discover treatment and enact prevention options will be examined.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 66",
+    "title": "First-year seminar: Evolution and the Science of Life",
+    "credits": 3.0,
+    "description": "This interdisciplinary first-year seminar examines the roots, ideas, questions and applications of evolutionary biology. What is evolution, how does it work, and how do we study it? How did modern scientific theories of evolution emerge from the traditions of natural philosophy and natural history? How does studying evolution inform us about adaptation, biological diversity, human origins, disease, aging, sex and culture? First-year seminar.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 68",
+    "title": "A History of Life, the Universe, and Everything",
+    "credits": 3.0,
+    "description": "This seminar introduces students to the continuum of historical change of everything in the cosmos, from the Big Bang to humans. Students will develop new perspectives on 'big' history and learn how scientists from diverse fields (e.g., astronomy, geology, biology, and anthropology) study the past. They will also cultivate skills (oral and written), using science as a way of learning, to analyze the past, and inform the present.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 75",
+    "title": "First-Year Seminar: Biodiversity and Citizen Science",
+    "credits": 3.0,
+    "description": "This seminar will introduce students to the discipline of citizen science as a means to understanding more about biodiversity. Through citizen science, members of the public provide millions of biodiversity observations each year. We will learn about the promise of citizen science for answering important questions in biodiversity science, we will contribute our own observations, and we will learn to analyze citizen science data. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 81",
+    "title": "First-Year Seminar: Intuition, Initiative and Industry: Biologists as Entrepreneurs",
+    "credits": 3.0,
+    "description": "Successful biologists are necessarily entrepreneurs.  This course will explore the parallels between biology and entrepreneurship.  We follow these steps: generating ideas, marketing those ideas, testing them, and producing a product.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 89",
+    "title": "First Year Seminar: Special Topics",
+    "credits": 3.0,
+    "description": "This is a special topics course; content will vary.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 101",
+    "title": "Principles of Biology",
+    "credits": 3.0,
+    "description": "Open to all undergraduates. This course is the prerequisite to most higher courses in biology. An introduction to the fundamental principles of biology, including cell structure, chemistry, and function; genetics; evolution; adaptation; and ecology. (See department concerning Advanced Placement credit.) Three lecture hours a week. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 101L",
+    "title": "Introductory Biology Laboratory",
+    "credits": 1.0,
+    "description": "An examination of the fundamental concepts in biology with emphasis on scientific inquiry. Biological systems will be analyzed through experimentation, dissection, and observation. Three laboratory hours a week. Students may not receive credit for both BIOL\u00a0101L and BIOL\u00a0102L .",
+    "requisites_text": "Pre- or corequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 102L",
+    "title": "Introductory Biology Laboratory with Research",
+    "credits": 1.0,
+    "description": "This Course-based Undergraduate Research Experience (CURE) lab introduces students to the process of science through collaboration on a research project, learning relevant techniques and scientific skills, and presenting research results. Three laboratory hours a week. This lab can be taken in place of BIOL\u00a0101L . Students may not receive credit for both BIOL\u00a0101L and BIOL\u00a0102L .",
+    "requisites_text": "Pre- or corequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 103",
+    "title": "How Cells Function",
+    "credits": 3.0,
+    "description": "This class is designed for first- or second-year students beginning their study of biological sciences. The course will cover both biological concepts and scientific competencies necessary for a foundational mastery of genetics, molecular biology, and cellular biology. For biology majors, this is one of the three mandatory fundamentals courses required before taking relevant 200-level core classes and upper-level electives.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 104",
+    "title": "Biodiversity",
+    "credits": 3.0,
+    "description": "The biological diversity we see on Earth today encompasses a variety of genetic, species, and ecosystem level variation. This course will focus on the biological principles that push biologists to understand what produces and sustains the biodiversity of life on Earth. This class will address key questions about how we identify and measure biological diversity, how it changes over time, and why biological diversity matters as our planet continues to change. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 ; and BIOL\u00a0101L or BIOL\u00a0102L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L"
+    ]
+  },
+  {
+    "code": "BIOL 105L",
+    "title": "Biological Research Skills",
+    "credits": 3.0,
+    "description": "What is research and how is it done? This course aims to give you a first-hand exposure to the scientific approach in real world situations. You will build your science skills toolkit--experimental design, data processing and interpretation, basic statistics, system modeling, interdisciplinary approaches, and science communication and policy--then use it to explore relevant societal issues like global warming, virus evolution and vaccine development, cancer therapeutics, machine learning, and more! Majors only.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 ; and BIOL\u00a0101L or BIOL\u00a0102L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L"
+    ]
+  },
+  {
+    "code": "BIOL 105",
+    "title": "Biological Research Skills",
+    "credits": 2.0,
+    "description": "What is research and how is it done? This course aims to give you a first-hand exposure to the scientific approach in real world situations. You will build your science skills toolkit--experimental design, data processing and interpretation, basic statistics, system modeling, interdisciplinary approaches, and science communication and policy--then use it to explore relevant societal issues like global warming, virus evolution and vaccine development, cancer therapeutics, machine learning, and more! Majors only.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 ; and BIOL\u00a0101L or BIOL\u00a0102L ; Corequisite, BIOL\u00a0105L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 105L"
+    ]
+  },
+  {
+    "code": "BIOL 113",
+    "title": "Issues in Modern Biology",
+    "credits": 3.0,
+    "description": "For students not majoring in biology. Students who have taken any other course in the Department of Biology may not register for this course. Recent advances in the understanding of major principles in biology. Emphasis on genetics and medicine. Does not count as a course in the major. Three lecture hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 115",
+    "title": "Reasoning with Data: Navigating a Quantitative World",
+    "credits": 3.0,
+    "description": "Students will use mathematical and statistical methods to address societal problems, make personal decisions, and reason critically about the world. Authentic contexts may include voting, health and risk, digital humanities, finance, and human behavior. This course does not count as credit towards the psychology or neuroscience majors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 117",
+    "title": "Pre-Health Thrive-1 Considering Health Professions",
+    "credits": 1.0,
+    "description": "This course provides exposure to a variety of health professions, emphasizing ways health care teams work together (interprofessional interactions). Self-assessments will be utilized to examine articulation between strengths and interests and the skills and competencies required in healthcare careers. Throughout the course, practitioners will provide insight into their professions such as allopathic and osteopathic medicine, podiatric medicine, veterinary medicine, optometry, dentistry, pharmacy, nursing, social work, and occupational therapy. Does not count toward major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 118",
+    "title": "Pre-Health Thrive-2 Pursuing Health Professions",
+    "credits": 1.0,
+    "description": "This course will provide guidance to plan a path toward a profession of interest by selecting appropriate course, service, and research opportunities to include in a portfolio useful in completing applications. Application preparation and interview skills will be addressed for health professions programs such as allopathic and osteopathic medicine, podiatric medicine, veterinary medicine, optometry, dentistry, pharmacy, nursing, social work, occupational therapy, and many others. This does not count as a course in the major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 119",
+    "title": "Experiencing Health Professions: A Service-Learning Partnership for Pre-Health Students",
+    "credits": 3.0,
+    "description": "This course provides experiential service opportunities for career exploration with select communities and populations associated with UNC Health. Students will be assigned to a role within the health system and will complete service hours within their assigned role. Class sessions will include topics related to healthcare and will develop skills in reflection, communication, and teamwork for career development.  Does not count as an elective in the BIOL major or minor. It is recommended that students complete BIOL\u00a0117 before enrolling in BIOL\u00a0119 . Permission of instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 150",
+    "title": "The Creativity of Science, or Scientific Thinking in Biology",
+    "credits": 3.0,
+    "description": "This course provides an introduction to the dynamic, creative, and open-ended process that is the scientific method. Through the analysis of news reports and primary scientific literature (covering a range of socially relevant biology topics),  students will learn how to understand and interpret data, gain critical analysis skills, and begin to \"think like scientists.\" Enrollment restricted to first-years and transfer students in their first year at UNC (transfer students, email instructor to be enrolled).",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 185",
+    "title": "Transfer Thrive for Life Science Majors",
+    "credits": 1.0,
+    "description": "This class is designed for transfer students majoring in life science disciplines in their first year at UNC to help them acclimate to the UNC community.  In this course, students will set goals for their time at UNC and beyond, identify effective learning and studying strategies, explore campus resources to support their academic, personal and social success, and review foundational life science concepts while practicing and building skills related to written and/or oral communication, quantitative reasoning, and data analysis and interpretation.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 190",
+    "title": "Special Topics in Biology at an Introductory Level",
+    "credits": 3.0,
+    "description": "Special topics in biology at an introductory level. This course does not count as a course in the biology major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 190L",
+    "title": "Laboratory in Special Topics in Biology at an Introductory Level",
+    "credits": 1.0,
+    "description": "Laboratory in special topics in biology at an introductory level. This course does not count as a course in the biology major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 195",
+    "title": "Introduction to Research",
+    "credits": 1.0,
+    "description": "The research work must involve at least four hours per week of mentored research in a campus research laboratory.  Does not count as a course in the major.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 201",
+    "title": "Ecology and Evolution",
+    "credits": 4.0,
+    "description": "Principles governing the ecology and evolution of populations, communities, and ecosystems, including speciation, population genetics, population regulation, and community and ecosystem structure and dynamics. Three lecture hours and one recitation-demonstration-conference hour a week. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 and CHEM\u00a0101 or 102 ; A grade of C or better in BIOL\u00a0101 and CHEM\u00a0101 or 102 required.",
+    "requisite_codes": [
+      "BIOL 101",
+      "CHEM 101",
+      "CHEM 102",
+      "BIOL 101",
+      "CHEM 101",
+      "CHEM 102"
+    ]
+  },
+  {
+    "code": "BIOL 202",
+    "title": "Molecular Biology and Genetics",
+    "credits": 4.0,
+    "description": "Structure and function of nucleic acids, principles of inheritance, gene expression, and genetic engineering. Three lecture hours and one recitation-demonstration-conference hour a week. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 and CHEM\u00a0101 or 102 ; A grade of C or better in BIOL\u00a0101 and CHEM\u00a0101 or 102 is required.",
+    "requisite_codes": [
+      "BIOL 101",
+      "CHEM 101",
+      "CHEM 102",
+      "BIOL 101",
+      "CHEM 101",
+      "CHEM 102"
+    ]
+  },
+  {
+    "code": "BIOL 204",
+    "title": "The Microbial World:  Foundations in Structure, Metabolism, and Ecology",
+    "credits": 3.0,
+    "description": "This course will provide a basic introduction to microbiology and microbial ecology and evolution, covering topics such as cell structure, energetics, genomics, evolution and gene flow, ecological interactions, population and community dynamics, and biogeochemical cycling.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 or BIOL\u00a0103 ; permission of the instructor.",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 103"
+    ]
+  },
+  {
+    "code": "BIOL 205",
+    "title": "Cellular and Developmental Biology",
+    "credits": 4.0,
+    "description": "Fundamentals of cell structure and activity in relation to special functions, metabolism, reproduction, embryogenesis, and with an introduction to the experimental analysis of cell physiology and development. Three lectures and one recitation-demonstration-conference hour a week. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0202 ; a grade of C- or better in BIOL\u00a0202 is required.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 202"
+    ]
+  },
+  {
+    "code": "BIOL 211",
+    "title": "Introduction to Research in Biology",
+    "credits": 3.0,
+    "description": "Seminar based on current investigations at UNC. Students examine sources of scientific information, explore the logic of investigation, and develop proposals. Students with BIOL\u00a0211 credit may take a maximum of three hours of BIOL\u00a0395 .",
+    "requisites_text": "Prerequisite, BIOL\u00a0201 or 202 ; permission of the instructor for students lacking the prerequisite; Not open to seniors.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202"
+    ]
+  },
+  {
+    "code": "BIOL 213",
+    "title": "Evolution and Life",
+    "credits": 3.0,
+    "description": "For students not majoring in biology. Introduction to the scientific study of biological evolution and its applications. The mechanisms that cause evolution and general patterns of evolution during the history of life. Does not count as a course in the major.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 214H",
+    "title": "Mathematics of Evolutionary Processes",
+    "credits": 3.0,
+    "description": "This Course-based Undergraduate Research Experience (CURE) class teaches students how scientists use mathematics to approach questions in evolutionary biology and ecology. Students learn both biological and mathematical concepts, taught using an array of pedagogical approaches. There are two group projects over the course of the semester, one involving the development of an original mathematical model. Students may not receive credit for both BIOL\u00a0214H and BIOL\u00a0224H .",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 and MATH\u00a0231 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 101",
+      "MATH 231"
+    ]
+  },
+  {
+    "code": "BIOL 217",
+    "title": "The Physician's Garden",
+    "credits": 3.0,
+    "description": "First-year transfer students only. This course combines human cell biology and classical botany elaborating the mode of action of plant metabolites in humans. Hands-on experience includes visits to a pharmaceutical company, a botanical garden, and maintaining the campus medicinal garden.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 220",
+    "title": "Molecular Genetics",
+    "credits": 3.0,
+    "description": "This intermediate-level biology course is geared towards advanced first years, sophomores, and juniors majoring in biology or in related fields. This is a comprehensive course for majors, covering transmission and molecular genetics; DNA replication, repair and mutation; the central dogma, gene regulation mechanisms, and manipulation of genes at the molecular level. We will also learn the impact of molecular genetics on development and disease.  Honors section available. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0103 .",
+    "requisite_codes": [
+      "BIOL 103"
+    ]
+  },
+  {
+    "code": "BIOL 221",
+    "title": "Seafood Forensics",
+    "credits": 3.0,
+    "description": "In this Course-based Undergraduate Research Experience (CURE) class, students will use forensic sciences (primarily DNA barcoding technology) to quantify seafood mislabeling. Students will learn the importance of food labeling as well as its impact on marine ecosystems and human health.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; corequisite, BIOL\u00a0221L ; permission of the instructor for students lacking the requisites.",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 221L"
+    ]
+  },
+  {
+    "code": "BIOL 221L",
+    "title": "Seafood Forensics Laboratory",
+    "credits": 1.0,
+    "description": "In this Course-based Undergraduate Research (CURE) lab, students will use forensic sciences (primarily DNA barcoding technology) to quantify seafood mislabeling.  Students will perform experiments based on hypotheses formulated in the co-requisite lecture course.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; corequisite, BIOL\u00a0221 ; permission of the instructor for students lacking the requisites.",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 221"
+    ]
+  },
+  {
+    "code": "BIOL 222",
+    "title": "Introduction to Programming with Biological Data",
+    "credits": 3.0,
+    "description": "All subdisciplines of biology deal with data. As the amount of data increases, automated methods of reading, manipulating and displaying data are necessary.  This course covers the basics of practical computer programming to deal with this biological data. The emphasis is on learning techniques of reading, manipulating, analyzing and visualizing biological data.  For Biology majors, the course satisfies the computer programming option, but does not count as a biology elective.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 223L",
+    "title": "Molecular Genetics Research Laboratory",
+    "credits": 1.0,
+    "description": "A Course-based Undergraduate Research Experience (CURE), in which students will perform molecular biology and genetics experiments on a topic of current research interest.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Pre- or corequisite, BIOL\u00a0220 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 224H",
+    "title": "The Mathematics of Life",
+    "credits": 3.0,
+    "description": "An accessible treatment of classic mathematical applications to molecules, cells, development, genetics, ecology, and evolution, complementing the material taught in BIOL\u00a0201 , 202 , and 205 . Three lecture hours a week. Students may not receive credit for both BIOL\u00a0224H and BIOL\u00a0214H .",
+    "requisites_text": "Prerequisite, MATH\u00a0231 ; Permission of the instructor for students lacking the prerequisite; Corequisite, BIOL\u00a0224L .",
+    "requisite_codes": [
+      "MATH 231",
+      "BIOL 224L"
+    ]
+  },
+  {
+    "code": "BIOL 224L",
+    "title": "The Mathematics of Life Laboratory",
+    "credits": 1.0,
+    "description": "An accessible treatment of classic mathematical applications to molecules, cells, development, genetics, ecology, and evolution, complementing the material taught in BIOL\u00a0201 , 202 , and 205 . This lab component is programming-based.",
+    "requisites_text": "Prerequisite, MATH\u00a0231 ; Permission of the instructor for students lacking the prerequisite; corequisite, BIOL\u00a0224H .",
+    "requisite_codes": [
+      "MATH 231",
+      "BIOL 224H"
+    ]
+  },
+  {
+    "code": "BIOL 225",
+    "title": "Forensic Biology",
+    "credits": 3.0,
+    "description": "This course is intended to provide hands-on experience to introduce students to ways biology is used in the processing of evidence items from crime scenes in a forensic context. Students will complete the processing and analysis of various pieces of evidence in mock cases, from unpackaging the evidence to writing the final report. Students will explore techniques such as fingerprinting, hair microscopy, bodily fluid screening, and DNA analysis on the appropriate pieces of evidence.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; Corequisite, BIOL\u00a0225L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 225L"
+    ]
+  },
+  {
+    "code": "BIOL 225L",
+    "title": "Forensic Biology Laboratory",
+    "credits": 1.0,
+    "description": "This course is intended to provide hands-on experience to introduce students to ways biology is used in the processing of evidence items from crime scenes in a forensic context. Students will complete the processing and analysis of various pieces of evidence in mock cases, from unpackaging the evidence to writing the final report. Students will explore techniques such as fingerprinting, hair microscopy, bodily fluid screening, and DNA analysis on the appropriate pieces of evidence.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L or BIOL\u00a0101L ; Corequisite, BIOL\u00a0225 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 101L",
+      "BIOL 225"
+    ]
+  },
+  {
+    "code": "BIOL 226",
+    "title": "Mathematical Methods for Quantitative Biology",
+    "credits": 3.0,
+    "description": "Introduction to quantitative biology with emphasis on applications that use mathematical modeling, linear algebra, differential equations, and computer programming. Applications may include neural networks, biomechanics, dispersion, and systems of biochemical reactions. Three lecture hours a week.",
+    "requisites_text": "Prerequisites,  One 200-level BIOL course; and MATH\u00a0210 or MATH\u00a0232 ; Permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0226L .",
+    "requisite_codes": [
+      "MATH 210",
+      "MATH 232",
+      "BIOL 226L"
+    ]
+  },
+  {
+    "code": "BIOL 226L",
+    "title": "Mathematical Methods for Quantitative Biology Laboratory",
+    "credits": 1.0,
+    "description": "Introduction to quantitative biology with emphasis on applications that use mathematical modeling, linear algebra, differential equations, and computer programming. Applications may include neural networks, biomechanics, dispersion, and systems of biochemical reactions. Three laboratory hours a week.",
+    "requisites_text": "Prerequisites,  One 200-level BIOL course; and MATH\u00a0210 or MATH\u00a0232 ; Permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0226 .",
+    "requisite_codes": [
+      "MATH 210",
+      "MATH 232",
+      "BIOL 226"
+    ]
+  },
+  {
+    "code": "BIOL 227L",
+    "title": "Communicating Genome Science",
+    "credits": 3.0,
+    "description": "Being a successful biologist requires decoding knowledge for various audiences via science communication. Students will take part in bioinformatics research through a collaborative genome annotation project. Using these results as a foundation, students will fulfill a CommBeyond requirement by learning and practicing science communication skills to share their work. Students will hone their science literacy and practice science writing, figure design, and crafting messages for broad audiences.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 240",
+    "title": "Cell Biology",
+    "credits": 3.0,
+    "description": "This course will cover both biological concepts and scientific competencies necessary for a foundational mastery of cellular biology. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0103 or BIOL\u00a0202 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 202"
+    ]
+  },
+  {
+    "code": "BIOL 243",
+    "title": "The Cellular Agriculture Revolution",
+    "credits": 3.0,
+    "description": "Learn the foundational biological and chemical processes used to produce cultivated meat.  Lectures will cover state-of-the-art techniques for cultivated meat production and will allow you to think critically about the future of food. Weekly guest speakers will expose students to innovative startups and academic researchers establishing a new paradigm for manufacturing sustainable commodity meat products.  The course will also introduce the environmental, ethical, and economic drivers behind the mission of alternative protein science and technology.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 and BIOL\u00a0101L ; and either BIOL\u00a0103 or BIOL\u00a0205 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 103",
+      "BIOL 205"
+    ]
+  },
+  {
+    "code": "BIOL 250",
+    "title": "Evolutionary Biology",
+    "credits": 3.0,
+    "description": "This course will foster an understanding of how the science of evolutionary biology can be used to understand life on the planet. Topics to be explored include the causes of speciation and extinction, why humans get sick and age, and how genomes evolve. Students will learn how to interpret data from an evolutionary perspective, apply evolutionary principles to applications in medicine, conservation, agriculture and other disciplines, and prepare for more advanced work in biology.",
+    "requisites_text": "Prerequisite, BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 251L",
+    "title": "Human Physiology Virtual Laboratory",
+    "credits": 1.0,
+    "description": "This is a course of simulated laboratory measurements exercises using typical data derived from actual physiological measurements on human subjects. Only offered though continuing education. Students may not receive credit for both BIOL\u00a0251L and BIOL\u00a0252 .",
+    "requisites_text": "Pre- or corequisite,  BIOL 251; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 252",
+    "title": "Fundamentals of Human Anatomy and Physiology",
+    "credits": 3.0,
+    "description": "One biology course over 200 recommended. An introductory but comprehensive course emphasizing the relationship between form and function of the body's organ systems. Three lecture hours each week. Students may not receive credit for BIOL\u00a0252 and BIOL 251 or BIOL\u00a0251L or BIOL 352 or BIOL 353. Note this course is not open to first year students. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; Corequisite, BIOL\u00a0252L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 252L"
+    ]
+  },
+  {
+    "code": "BIOL 252L",
+    "title": "Fundamentals of Human Anatomy and Physiology Laboratory",
+    "credits": 1.0,
+    "description": "Organ level human structure and function. Three laboratory hours a week. Note this course is not open to first year students.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L ; Corequisite, BIOL\u00a0252 ; Permission of the instructor for students lacking the pre- or corequisite.",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 252"
+    ]
+  },
+  {
+    "code": "BIOL 253L",
+    "title": "Advanced Human Anatomy and Physiology Laboratory",
+    "credits": 1.0,
+    "description": "In-depth study of physiological mechanisms by hands-on experimentation. Students gain experience in collecting, analyzing, and presenting human physiological data.  Does not count as a biology elective course for the major or minor.",
+    "requisites_text": "Prerequisites, BIOL\u00a0252 and 252L ; Corequisite, BIOL\u00a0253 .",
+    "requisite_codes": [
+      "BIOL 252",
+      "BIOL 252L",
+      "BIOL 253"
+    ]
+  },
+  {
+    "code": "BIOL 253",
+    "title": "Advanced Human Anatomy and Physiology",
+    "credits": 3.0,
+    "description": "In-depth study of physiological mechanisms at molecular, cellular, and system levels of organization. Students will develop analytical and problem solving skills.  Intended for preprofessional students requiring a second semester of anatomy and physiology. Can be used as an allied science elective but not a biology elective course for the major or minor.",
+    "requisites_text": "Prerequisites, BIOL\u00a0252 and 252L ; Corequisite, BIOL\u00a0253L .",
+    "requisite_codes": [
+      "BIOL 252",
+      "BIOL 252L",
+      "BIOL 253L"
+    ]
+  },
+  {
+    "code": "BIOL 255",
+    "title": "The Evolution of Extraordinary Adaptations",
+    "credits": 4.0,
+    "description": "In this honors Course-based Undergraduate Research (CURE) class, students will learn how to do science. This includes reading the relevant scientific literature, formulating a research question, collecting data, performing statistical analysis, and presenting research results. Students will test new hypotheses in ecology and evolution for spectacular adaptations in organisms using field and laboratory experiments and observations. This course counts as a lab elective for Biology degrees. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 255L",
+    "title": "The Evolution of Extraordinary Adaptions Laboratory",
+    "credits": 1.0,
+    "description": "In this Course-based Undergraduate Research Experience (CURE) lab, students will learn how to do science. This includes formulating a question, collecting data, and statistical analysis, to presenting research results. Students will test new hypotheses in ecology and evolution for spectacular adaptations in the Venus flytrap and the scale-eating pupfish using field and laboratory experiments and observations.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 ; and BIOL\u00a0101L or BIOL\u00a0102L ; Corequisite, BIOL\u00a0255 .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 255"
+    ]
+  },
+  {
+    "code": "BIOL 256",
+    "title": "Mountain Biodiversity",
+    "credits": 4.0,
+    "description": "Introduction to the new field of biodiversity studies, which integrates approaches from systematics, ecology, evolution, and conservation. Taught at off-campus field station.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 260",
+    "title": "Introduction to Ecology",
+    "credits": 3.0,
+    "description": "This course is a survey of the field of ecology intended for undergraduates who are early in their studies of biology. The course will provide a broad and detailed understanding of the field of ecology, including major concepts, broad empirical patterns, important contemporary directions, and ecological applications. Students will read and discuss primary literature, analyze ecological data sets, and consider effective science communication strategies.",
+    "requisites_text": "Prerequisite, BIOL\u00a0104 or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 262H",
+    "title": "Introduction to Programming with Biological Applications",
+    "credits": 3.0,
+    "description": "This course offers an introduction to fundamental computational concepts using Python, a versatile object-oriented scripting language. Students will learn to process and analyze biological and environmental data commonly utilized in biogeographic research. Emphasizing an open-source environment, the course equips students with essential tools for conducting reproducible research. This course offers students an opportunity to explore a real-world research question using the skills learned from class. By cultivating data literacy skills highly sought after in biology and various other fields, this course prepares students to thrive in data-driven disciplines. Students are required to use their own laptops. No prior programming experience.",
+    "requisites_text": "Prerequisites, BIOL\u00a0104 and GIS ( GEOG\u00a0215 / 370 ) are strongly recommended.",
+    "requisite_codes": [
+      "BIOL 104",
+      "GEOG 215",
+      "GEOG 370"
+    ]
+  },
+  {
+    "code": "BIOL 271",
+    "title": "Plant Biology",
+    "credits": 3.0,
+    "description": "Designed for students with an interest in natural sciences. An introduction to the principles of botany including structure, function, reproduction, heredity, environmental relationships, evolution and classification of plants. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L ; corequisite, BIOL\u00a0271L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 271L"
+    ]
+  },
+  {
+    "code": "BIOL 271L",
+    "title": "Plant Biology Laboratory",
+    "credits": 1.0,
+    "description": "Designed for students with an interest in natural sciences. An introduction to the principles of botany including structure, function, reproduction, heredity, environmental relationships, evolution and classification of plants. Three laboratory hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L ; corequisite, BIOL\u00a0271 .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 271"
+    ]
+  },
+  {
+    "code": "BIOL 272",
+    "title": "Local Flora",
+    "credits": 3.0,
+    "description": "Open to all undergraduates.  North Carolina's flora:  recognition, identification, classification, evolution, history, economics, plant families, ecology, and conservation.  Three lecture hours per week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and 101L or 102L ; Corequisite, BIOL\u00a0272L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 272L"
+    ]
+  },
+  {
+    "code": "BIOL 272L",
+    "title": "Local Flora Lab",
+    "credits": 1.0,
+    "description": "Open to all undergraduates. North Carolina's flora: recognition, identification, classification, evolution, history, economics, plant families, ecology, and conservation. Three laboratory hours per week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and 101L or 102L ; Corequisite, BIOL\u00a0272 .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 272"
+    ]
+  },
+  {
+    "code": "BIOL 274",
+    "title": "Plant Diversity",
+    "credits": 3.0,
+    "description": "Survey of major groups of plants emphasizing interrelationships and comparative morphology. Culturing techniques and field work included. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L"
+    ]
+  },
+  {
+    "code": "BIOL 274L",
+    "title": "Plant Diversity Laboratory",
+    "credits": 1.0,
+    "description": "Survey of major groups of plants emphasizing interrelationships and comparative morphology. Culturing techniques and field work included. Three laboratory hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L ; corequisite, BIOL\u00a0274 .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 274"
+    ]
+  },
+  {
+    "code": "BIOL 277",
+    "title": "Vertebrate Field Zoology",
+    "credits": 3.0,
+    "description": "Introduction to the diversity, ecology, behavior, and conservation of living vertebrates. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L"
+    ]
+  },
+  {
+    "code": "BIOL 277L",
+    "title": "Vertebrate Field Zoology Laboratory",
+    "credits": 1.0,
+    "description": "Study of the diversity of vertebrates in the field. Three laboratory and field hours a week, including one or two weekend trips.",
+    "requisites_text": "Corequisite, BIOL\u00a0277 ; Permission of the instructor for students lacking the corequisite.",
+    "requisite_codes": [
+      "BIOL 277"
+    ]
+  },
+  {
+    "code": "BIOL 278",
+    "title": "Animal Behavior",
+    "credits": 3.0,
+    "description": "Introduction to animal behavior with emphases on the diversity and adaptation of behavior in natural conditions. Three lecture hours a week.",
+    "requisites_text": "Prerequisite, BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 278L",
+    "title": "Animal Behavior Laboratory",
+    "credits": 1.0,
+    "description": "Techniques of observation and experiments in animal behavior. Three laboratory hours a week.",
+    "requisites_text": "Pre- or corequisite, BIOL\u00a0278 .",
+    "requisite_codes": [
+      "BIOL 278"
+    ]
+  },
+  {
+    "code": "BIOL 279",
+    "title": "Seminar in Organismal Biology",
+    "credits": 2.0,
+    "description": "Permission of the instructor. An undergraduate course devoted to consideration of pertinent aspects of a selected organismal biological discipline.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 279L",
+    "title": "Topics in Organismal Biology Laboratory",
+    "credits": 1.0,
+    "description": "Permission of the instructor. An undergraduate laboratory course covering aspects of a specific organismal biological discipline. Laboratory reports will be required. Research work is not included in this course.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 290",
+    "title": "Special Topics in Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. An undergraduate seminar course devoted to consideration of pertinent aspects of a selected biological discipline. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 290L",
+    "title": "Special Topics in Biology Laboratory",
+    "credits": 1.0,
+    "description": "Permission of the instructor. An undergraduate laboratory course covering aspects of a specific biological discipline. Laboratory reports will be required. Research work is not included in this course.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 291",
+    "title": "Teaching Apprentice in Biology",
+    "credits": 1.0,
+    "description": "Permission required. 3.0 or higher in course taught. Experience includes preparations, demonstrations, assistance, and attendance at weekly meetings. Apprentices will not be involved in any aspects of grading. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 292",
+    "title": "Teaching Assistant in Biology",
+    "credits": 2.0,
+    "description": "Permission required. 3.0 in course taught. Experience includes weekly meetings, preparations, demonstrations, instruction, and grading.  May be repeated for credit.  Six hours per week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 293",
+    "title": "Undergraduate Internship in Biology",
+    "credits": 3.0,
+    "description": "Biology majors only. The sponsored, off-campus work must involve at least 135 hours. Does not count as a course in the major. Permission of the instructor.",
+    "requisites_text": "Prerequisite, BIOL\u00a0201 or 202 ; or BIOL\u00a0103 or 104 .",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 294",
+    "title": "Service Learning in Biology: APPLES",
+    "credits": 1.0,
+    "description": "Permission of the instructor. APPLES service-learning component for students enrolled in biology courses. Does not count as a course in the major. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 295",
+    "title": "Educational and Social Research in Biology",
+    "credits": 1.0,
+    "description": "This class is for students to pursue educational or social research related to the field of biology under the mentorship of a faculty member in the Department of Biology or another department on campus.  Students mentored on projects by faculty outside the Department of Biology must identify a Department of Biology faculty member to sponsor their research.  This course does not count as a biology elective in the biology major or minor.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 .",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 296",
+    "title": "Directed Readings in Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Extensive and intensive reading of the literature of a specific biological field directly supervised by a member of the biology faculty. Written reports on the readings, or a literature review paper will be required. Cannot be used as a course toward the major. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 340",
+    "title": "Introduction to Developmental Biology",
+    "credits": 3.0,
+    "description": "This is an introduction to developmental biology. Development is where genotype produces phenotype and where the diversity of living forms arises. We will take a comparative view of developmental processes, focusing on common themes across organisms. We will integrate information you will have learned in genetics, cell, and molecular biology, as well as connections to evolutionary concepts like homology. We will build up to an understanding of mammalian development as relevant to human health.",
+    "requisites_text": "Prerequisite, BIOL\u00a0103 , BIOL\u00a0105L , BIOL\u00a0220 ; Pre- or corequisite, BIOL\u00a0240 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 105L",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 350",
+    "title": "Oceanography",
+    "credits": 3.0,
+    "description": "Required preparation, major in a natural science or two courses in natural sciences. Studies origin of ocean basins, seawater chemistry and dynamics, biological communities, sedimentary record, and oceanographic history. Students lacking science background should see EMES\u00a0103 . Students may not receive credit for both EMES\u00a0103 and EMES\u00a0202 . Course previously offered as GEOL 403/MASC 401/EMES 401.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 351",
+    "title": "Frontiers of Fermentation: Microbes and Microbiomes",
+    "credits": 1.0,
+    "description": "Fermentation is a process that requires bacteria, fungi, and other microorganisms to produce diverse chemical changes. Gourmands and everyday consumers can quickly name some of the most popular fermented foods and beverages we consume. The course will analyze the role of microbes in production, preservation, and enhancement of materials across a variety of industries and settings.  Through hands-on exercises, we will experiment with materials to grow our own microbial environments.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101L or BIOL\u00a0102L or permission of instructor; Corequisite, BIOL\u00a0351L .",
+    "requisite_codes": [
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 351L"
+    ]
+  },
+  {
+    "code": "BIOL 351L",
+    "title": "Frontiers of Fermentation: Microbes and Microbiomes Laboratory",
+    "credits": 2.0,
+    "description": "Fermentation is a process that requires bacteria, fungi, and other microorganisms to produce diverse chemical changes. Gourmands and everyday consumers can quickly name some of the most popular fermented foods and beverages we consume. The course will analyze the role of microbes in production, preservation, and enhancement of materials across a variety of industries and settings.  Through hands-on exercises, we will experiment with materials to grow our own microbial environments.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101L or BIOL\u00a0102L or permission of instructor; Corequisite, BIOL\u00a0351 .",
+    "requisite_codes": [
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 351"
+    ]
+  },
+  {
+    "code": "BIOL 390",
+    "title": "Special Topics in Biology",
+    "credits": 1.0,
+    "description": "Special topics course. Content and topics will vary each semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 390L",
+    "title": "Special Topics in Biology Laboratory",
+    "credits": 1.0,
+    "description": "Special topics lab course.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 395",
+    "title": "Undergraduate Research in Biology",
+    "credits": 1.0,
+    "description": "Hands-on research in the laboratory and/or field involving the study of biology.  Requires written paper (first semester) or research poster (second semester). BIOL\u00a0395 counts as one semester of a biology course with a laboratory, but additional research for credit will not count towards the major. Majors only. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0201 ; or BIOL\u00a0202 ; or BIOL\u00a0220 ; or BIOL\u00a0240 ; or BIOL\u00a0250 ; or BIOL\u00a0260 ; or an organismal core course.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 220",
+      "BIOL 240",
+      "BIOL 250",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 402",
+    "title": "Infectious Disease in the Developing World",
+    "credits": 3.0,
+    "description": "We will explore the challenges of infectious disease in the developing world, focusing on tuberculosis, HIV, and malaria. We will also examine the economics of different approaches to health care.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 and BIOL\u00a0240 .",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 405",
+    "title": "Good Genes: Human Reproduction in the Social Context",
+    "credits": 3.0,
+    "description": "Reproduction is the most ancient feature of life and a continued focus of cutting-edge medical technology. This interdisciplinary course examines our biological imperative and cultural quest to make babies. We examine reproduction from the perspectives of bioethics, reproductive medicine, behavioral economics, genetic engineering, disability studies, and gender studies. Teaching methods include traditional lectures, in-class discussions, group work, peer teaching, and occasional flipped-classroom. Students who previously took BIOL\u00a089 / 490 with Dr. Zwemer may not enroll.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 408",
+    "title": "Embryology to Biomedical Frontiers",
+    "credits": 3.0,
+    "description": "Embryology to Biomedical Frontiers offers insightful exploration of developmental biology, tracing life from a single-cell zygote to a fully formed organism. The course emphasizes molecular and cellular processes in animal development, supported by experimental evidence. Students will investigate how advancements in developmental biology inform biomedical research, human biology, and disease mechanisms. Use of genetic animal models will illustrate how complex biological processes are uncovered, highlighting the interplay between developmental biology and innovations across various disciplines. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0220 and BIOL\u00a0240 .",
+    "requisite_codes": [
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 409L",
+    "title": "Art and Science: Merging Printmaking and Biology",
+    "credits": 1.0,
+    "description": "This is the lab component of ARTS\u00a0409 that brings together art majors and science majors to combine theory and practical learning in a biology laboratory, which focusing primarily on microscopic life and biological motion, with printmaking. Does not count as an elective towards the biology major. Permission of the instructor.",
+    "requisites_text": "Prerequisites,  A 200-level BIOL course, or a 200-level ARTS course; and permission of the instructor; Corequisite, ARTS\u00a0409 .",
+    "requisite_codes": [
+      "ARTS 409"
+    ]
+  },
+  {
+    "code": "BIOL 421L",
+    "title": "Bacterial Genetics Laboratory",
+    "credits": 1.0,
+    "description": "Sterile technique, basic bacteriological techniques, spontaneous mutants, conjugation, biochemical pathways, transformation, transposon mutagenesis, characterizing a mutant.",
+    "requisites_text": "Prerequisites, BIOL\u00a0220 and BIOL\u00a0105L ; Corequisite, BIOL\u00a0421 .",
+    "requisite_codes": [
+      "BIOL 220",
+      "BIOL 105L",
+      "BIOL 421"
+    ]
+  },
+  {
+    "code": "BIOL 421",
+    "title": "Bacterial Genetics",
+    "credits": 3.0,
+    "description": "An introduction to the genetics of bacteria.  Gene organization, regulation of gene expression, mutation, movable genetic elements, and evolution.  Consideration of genes involved in pathogenesis.",
+    "requisites_text": "Prerequisite, BIOL\u00a0220 or permission of instructor; Corequisite, BIOL\u00a0421L .",
+    "requisite_codes": [
+      "BIOL 220",
+      "BIOL 421L"
+    ]
+  },
+  {
+    "code": "BIOL 422",
+    "title": "Microbiology",
+    "credits": 3.0,
+    "description": "Bacterial form, growth, physiology, genetics, and diversity. Bacterial interactions including symbiosis and pathogenesis (animal and plant). Use of bacteria in biotechnology. Brief introduction to viruses.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisite(s).",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 422L",
+    "title": "Microbiology Laboratory",
+    "credits": 1.0,
+    "description": "Sterile technique, bacterial growth and physiology, bacterial genetics, bacteriophage, and bacterial diversity.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Pre- or corequisite, BIOL\u00a0422 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 422"
+    ]
+  },
+  {
+    "code": "BIOL 423",
+    "title": "Genetics Experiments",
+    "credits": 3.0,
+    "description": "This is a Course-based Undergraduate Research Experience (CURE) combination course/lab.  Using genetics and genome biology, students will study DNA repair and chromosome stability using yeast as a model system in a cutting edge research laboratory.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0220 ; Corequisite, BIOL\u00a0423L .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 423L"
+    ]
+  },
+  {
+    "code": "BIOL 423L",
+    "title": "Genetics Experiments Laboratory",
+    "credits": 1.0,
+    "description": "This is a Course-based Undergraduate Research Experience (CURE) combination course/lab. Using genetics and genome biology, students will study DNA repair and chromosome stability using yeast as a model system in a cutting edge research laboratory.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0220 , and BIOL\u00a0105L ; Corequisite, BIOL\u00a0423 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 105L",
+      "BIOL 423"
+    ]
+  },
+  {
+    "code": "BIOL 424",
+    "title": "Microbial Ecology",
+    "credits": 3.0,
+    "description": "Class emphasizes the creativity of the scientific process, using primary scientific literature as a framework to discuss topics in microbial ecology, including microbial diversity, distributions, genomics, and co-evolution; host-microbe and microbe-microbe interactions; nutrient cycling; and degradation of plant matter and biofuels.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and 202 ; permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202"
+    ]
+  },
+  {
+    "code": "BIOL 425",
+    "title": "Human Genetics",
+    "credits": 3.0,
+    "description": "Pedigree analysis, inheritance of complex traits, DNA damage and repair, human genome organization, DNA fingerprinting, the genes of hereditary diseases, chromosomal aberrations, cancer and oncogenes, immunogenetics and tissue transplants. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisite(s).",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 426",
+    "title": "Biology of Blood Diseases",
+    "credits": 3.0,
+    "description": "An introduction to the biology and pathophysiology of blood and the molecular mechanisms of some human diseases: anemias; leukemias; hemorrhagic, thrombotic, and vascular disorders; and HIV disease/AIDS. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 427",
+    "title": "Human Diversity and Population Genetics",
+    "credits": 3.0,
+    "description": "Specifically, it addresses questions of human origins, population structure, and genetic diversity. This course investigates the facts, methods, and theories behind human population genetics, evolution, and diversity.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and 202 ; or BIOL\u00a0103 and 104 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 428",
+    "title": "Biology of Viruses",
+    "credits": 3.0,
+    "description": "Historically viruses are microscopic disease-causing vectors that make headlines around the world as they emerge, spread, and evolve. More recently, viruses are being used as therapeutic agents to treat disease. The course will provide a historical perspective of viruses past to present. Students will learn virus history, molecular biology of viruses and infection, discovery and treatment of emerging viruses, and the impact of viruses on society.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , and BIOL\u00a0104 , and either BIOL\u00a0220 or BIOL\u00a0240 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 429",
+    "title": "Human Genetic Diversity",
+    "credits": 3.0,
+    "description": "A population genetics survey of the evolutionary processes that have led to the current genetic diversity in human species.",
+    "requisites_text": "Prerequisite, BIOL\u00a0220 .",
+    "requisite_codes": [
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 430",
+    "title": "Introduction to Biological Chemistry",
+    "credits": 3.0,
+    "description": "The study of cellular processes including catalysts, metabolism, bioenergetics, and biochemical genetics. The structure and function of biological macromolecules involved in these processes is emphasized. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and CHEM\u00a0262 or 262H .",
+    "requisite_codes": [
+      "BIOL 101",
+      "CHEM 262",
+      "CHEM 262H"
+    ]
+  },
+  {
+    "code": "BIOL 431",
+    "title": "Biological Physics",
+    "credits": 3.0,
+    "description": "How diffusion, entropy, electrostatics, and hydrophobicity generate order and force in biology. Topics include DNA manipulation, intracellular transport, cell division, molecular motors, single molecule biophysics techniques, nerve impulses, neuroscience.",
+    "requisites_text": "Prerequisite, PHYS\u00a0119 .",
+    "requisite_codes": [
+      "PHYS 119"
+    ]
+  },
+  {
+    "code": "BIOL 432",
+    "title": "Glia: the Other Brain Cells",
+    "credits": 3.0,
+    "description": "Glial cells make up about half of the brain cells, and it is becoming evident that brain functions depend on glial cells (astrocytes, oligodendrocytes, and microglia). In this course, we will read a series of scientific papers covering glial development and their function in neuronal circuits. Students will be familiar with the current concepts and knowledge of this exciting neuroscience field.",
+    "requisites_text": "Prerequisite, BIOL\u00a0240 or BIOL\u00a0205 .",
+    "requisite_codes": [
+      "BIOL 240",
+      "BIOL 205"
+    ]
+  },
+  {
+    "code": "BIOL 433",
+    "title": "Introduction to Biochemistry for Majors",
+    "credits": 3.0,
+    "description": "Chemistry is the scientific study of the composition and properties of matter and the investigation of the laws that govern them. All chemists have a common core of knowledge, learned through a highly structured sequence of undergraduate courses in which the content is divided into the classical subdisciplines. The B.S. chemistry, biochemistry track degree provides students with the opportunity to specialize in biochemistry and chemical biology. This course is for Chemistry or Biology Majors. All other majors require permission from instructor.",
+    "requisites_text": "Prerequisite, CHEM\u00a0262 (or CHEM\u00a0262H ).",
+    "requisite_codes": [
+      "CHEM 262",
+      "CHEM 262H"
+    ]
+  },
+  {
+    "code": "BIOL 434",
+    "title": "Molecular Biology",
+    "credits": 3.0,
+    "description": "Advanced studies in molecular biology from an experimental approach.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 and CHEM\u00a0261 ; or BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0220 , and CHEM\u00a0261 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "CHEM 261",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "CHEM 261"
+    ]
+  },
+  {
+    "code": "BIOL 436",
+    "title": "Plant Genetics, Development, and Biotechnology",
+    "credits": 3.0,
+    "description": "Recent advances in plant molecular biology, genetics, development, and biotechnology, and their potential relevance to agriculture. The course will include lectures, reading and discussions of papers from the primary literature, and student presentations. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0271 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 271",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 439",
+    "title": "Introduction to Signal Transduction",
+    "credits": 3.0,
+    "description": "This course presents an introduction to signal transduction pathways used by higher eukaryotes. Several signaling paradigms will be discussed to illustrate the ways that cells transmit information. Three lecture hours per week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 440",
+    "title": "Stem Cell Biology",
+    "credits": 3.0,
+    "description": "Stem cells are important for a number of biological processes and have become topics of fascination in popular science and culture. This course will build from a solid foundation of genetics, cell, and developmental biology to give students a broad appreciation of stem cells in development, aging, disease, and bioengineering. Students will understand key concepts in stem cell biology like potential and immortality as well as understand stem cells' promise and limitations in therapeutic settings.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 and ( BIOL\u00a0220 or BIOL\u00a0240 ); or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 441",
+    "title": "Vertebrate Embryology",
+    "credits": 3.0,
+    "description": "Principles of development with special emphasis on gametogenesis, fertilization, cleavage, germ layer formation, organogenesis, and mechanisms, with experimental analysis of developmental processes. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , and BIOL\u00a0104 , and either BIOL\u00a0240 or BIOL\u00a0252 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240",
+      "BIOL 252"
+    ]
+  },
+  {
+    "code": "BIOL 441L",
+    "title": "Vertebrate Embryology Laboratory",
+    "credits": 1.0,
+    "description": "Descriptive and some experimental aspects of vertebrate development. Three laboratory hours a week.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Pre- or corequisite, BIOL\u00a0441 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 441"
+    ]
+  },
+  {
+    "code": "BIOL 442",
+    "title": "Self Assembly in Cell Biology",
+    "credits": 3.0,
+    "description": "In this class, we will read and discuss together the primary literature to understand how self-assembly in cell biology is harnessed in normal cells and goes awry in disease. A secondary goal will be for students to develop numeracy in cell biology so as to understand cell processes in a quantitative framework.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 and another BIOL course numbered above 205; or BIOL\u00a0103 , and BIOL\u00a0104 , and BIOL\u00a0220 or BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 443",
+    "title": "Developmental Biology",
+    "credits": 3.0,
+    "description": "An experimental approach to an understanding of animals and plants. The approach covers developmental processes, molecular, genetic, cell biological and biochemical techniques, with an emphasis on the molecules involved in development.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , and BIOL\u00a0104 , and BIOL\u00a0220 or BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 444",
+    "title": "Molecular Basis of Disease",
+    "credits": 3.0,
+    "description": "This course investigates the biological causes behind human diseases via critical thinking and analysis of experimental research outcomes. It approaches topics from a research perspective similar to a graduate seminar. Topics covered include genetic/inherited diseases, metabolic diseases, immunological disorders, infectious diseases, cancer, cardiovascular diseases, and neurological diseases.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 445",
+    "title": "Cancer Biology",
+    "credits": 3.0,
+    "description": "Selected examples will be used to illustrate how basic research allows us to understand the mechanistic basis of cancer and how these insights offer hope for new treatments.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0220 , and BIOL\u00a0240 .",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 446",
+    "title": "Unsolved Problems in Cellular Biology",
+    "credits": 3.0,
+    "description": "A survey of areas of current interest in cytology, embryology, and genetics with concentration on problems that remain unsolved but that appear to be near solution. Three lecture and discussion hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 447",
+    "title": "Cell Biology: Beyond Core Basics",
+    "credits": 1.0,
+    "description": "Modern methods in cell biology.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 with C+ or better; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0447L .",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240",
+      "BIOL 447L"
+    ]
+  },
+  {
+    "code": "BIOL 447L",
+    "title": "Cell Biology: Beyond Core Basics Laboratory",
+    "credits": 3.0,
+    "description": "Modern methods in cell biology lab.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 with C+ or better; or BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0240 , and BIOL\u00a0105L ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0447 .",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240",
+      "BIOL 105L",
+      "BIOL 447"
+    ]
+  },
+  {
+    "code": "BIOL 448",
+    "title": "Advanced Cell Biology",
+    "credits": 3.0,
+    "description": "An advanced course in cell biology, with emphasis on the biochemistry and molecular biology of cell structure and function. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 449",
+    "title": "Introduction to Immunology",
+    "credits": 3.0,
+    "description": "This course provides a general overview of the evolution, organization, and function of the immune system. Instruction will be inquiry-based with extensive use of informational and instructional technology tools.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 450",
+    "title": "Neurobiology",
+    "credits": 3.0,
+    "description": "Recommended preparation, BIOL\u00a0205 . Survey of neurobiological principles in vertebrates and invertebrates, including development, morphology, physiology, and molecular mechanisms. Three lectures a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 451",
+    "title": "Comparative Physiology",
+    "credits": 3.0,
+    "description": "An examination of the physiology of animals using a comparative approach. Both invertebrate and vertebrate animals are discussed in order to elucidate general principles.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L , and PHYS 104 or 114 or 116, and PHYS 105 or 115 or 117.",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "PHYS 114",
+      "PHYS 115"
+    ]
+  },
+  {
+    "code": "BIOL 451L",
+    "title": "Comparative Physiology Laboratory",
+    "credits": 1.0,
+    "description": "The fundamental principles of physiology are explored using physical models, animal experiments, and non invasive experiments on humans, reinforcing the understanding of concepts presented in lecture.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Pre- or corequisite, BIOL\u00a0451 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 451"
+    ]
+  },
+  {
+    "code": "BIOL 452",
+    "title": "Marine Microbial Symbioses: Exploring How Microbial Interactions Affect Ecosystems and Human Health",
+    "credits": 3.0,
+    "description": "Course material covers host-microbe and microbe-microbe interactions found in marine ecosystems, including beneficial and parasitic relationships among viruses, microbes, marine animals, and humans. Limited to upper-level undergraduate science majors and graduate students. Course previously offered as MASC 446.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 453",
+    "title": "Molecular Control of Metabolism and Metabolic Disease",
+    "credits": 3.0,
+    "description": "This class will cover the small molecules, enzymes, signaling proteins, and pathways that control metabolic processes and that are altered in metabolic disease.  We will generally take an experimental approach to explore and understand the fundamental aspects of metabolism.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 and CHEM\u00a0261 ; or BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0220 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "CHEM 261",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 454",
+    "title": "Evolutionary Genetics",
+    "credits": 3.0,
+    "description": "The roles of mutation, migration, genetic drift, and natural selection in the evolution of the genotype and phenotype. Basic principles are applied to biological studies. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 455",
+    "title": "Behavioral Neuroscience",
+    "credits": 3.0,
+    "description": "The neurobiological basis of animal behavior at the level of single cells, neural circuits, sensory systems, and organisms. Lecture topics range from principles of cellular neurobiology to ethological field studies.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 456",
+    "title": "Marine Phytoplankton",
+    "credits": 3.0,
+    "description": "For junior and senior science majors or graduate students. Biology of marine photosynthetic protists and cyanobacteria. Phytoplankton evolution, biodiversity, structure, function, biogeochemical cycles and genomics. Harmful algal blooms, commercial products, and climate change. Three lecture/practical session hours per week. Course previously offered as MASC 444. Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 457",
+    "title": "Marine Biology",
+    "credits": 3.0,
+    "description": "Recommended preparation, BIOL\u00a0201 or 475 . A survey of plants and animals that live in the sea: characteristics of marine habitats, organisms, and the ecosystems will be emphasized. Marine environment, the organisms involved, and the ecological systems that sustain them. Course previously offered as MASC 442.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 457L",
+    "title": "Marine Biology Lab",
+    "credits": 1.0,
+    "description": "This optional 1-credit lab consists of four virtual classes with a two-day visit to the Institute for Marine Sciences (IMS) to observe coastal habitats and organisms covered in the EMES\u00a0442 lecture. Each lab section is guided by an IMS faculty member to collect and analyze data from mudflats, salt marshes, seagrass beds, oyster reefs, and sandy beaches. The collected data helps students understand seasonal and annual ecosystem changes. By integrating biodiversity data with temperature, water quality, salinity, and shoreline monitoring, students learn about the connections between coastal processes and habitat quality.",
+    "requisites_text": "Pre- or corequisite, EMES\u00a0442 or BIOL\u00a0457 .",
+    "requisite_codes": [
+      "EMES 442",
+      "BIOL 457"
+    ]
+  },
+  {
+    "code": "BIOL 459",
+    "title": "Field Biology at Highlands Biological Station",
+    "credits": 1.0,
+    "description": "Content varies. Summer field biology at the Highlands Biological Station focuses on the special faunal and floristic processes and patterns characteristic of the southern Appalachian mountains. Five lecture and three to five laboratory and field hours per week, depending on credit.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 461",
+    "title": "Fundamentals of Ecology",
+    "credits": 4.0,
+    "description": "Students will develop a comprehensive understanding of the field of ecology, including modern and emerging trends in ecology. They will develop literacy in the fundamental theories and models that capture ecological processes; emphasis will also be placed on the relevance of ecology and ecological research for human society.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0260 .",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 462",
+    "title": "Marine Ecology",
+    "credits": 3.0,
+    "description": "Survey of the ecological processes that structure marine communities in a range of coastal habitats. Course emphasizes experimental approaches to addressing basic and applied problems in marine systems. Course previously offered as MASC 440.",
+    "requisites_text": "Prerequisite, BIOL\u00a0101 ; or instructor may give permission.",
+    "requisite_codes": [
+      "BIOL 101"
+    ]
+  },
+  {
+    "code": "BIOL 463",
+    "title": "Field Ecology",
+    "credits": 4.0,
+    "description": "Application of ecological theory to terrestrial and/or freshwater systems. Lectures emphasize quantitative properties of interacting population and communities within these systems. Required laboratory teaches methodology applicable for analysis of these systems. Projects emphasize experimental testing of ecological theory in the field. Two lecture and six field hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0260 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 464",
+    "title": "Global Change Biology",
+    "credits": 3.0,
+    "description": "Responses of plants, animals, and communities to climate and other global changes, emphasizing ecology, physiology, behavior, and evolution. Investigation of past responses and tools for predicting future responses.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0260 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 465",
+    "title": "Global Biodiversity and Macroecology",
+    "credits": 3.0,
+    "description": "We will explore global patterns of diversity of plants, animals, fungi, and microbes, and the insights gained by taking a statistical approach to describing these and other broad-scale ecological patterns.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0260 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 466",
+    "title": "Environmental Microbiology",
+    "credits": 3.0,
+    "description": "This course surveys multiple dimensions of environmental microbiology, including methods and techniques for microbial genomics, transcriptomics, and metabolomics, ecological and evolutionary microbiology, the roles of microbes in ecological systems, and current applications of and issues in environmental microbiology.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 467",
+    "title": "Computer Programming in Ecology and Population Modeling",
+    "credits": 3.0,
+    "description": "This course should appeal to students interested in ecology, evolution, and organismal biology. Students will learn to develop simulations of individuals moving and reproducing across space, with a focus on exploring ecological theory. The course begins with learning the basics behind coding in Python, including programming basics, flow control, and functions. With these skills, students will then explore theory in population biology to understand the principles behind modeling population growth.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 ; Pre- or corequisite, BIOL\u00a0260 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 468",
+    "title": "Ecology and Evolution of Infectious Diseases",
+    "credits": 3.0,
+    "description": "Students will perform molecular biology and genetics experiments on a topic of current research interest.",
+    "requisites_text": "Prerequisite, BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 469",
+    "title": "Behavioral Ecology",
+    "credits": 3.0,
+    "description": "BIOL\u00a0278 recommended but not required and can be taken concurrently. Behavior as an adaptation to the environment. Evolution of behavioral strategies for survival and reproduction. Optimality and games that animals play. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 ; or BIOL\u00a0103 and BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 471",
+    "title": "Evolutionary Mechanisms",
+    "credits": 3.0,
+    "description": "Introduction to mechanisms of evolutionary change, including natural selection, population genetics, life history evolution, speciation, and micro- and macroevolutionary trends. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0471L .",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 471L"
+    ]
+  },
+  {
+    "code": "BIOL 471L",
+    "title": "Evolutionary Mechanisms Laboratory",
+    "credits": 1.0,
+    "description": "Introduction to mechanisms of evolutionary change, including natural selection, population genetics, life history evolution, speciation, and micro- and macroevolutionary trends. Three laboratory hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0105L ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0471 .",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 105L",
+      "BIOL 471"
+    ]
+  },
+  {
+    "code": "BIOL 472",
+    "title": "Introduction to Plant Taxonomy",
+    "credits": 4.0,
+    "description": "Introduction to the taxonomy of vascular plants. Principles of classification, identification, nomenclature, and description. Laboratory and field emphasis on phytography, families, description, identification, and classification of vascular plant species. Three lecture and three laboratory hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and ( BIOL\u00a0271 or BIOL\u00a0272 ); or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 271",
+      "BIOL 272"
+    ]
+  },
+  {
+    "code": "BIOL 473L",
+    "title": "Mammalian Morphology Laboratory",
+    "credits": 1.0,
+    "description": "Laboratory includes an opportunity for independent investigation of anatomy through dissection, virtual models, and/or 3D modeling.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Corequisite, BIOL\u00a0473 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 473"
+    ]
+  },
+  {
+    "code": "BIOL 473",
+    "title": "Mammalian Morphology and Development",
+    "credits": 3.0,
+    "description": "An in-depth examination of the anatomical, evolutionary, and developmental history of mammals, including humans.  Particular attention will be given to nervous, musculoskeletal and craniofacial structures.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 ; Corequisite, BIOL\u00a0473L .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 473L"
+    ]
+  },
+  {
+    "code": "BIOL 474",
+    "title": "Evolution of Vertebrate Life",
+    "credits": 3.0,
+    "description": "Evolutionary history of the vertebrates. Emphasis on anatomical, physiological, behavioral adaptations accompanying major transitions: the move from water to land, the development of complex integrating systems. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 ; or BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 474L",
+    "title": "Vertebrate Structure and Evolution Laboratory",
+    "credits": 1.0,
+    "description": "Vertebrate comparative anatomy of organ systems and their evolution with emphasis on human anatomy. Three laboratory hours a week.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Pre- or corequisite, BIOL\u00a0474 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 474"
+    ]
+  },
+  {
+    "code": "BIOL 475",
+    "title": "Biology of Marine Animals",
+    "credits": 3.0,
+    "description": "Required preparation, one additional course in biology. An introduction to the major animal phyla emphasizing form, function, behavior, ecology, evolution, and classification of marine invertebrates. Three lecture and three laboratory hours per week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L ; co-requisite, BIOL\u00a0475L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 475L"
+    ]
+  },
+  {
+    "code": "BIOL 475L",
+    "title": "Biology of Marine Animals Laboratory",
+    "credits": 1.0,
+    "description": "This lab serves as an introduction to the major animal phyla emphasizing form, function, behavior, ecology, evolution, and classification of marine invertebrates.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L , BIOL\u00a0105L ; Corequisite, BIOL\u00a0475 .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 105L",
+      "BIOL 475"
+    ]
+  },
+  {
+    "code": "BIOL 476",
+    "title": "Avian Biology",
+    "credits": 3.0,
+    "description": "A study of avian evolution, anatomy, physiology, neurobiology, behavior, biogeography, and ecology.  Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0101 , and BIOL\u00a0101L or BIOL\u00a0102L ; corequisite, BIOL\u00a0476L .",
+    "requisite_codes": [
+      "BIOL 101",
+      "BIOL 101L",
+      "BIOL 102L",
+      "BIOL 476L"
+    ]
+  },
+  {
+    "code": "BIOL 476L",
+    "title": "Avian Biology Laboratory",
+    "credits": 1.0,
+    "description": "Techniques for the study of avian evolution, ecology, and behavior with emphasis on North Carolina birds. Three laboratory or field hours a week, including one or two weekend field trips.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L ; Corequisite, BIOL\u00a0476 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 476"
+    ]
+  },
+  {
+    "code": "BIOL 479",
+    "title": "Topics in Organismal Biology at an Advanced Level",
+    "credits": 3.0,
+    "description": "Topics in organismal biology at an advanced undergraduate or graduate student level.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 479L",
+    "title": "Laboratory in Organismal Biology: Advanced Topics",
+    "credits": 1.0,
+    "description": "Laboratory in topics in organismal biology for advanced undergraduates and graduate students.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L .",
+    "requisite_codes": [
+      "BIOL 105L"
+    ]
+  },
+  {
+    "code": "BIOL 480",
+    "title": "Discoveries in Prevention and Cure of Infectious Disease in London",
+    "credits": 3.0,
+    "description": "This is a Burch summer honors course taught in London. We will examine three major discoveries relating to infectious disease (vaccination, transmission via water, and antibiotics) and one major epidemic (plague) which led to no scientific response and explore how the thought of the time influenced scientific research. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0103 and BIOL\u00a0104 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 481",
+    "title": "Biology, History, and Evolution of Epidemic Diseases",
+    "credits": 3.0,
+    "description": "A consideration of the biology and evolution of epidemic diseases and the response of society and the scientific community. Plague, smallpox, cholera, influenza, polio, and COVID-19. Readings from recent scientific papers and history and literature. Students may not receive credit for both BIOL\u00a0480 and 481 .",
+    "requisites_text": "Prerequisite, BIOL\u00a0422 ; or MCRO\u00a0251 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 422",
+      "MCRO 251"
+    ]
+  },
+  {
+    "code": "BIOL 490",
+    "title": "Advanced Topics in Biology",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Content will vary. Three lecture and discussion hours per week by visiting and resident faculty. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 490L",
+    "title": "Special Topics in Biology Laboratory",
+    "credits": 1.0,
+    "description": "Special topics in biology laboratory.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 495",
+    "title": "Undergraduate Research in Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Biology majors only. A continuation of the hands-on research in the laboratory and/or field that was started in BIOL\u00a0395 . A final written paper is required each term. May be repeated. Does not count as a course in the major. Pass/fail credit only. Honors version available.",
+    "requisites_text": "Prerequisite, BIOL\u00a0395 .",
+    "requisite_codes": [
+      "BIOL 395"
+    ]
+  },
+  {
+    "code": "BIOL 501",
+    "title": "Ethical Issues in Life Sciences",
+    "credits": 3.0,
+    "description": "Permission of the instructor. A consideration and discussion of ethical issues in life sciences including cloning humans, genetic engineering, stem cell research, organ transplantation, and animal experimentation. Counts as a course numbered below 400 for biology major requirements.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 502",
+    "title": "The Genome Editing Revolution",
+    "credits": 3.0,
+    "description": "The goal of this course is to familiarize students with the theory, origins, and practice of genome engineering technologies and their applications in medicine and industry. In addition, we will consider the challenges and impacts to society and the ethical choices these technologies create. This course is intended for advanced undergraduates and graduate students. The course will cover primary literature frequently and evaluate the scientific data in these publications.",
+    "requisites_text": "Prerequisite, BIOL\u00a0220 .",
+    "requisite_codes": [
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 514",
+    "title": "Ecological and Evolutionary Developmental Biology",
+    "credits": 3.0,
+    "description": "This course explores the history, concepts, and applications of the emerging field of ecological and evolutionary developmental biology. In doing so, students will learn how traits emerge from the interplay of genes and the environment and how such developmental plasticity impacts ecology, evolution, and health. Students will also gain experience interpreting scientific literature, planning creative research, and integrating ideas from disciplines ranging from molecular biology and the health sciences to ecology and evolutionary biology. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and BIOL\u00a0205 ; or BIOL\u00a0103 and BIOL\u00a0104 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 523",
+    "title": "Sex Differences in Human Disease",
+    "credits": 3.0,
+    "description": "Many human diseases including cancer, cardiovascular disease, dementia, chronic kidney disease, obesity, and auto-immune disease differ in their pathology and treatment between males and females. The class will first cover the hormonal and genetic mechanisms of sex determination, and then build on this knowledge to understand sexual disparities in the development and potential treatments of disease. The course will be based on primary literature and discussions of experimental evidence.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0205 ; or BIOL\u00a0103 and BIOL\u00a0104 .",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104"
+    ]
+  },
+  {
+    "code": "BIOL 524",
+    "title": "Strategies of Host-Microbe Interactions",
+    "credits": 3.0,
+    "description": "There is great variety in how microbes colonize and live with their hosts. The course will summarize strategies of pathogenicity, symbiosis, commensalism and mutualism. Evolutionary, cellular, and molecular aspects will be analyzed.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 525",
+    "title": "Analysis and Interpretation of Sequence-Based Functional Genomics Experiments",
+    "credits": 3.0,
+    "description": "Practical introduction to functional genomics experiments, such as RNA-seq and ChIP-seq, and computational techniques for the analysis of these data derived from high-throughput sequencing. Interpretation of results will be stressed. Basic knowledge of molecular biology, beginning level computational skills, and familiarity with basic statistical concepts are expected. Three lecture hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 , or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 ; and COMP\u00a0110 or COMP\u00a0116 ; and STOR\u00a0120 or STOR\u00a0155 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0525L .",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "COMP 110",
+      "COMP 116",
+      "STOR 120",
+      "STOR 155",
+      "BIOL 525L"
+    ]
+  },
+  {
+    "code": "BIOL 525L",
+    "title": "Analysis and Interpretation of Sequence-Based Functional Genomics Experiments Laboratory",
+    "credits": 1.0,
+    "description": "Computer lab will provide students with experience using computational software for analysis of functional genomics experiments. Basic knowledge of molecular biology, beginning level computer skills, and familiarity with basic statistical concepts are expected. One laboratory hour a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 , or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 and BIOL\u00a0105L ; and COMP\u00a0110 or COMP\u00a0116 ; and STOR\u00a0120 or STOR\u00a0155 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0525 .",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 105L",
+      "COMP 110",
+      "COMP 116",
+      "STOR 120",
+      "STOR 155",
+      "BIOL 525"
+    ]
+  },
+  {
+    "code": "BIOL 526",
+    "title": "Computational Genetics",
+    "credits": 4.0,
+    "description": "Introduction to computational principles underlying sequence alignment and phylogenetics, genome assembly and annotation, analysis of gene function, and other bioinformatics applications. Includes a one-hour computer laboratory. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0220 ; and COMP\u00a0110 or COMP\u00a0116 or BIOL\u00a0226 ; and STOR\u00a0120 or STOR\u00a0155 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "COMP 110",
+      "COMP 116",
+      "BIOL 226",
+      "STOR 120",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "BIOL 527",
+    "title": "Seminar in Quantitative Biology",
+    "credits": 3.0,
+    "description": "Seminar in quantitative biology for advanced students. The course counts as a quantitative biology course for the major.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 ; and COMP\u00a0110 or COMP\u00a0116 ; and MATH\u00a0232 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "COMP 110",
+      "COMP 116",
+      "MATH 232"
+    ]
+  },
+  {
+    "code": "BIOL 527L",
+    "title": "Laboratory in Quantitative Biology",
+    "credits": 1.0,
+    "description": "Laboratory in quantitative biology for advanced students. The laboratory will involve mathematical analysis and modeling of biological systems and processes.",
+    "requisites_text": "Prerequisite, BIOL\u00a0105L .",
+    "requisite_codes": [
+      "BIOL 105L"
+    ]
+  },
+  {
+    "code": "BIOL 528",
+    "title": "Quantitative Personalized Genomics",
+    "credits": 3.0,
+    "description": "Personalized medicine, specifically using genetic markers to improve outcomes and minimize side effects (pharmacogenomics) requires the development and application of advanced computational and quantitative techniques. Students will develop computational skills to address contemporary genomic and statistical problems.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 , or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 ; and COMP\u00a0110 or COMP\u00a0116 or BIOL\u00a0226 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0528L .",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "COMP 110",
+      "COMP 116",
+      "BIOL 226",
+      "BIOL 528L"
+    ]
+  },
+  {
+    "code": "BIOL 528L",
+    "title": "Quantitative Personalized Genomics Laboratory",
+    "credits": 1.0,
+    "description": "Personalized medicine, specifically using genetic markers to improve outcomes and minimize side effects (pharmacogenomics) requires the development and application of advanced computational and quantitative techniques. Students will develop computational skills to address contemporary genomic and statistical problems in a lab setting.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 , or BIOL\u00a0103 and BIOL\u00a0104 and BIOL\u00a0220 and BIOL\u00a0105L ; and COMP\u00a0110 or COMP\u00a0116 or BIOL\u00a0226 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0528 .",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 105L",
+      "COMP 110",
+      "COMP 116",
+      "BIOL 226",
+      "BIOL 528"
+    ]
+  },
+  {
+    "code": "BIOL 529",
+    "title": "Clinical and Counseling Aspects of Human Genetics",
+    "credits": 3.0,
+    "description": "Topics in clinical genetics including pedigree analysis, counseling/ethical issues, genetic testing, screening, and issues in human research. Taught in a small group format. Active student participation is expected.",
+    "requisites_text": "Prerequisite, BIOL\u00a0425 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 425"
+    ]
+  },
+  {
+    "code": "BIOL 532",
+    "title": "Recent Discoveries in Molecular Biology",
+    "credits": 3.0,
+    "description": "This course examines recent insights into molecular and cellular processes obtained through modern experimental approaches. Extensive reading of primary literature, discussed in a seminar format.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 534",
+    "title": "Mathematical Modeling in the Life Sciences",
+    "credits": 3.0,
+    "description": "Requires some knowledge of computer programming. Model validation and numerical simulations using ordinary, partial, stochastic, and delay differential equations. Applications to the life sciences may include muscle physiology, biological fluid dynamics, neurobiology, molecular regulatory networks, and cell biology.",
+    "requisites_text": "Prerequisites, MATH\u00a0383 and MATH\u00a0347 or MATH\u00a0577 .",
+    "requisite_codes": [
+      "MATH 383",
+      "MATH 347",
+      "MATH 577"
+    ]
+  },
+  {
+    "code": "BIOL 535",
+    "title": "Molecular Biology Techniques",
+    "credits": 4.0,
+    "description": "Recommended preparation, BIOL\u00a0434 . Experiments with bacterial phage, nucleic acid isolation and properties, recombinant DNA techniques, and DNA sequencing. Additional hours in laboratory will be necessary to complete assignments. Permission of the instructor.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 537",
+    "title": "Biotechnology and Synthetic Biology",
+    "credits": 3.0,
+    "description": "Recent advances in biotechnology and synthetic biology, and their potential relevance to medicine, agriculture, and engineering. The course will include lectures, reading and discussions of papers from the primary literature, and student projects and presentations.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 542",
+    "title": "Light Microscopy for the Biological Sciences",
+    "credits": 3.0,
+    "description": "Introduction to various types of light microscopy, digital and video imaging techniques, and their application in biological sciences. Permission of the instructor.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0542L .",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240",
+      "BIOL 542L"
+    ]
+  },
+  {
+    "code": "BIOL 542L",
+    "title": "Light Microscopy for the Biological Sciences Lab",
+    "credits": 1.0,
+    "description": "Light microscopy is at the core of molecular, cell and developmental biology research, and provides us with invaluable tools to investigate biological processes. This class covers light microscopy techniques currently used in research laboratories, from basic to cutting-edge, through hands-on experience on a variety of light microscopes. We will use a rail-based teaching microscope to illustrate basic light microscopy principles, as well as research-grade commercial microscopes.",
+    "requisites_text": "Prerequisites, BIOL\u00a0105L , BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or instructor may give permission for students lacking the prerequisites; Corequisite, BIOL\u00a0542 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240",
+      "BIOL 542"
+    ]
+  },
+  {
+    "code": "BIOL 543",
+    "title": "Cardiovascular Biology",
+    "credits": 3.0,
+    "description": "An experimental approach to understanding cardiovascular development, function, and disease. It covers cardiovascular development (heart, blood vasculature, lymphatic vasculature) and cardiovascular function as linked to selected diseases. Focus on molecular, genetic, cell biological, and biochemical techniques used to study the cardiovascular system, with an emphasis on the genes and signaling pathways involved in cardiovascular development and disease. Most topics will be paired with a research paper from the primary literature. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0220 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 544L",
+    "title": "Laboratory in Diseases of the Cytoskeleton",
+    "credits": 3.0,
+    "description": "This laboratory course offers students the chance to engage in cutting-edge biochemical and cell biological research related to ongoing cytoskeletal research projects in the labs of two UNC faculty members. The course is composed of lectures and laboratory research. Students will become involved in all scientific processes: analysis of prior work, hypothesis generation and testing, data analysis and quantitation, and the presentation of data and conclusions.",
+    "requisites_text": "Prerequisites, BIOL\u00a0105L , BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or instructor may give permission for students lacking the prerequisites; Corequisite, BIOL\u00a0544 .",
+    "requisite_codes": [
+      "BIOL 105L",
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240",
+      "BIOL 544"
+    ]
+  },
+  {
+    "code": "BIOL 544",
+    "title": "Lecture in Diseases of the Cytoskeleton",
+    "credits": 1.0,
+    "description": "This lecture course is a co-requisite to BIOL544L, and offers students the chance to engage in cutting-edge biochemical and cell biological research related to ongoing cytoskeletal research projects in the labs of two UNC faculty members. The course is composed of lectures and laboratory research. Students will become involved in all scientific processes: analysis of prior work, hypothesis generation and testing, data analysis and quantitation, and the presentation of data and conclusions.",
+    "requisites_text": "Corequisite, BIOL\u00a0544L .",
+    "requisite_codes": [
+      "BIOL 544L"
+    ]
+  },
+  {
+    "code": "BIOL 545",
+    "title": "Exploring Brain, Gut, and Immunity",
+    "credits": 3.0,
+    "description": "The course will explore topics that relate to how the brain and the gut communicate with one another.  The course will also examine the connection between the brain-gut axis to the immune system and the microbiota at a molecular, cellular, and organismal level.  Students will survey these emerging research topics and critically think, critique, and understand the experimental evidence for what we understand today about the gut and brain relationship. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , and BIOL\u00a0104 , and BIOL\u00a0220 or BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 546",
+    "title": "Biology of Aging",
+    "credits": 3.0,
+    "description": "This course is designed for undergraduate or graduate students who are interested in understanding how aging is controlled at an advanced level. Emphasis will be placed on molecular and cellular mechanisms of aging in metazoans. Emphasis will also be placed on healthy aging and on how progress and discoveries are made in the field of aging. This course is based on scientific research or review papers and has no textbook.",
+    "requisites_text": "Prerequisites, BIOL\u00a0205 ; or BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 547",
+    "title": "Synaptic Plasticity: Analysis of Primary Literature",
+    "credits": 3.0,
+    "description": "In this highly interactive, small-group course, we will read a series of scientific papers that elegantly demonstrate molecular events that are fundamental to synaptic plasticity, a key mechanism of learning and memory.  Students will become familiar with this exciting neuroscience topic, and also learn how to interpret experimental data and read papers critically and objectively.  We will also think about the future experiments suggested by each paper we read.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 ; or BIOL\u00a0103 , and BIOL\u00a0104 , and BIOL\u00a0220 or BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 551",
+    "title": "Comparative Biomechanics",
+    "credits": 3.0,
+    "description": "The structure and function of organisms in relation to the principles of fluid mechanics and solid mechanics.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and either PHYS\u00a0114 or PHYS\u00a0118 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "PHYS 114",
+      "PHYS 118"
+    ]
+  },
+  {
+    "code": "BIOL 552",
+    "title": "Behavioral Endocrinology",
+    "credits": 3.0,
+    "description": "Undergraduates need permission of the instructor to enroll. The study of the interactions among hormones, the brain, and behavior from how hormones shape the development and expression of behaviors to how behavioral interactions regulate endocrine physiology.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and BIOL\u00a0278 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 278"
+    ]
+  },
+  {
+    "code": "BIOL 553",
+    "title": "Mathematical and Computational Models in Biology",
+    "credits": 3.0,
+    "description": "This course introduces analytical, computational, and statistical techniques, such as discrete models, numerical integration of ordinary differential equations, and likelihood functions, to explore various fields of biology.",
+    "requisites_text": "Prerequisites,  ( BIOL\u00a0201 and BIOL\u00a0202 ) or ( BIOL\u00a0103 and BIOL\u00a0104 ); and MATH\u00a0231 ; and ( MATH\u00a0232 or STOR\u00a0120 or STOR\u00a0155 ); or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "MATH 231",
+      "MATH 232",
+      "STOR 120",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "BIOL 553L",
+    "title": "Mathematical and Computational Models in Biology Laboratory",
+    "credits": 1.0,
+    "description": "This lab introduces analytical, computational, and statistical techniques, such as discrete models, numerical integration of ordinary differential equations, and likelihood functions, to explore various fields of biology.",
+    "requisites_text": "Prerequisites,  ( BIOL\u00a0201 and 202 ) or BIOL\u00a0103 and BIOL\u00a0104 ); and MATH\u00a0231 ; and ( MATH\u00a0232 or STOR\u00a0120 or STOR\u00a0155 ); or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0553 /MATH 553.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202",
+      "BIOL 103",
+      "BIOL 104",
+      "MATH 231",
+      "MATH 232",
+      "STOR 120",
+      "STOR 155",
+      "BIOL 553"
+    ]
+  },
+  {
+    "code": "BIOL 554",
+    "title": "Introduction to Computational Neuroscience",
+    "credits": 3.0,
+    "description": "This course covers various mathematical tools and techniques for modeling the various elements and phenomena that comprise the nervous system and brain.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 ; and BIOL\u00a0220 or BIOL\u00a0250 ; and MATH\u00a0231 ; and COMP\u00a0110 or COMP\u00a0116 or BIOL\u00a0226 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "BIOL 250",
+      "MATH 231",
+      "COMP 110",
+      "COMP 116",
+      "BIOL 226"
+    ]
+  },
+  {
+    "code": "BIOL 555",
+    "title": "Paleobotany: An Introduction to the Past History of Plants",
+    "credits": 3.0,
+    "description": "An introduction to the fossil record of plants, investigating how plants originated and changed through geological time to produce the modern flora.  Both macrofossils and microfossils will be considered.  Three lecture hours a week. Previously offered as GEOL 555.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and either BIOL\u00a0250 or BIOL\u00a0271 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0555L ; permission of the instructor for students lacking the requisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 250",
+      "BIOL 271",
+      "BIOL 555L"
+    ]
+  },
+  {
+    "code": "BIOL 555L",
+    "title": "Paleobotany: An Introduction to the Past History of Plants Laboratory",
+    "credits": 1.0,
+    "description": "The laboratory involves learning how to locate, collect, prepare, and analyze fossil plants; it also provides fossils that illustrate topics covered in lecture. Students will be involved in field trips to fossil sites and museums to learn about fossil curation and display of fossils for public education. Three laboratory hours a week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0105L , and BIOL\u00a0250 or BIOL\u00a0271 ; or permission of the instructor for students lacking the prerequisites; Corequisite, BIOL\u00a0555 .",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 105L",
+      "BIOL 250",
+      "BIOL 271",
+      "BIOL 555"
+    ]
+  },
+  {
+    "code": "BIOL 557",
+    "title": "Ecological Niche Modeling and Species' Distributions",
+    "credits": 3.0,
+    "description": "This course will introduce students to theoretical aspects of ecological niche modeling, as well as commonly used biodiversity and GIS data (e.g. climatic, topographic). Students will learn how to generate niche models and distribution predictions, and will use them to address questions related to species' ecology, conservation, and biogeography. This course will also have an emphasis in model construction and model validation, which could be applied to many other fields. Prior introductory knowledge of programming and GIS is preferred (not required).",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 561",
+    "title": "Ecological Plant Geography",
+    "credits": 3.0,
+    "description": "Description of the major vegetation types of the world including their distribution, structure, and dynamics. The principal causes for the distribution of plant species and communities, such as climate, soils, and history will be discussed.",
+    "requisites_text": "Prerequisites, GEOG\u00a0110 ; or BIOL\u00a0103 , 104 , and 260 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "GEOG 110",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 562",
+    "title": "Statistics for Environmental Scientists",
+    "credits": 4.0,
+    "description": "Introduction to the application of quantitative and statistical methods in environmental science, including environmental monitoring, assessment, threshold exceedance, risk assessment, and environmental decision making.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 , and either STOR\u00a0120 or STOR\u00a0155 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "STOR 120",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "BIOL 563",
+    "title": "Statistical Analysis in Ecology and Evolution",
+    "credits": 4.0,
+    "description": "Application of modern statistical analysis and data modeling in ecological and evolutionary research. Emphasis is on computer-intensive methods and model-based approaches. Familiarity with standard parametic statistics is assumed.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , MATH\u00a0231 , and either STOR\u00a0120 or STOR\u00a0155 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "MATH 231",
+      "STOR 120",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "BIOL 564",
+    "title": "Population Ecology",
+    "credits": 3.0,
+    "description": "Corequisite, BIOL 546L. Principles governing the phenomena of single and interacting populations are examined, from basic tenets to cutting-edge research questions. Population and community-level perspectives are integrated by drawing parallels between approaches and considering how to scale up from phenomena involving one or a few species to the structure and dynamics of whole communities. This course is intended for advanced undergraduate and beginning graduate students. Emphasis will be on theoretical concepts and corresponding mathematical approaches.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 , BIOL\u00a0260 recommended.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 564L",
+    "title": "Population Ecology Lab",
+    "credits": 1.0,
+    "description": "Corequisite, BIOL\u00a0564 . In this laboratory course, students will understand the assumptions and predictions of core models in population and community ecology (and in general terms, how the predictions are derived from the models), and the role of these models and others like them in the development and testing of the theory of populations and communities, i.e. in the \"core ideas\" of population and community ecology. Permission of the instructor for those lacking the prerequisites.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 and BIOL\u00a0104 , BIOL\u00a0260 recommended.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 565",
+    "title": "Conservation Biology",
+    "credits": 3.0,
+    "description": "The application of biological science to the conservation of populations, communities, and ecosystems, including rare species management, exotic species invasions, management of natural disturbance, research strategies, and preserve design principles. Honors version available.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and either BIOL\u00a0250 or BIOL\u00a0260 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 250",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 567",
+    "title": "Evolutionary Ecology",
+    "credits": 3.0,
+    "description": "Advanced consideration of the evolution of form and function. May include issues in life-history evolution, evolutionary physiology, evolutionary morphology, and the evolution of complexity. Three lecture hours per week.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and either BIOL\u00a0250 or BIOL\u00a0260 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 250",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 568H",
+    "title": "Disease Ecology and Evolution",
+    "credits": 3.0,
+    "description": "Recommended preparation, one course above 400 in ecology or evolution. An advanced class covering the causes and consequences of infectious disease at the levels of whole organisms, populations, communities, and ecosystems. Previously offered as BIOL 568.",
+    "requisites_text": "Prerequisites, BIOL\u00a0201 and MATH\u00a0231 ; or BIOL\u00a0103 , BIOL\u00a0104 , BIOL\u00a0260 and MATH\u00a0231 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 201",
+      "MATH 231",
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 260",
+      "MATH 231"
+    ]
+  },
+  {
+    "code": "BIOL 590",
+    "title": "Advanced Special Topics in Biology",
+    "credits": 3.0,
+    "description": "Special topics in biology for advanced undergraduate students and graduate students.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 590L",
+    "title": "Laboratory in Advanced Special Topics in Biology",
+    "credits": 1.0,
+    "description": "Laboratory at an advanced level in special topics in biology.  Students should have had considerable previous laboratory experience.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 602",
+    "title": "Professional Development Skills for Ecologists and Biologists",
+    "credits": 3.0,
+    "description": "The goal of this course is to help students who intend to become professional ecologists or biologists acquire critical skills and strategies needed for achieving their career goals.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 603",
+    "title": "MiBio Seminar",
+    "credits": 2.0,
+    "description": "This class is designed to 1) enhance students' ability to present scientific material to their peers in a comprehensive, cohesive manner, 2) familiarize students with scientific concepts and technologies used in multiple disciplines, 3) expose students to cutting edge research, 4) prepare students to gain substantial meaning from seminars and to ask questions, and 5) enhance students' ability to evaluate scientific papers and seminars.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 604",
+    "title": "Laboratory Practices for New Investigators",
+    "credits": 1.0,
+    "description": "Required preparation, participation in an ongoing laboratory research project. Permission of the instructor. A seminar course designed to introduce students to approaches and methods needed in carrying out an independent research project in a particular focus area of biology. For advanced undergraduates and graduate students.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 605",
+    "title": "Reading and Writing Scientific Literature",
+    "credits": 1.0,
+    "description": "A seminar course designed to introduce students to how to read and write scientific papers. For advanced undergraduates and graduate students.",
+    "requisites_text": "Prerequisite, BIOL\u00a0201 or 202 .",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 202"
+    ]
+  },
+  {
+    "code": "BIOL 620",
+    "title": "Bacterial Genetics with Emphasis on Pathogenic and Symbiotic Interactions",
+    "credits": 3.0,
+    "description": "Molecular genetics of bacteria. The emphasis will be on pathogenic and symbiotic interactions of bacteria with eukaryotes, although other aspects of bacterial genetics will be considered.",
+    "requisites_text": "Prerequisites, BIOL\u00a0103 , BIOL\u00a0104 , and one of BIOL\u00a0220 , MCRO\u00a0251 , or EMES\u00a0204 ; or permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 103",
+      "BIOL 104",
+      "BIOL 220",
+      "MCRO 251",
+      "EMES 204"
+    ]
+  },
+  {
+    "code": "BIOL 621",
+    "title": "Principles of Genetic Analysis I",
+    "credits": 4.0,
+    "description": "Genetic principles of genetic analysis in prokaryotes and lower eukaryotes.",
+    "requisites_text": "Prerequisite, BIOL\u00a0202 or BIOL\u00a0220 ; or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 220"
+    ]
+  },
+  {
+    "code": "BIOL 622",
+    "title": "Principles of Genetic Analysis II",
+    "credits": 4.0,
+    "description": "Principles of genetic analysis in higher eukaryotes; genomics.",
+    "requisites_text": "Prerequisite, BIOL\u00a0621 .",
+    "requisite_codes": [
+      "BIOL 621"
+    ]
+  },
+  {
+    "code": "BIOL 624",
+    "title": "Developmental Genetics",
+    "credits": 3.0,
+    "description": "Permission of the instructor for undergraduates. Genetic and molecular control of plant and animal development. Extensive reading from primary literature.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 625",
+    "title": "Seminar in Genetics",
+    "credits": 2.0,
+    "description": "Permission of the instructor for undergraduates. Current and significant problems in genetics. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 631",
+    "title": "Advanced Molecular Biology",
+    "credits": 4.0,
+    "description": "This course explores cutting edge research in molecular biology -- the investigation at molecule-scale of the mechanisms behind life. We briefly review core-principles in molecular biology, then investigate more recent research that extends or overturns these core principles.",
+    "requisites_text": "Prerequisites, BIOL\u00a0202 , or BIOL\u00a0220 , or CHEM\u00a0430 , and permission of the course director.",
+    "requisite_codes": [
+      "BIOL 202",
+      "BIOL 220",
+      "CHEM 430"
+    ]
+  },
+  {
+    "code": "BIOL 632",
+    "title": "Advanced Molecular Biology II",
+    "credits": 3.0,
+    "description": "Required preparation for undergraduates, at least one undergraduate course in both biochemistry and genetics. The purpose of this course is to provide historical, basic, and current information about the flow and regulation of genetic information from DNA to RNA in a variety of biological systems. Three lecture hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 635",
+    "title": "Careers in Biotechnology",
+    "credits": 1.0,
+    "description": "This seminar course will provide graduate and advanced undergraduate students information on career opportunities and culture in the field of biotechnology.  The instructor and guest lecturers will present examples of global challenges addressed by modern biotechnology, and how research and development are carried out in the industry.  Students will develop and present their own plan for a new biotechnology venture.  Does not count within the Biology major or minor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 639",
+    "title": "Seminar in Plant Molecular and Cell Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. May be repeated for credit. Current and significant problems in plant molecular and cell biology are discussed in a seminar format. Can count as BIOL elective credit in the major if combined with other 600-level courses for a total of three credit hours.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 642",
+    "title": "Advanced Studies of Cell Division",
+    "credits": 3.0,
+    "description": "An advanced course in cell and molecular biology integrating genetic, biochemical, and structural aspects of the cell cycle. Principles derived from a variety of biological systems. Extensive reading of classic papers as well as recent literature.",
+    "requisites_text": "Prerequisite, BIOL\u00a0205 or BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 649",
+    "title": "Seminar in Cell Biology",
+    "credits": 2.0,
+    "description": "May be repeated for credit. Can count as BIOL elective credit in the major if combined with other 600-level courses for a total of three credit hours.",
+    "requisites_text": "Prerequisite, BIOL\u00a0205 or BIOL\u00a0240 ; or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 205",
+      "BIOL 240"
+    ]
+  },
+  {
+    "code": "BIOL 650",
+    "title": "Animal Cognition",
+    "credits": 3.0,
+    "description": "For advanced undergraduates and graduate students. The goal of the course is to gain an in-depth understanding of animal cognition in the context of evolution and neurobiology with an emphasis on recent research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 657",
+    "title": "Biological Oceanography",
+    "credits": 4.0,
+    "description": "For undergraduate (juniors and seniors) and graduate students. Marine ecosystem processes pertaining to the structure, function, and ecological interactions of biological communities; management of biological resources; taxonomy and natural history of pelagic and benthic marine organisms. Three lecture and recitation hours per week. One mandatory weekend field trip. Course previously offered as MASC 504.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 659",
+    "title": "Seminar in Evolutionary Biology",
+    "credits": 2.0,
+    "description": "Permission of the instructor. Advanced studies in evolutionary biology. Can count as BIOL elective credit in the major if combined with other 600-level courses for a total of three credit hours.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 661",
+    "title": "Plant Ecology",
+    "credits": 4.0,
+    "description": "Consideration of terrestrial, vascular plant ecology including environmental physiology, population dynamics, and community structure. Laboratory stresses collection and interpretation of field data. Three lecture and three laboratory hours a week.",
+    "requisites_text": "Prerequisite, BIOL\u00a0260 ; or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 669",
+    "title": "Seminar in Ecology",
+    "credits": 1.0,
+    "description": "May be repeated for credit.",
+    "requisites_text": "Prerequisite, BIOL\u00a0201 or BIOL\u00a0260 ; or permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 201",
+      "BIOL 260"
+    ]
+  },
+  {
+    "code": "BIOL 680",
+    "title": "Advanced Seminar in Recent Biological Research and Methods",
+    "credits": 1.0,
+    "description": "Permission of the instructor. The course will cover topics and experimental approaches of current interest. Students will learn intellectual and practical aspects of cutting-edge topics in biology. It will meet for one hour per week, in a lecture and discussion format.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 690",
+    "title": "Advanced Special Topics with an Emphasis on Recent Research",
+    "credits": 3.0,
+    "description": "Permission of the instructor.  Special topics in biology with an emphasis on recent research.  For advanced undergraduates and graduate students.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 692H",
+    "title": "Senior Honors Thesis in Biology",
+    "credits": 3.0,
+    "description": "Preparation of a written and oral presentation of honors thesis research. Research must continue in the same laboratory used in BIOL\u00a0395 . Senior biology majors only (first or second majors). Required of all candidates for Highest Honors or Honors. Can be taken in either the fall or spring semester of their senior year. Approval of the Biology Honors Director required. Permission of a faculty research director and three credit hours of BIOL\u00a0395 in the same laboratory required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 701",
+    "title": "Overview of Biology",
+    "credits": 1.0,
+    "description": "Biology faculty will present individual research presentations followed by discussion.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 702",
+    "title": "Student Seminars",
+    "credits": 1.0,
+    "description": "Required of all candidates for the degree in genetics.  A course to provide public lecture experience to advanced genetics students. Students present personal research seminars based on their individual dissertation projects.  Lectures are privately critiqued by fellow students and genetics faculty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 703",
+    "title": "Recent Advances in Biology",
+    "credits": 1.0,
+    "description": "A consideration of the methods and literature involved in the latest advances in selected areas of biology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 704",
+    "title": "Seminars in Biophysics",
+    "credits": 2.0,
+    "description": "Permission of the instructor. Students present seminars coordinated with the visiting lecturer series of the Program in Molecular and Cellular Biophysics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 705",
+    "title": "Best Practices for Rigor and Reproducibility in Research",
+    "credits": 1.0,
+    "description": "A workshop to introduce best practices for increasing rigor and reproducibility in research. Permission of course directors required.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 711",
+    "title": "Genetic Lecture Series",
+    "credits": 1.0,
+    "description": "Diverse but current topics in all aspects of genetics. Relates new techniques and current research of notables in the field of genetics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 713",
+    "title": "Student Seminars",
+    "credits": 1.0,
+    "description": "Required of all candidates for the degree in genetics. A course to provide public lecture experience to advanced genetics students. Students present personal research seminars based on their individual dissertation projects. Lectures are privately critiqued by fellow students and genetics faculty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 758",
+    "title": "Molecular Population Biology",
+    "credits": 4.0,
+    "description": "Hands-on training, experience, and discussion of the application of molecular genetic tools to questions of ecology, evolution, systematics, and conservation.",
+    "requisites_text": "Prerequisite, BIOL\u00a0471 ; Permission of the instructor for students lacking the prerequisites.",
+    "requisite_codes": [
+      "BIOL 471"
+    ]
+  },
+  {
+    "code": "BIOL 801",
+    "title": "Seminar in Biological Sciences",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in interdisciplinary biological sciences.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 810",
+    "title": "Seminar in College Science Teaching",
+    "credits": 2.0,
+    "description": "This interactive course will help graduate students develop the knowledge and skills needed to implement student-centered science instruction at the university level. Participants will support one another in creating a teachable unit, a personal teaching philosophy statement, and a course syllabus.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 829",
+    "title": "Seminar in Quantitative Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in quantitative biology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 831",
+    "title": "Seminar in Insect Physiology, Biochemistry, and Endocrinology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in insect physiology, biochemistry, and endocrinology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 832",
+    "title": "Seminar in Molecular Biology",
+    "credits": 1.0,
+    "description": "Advanced seminar in molecular biology.",
+    "requisites_text": "Prerequisite, BIOL\u00a0202 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 202"
+    ]
+  },
+  {
+    "code": "BIOL 841",
+    "title": "Seminar in Embryology",
+    "credits": 1.0,
+    "description": "Advanced seminar in embryology.",
+    "requisites_text": "Prerequisite, BIOL\u00a0205 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 205"
+    ]
+  },
+  {
+    "code": "BIOL 842",
+    "title": "Seminar in Cell Biology and Biochemistry",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in cell biology and biochemistry.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 845",
+    "title": "Advanced Seminar in Neurobiology",
+    "credits": 2.0,
+    "description": "Advanced seminar in Neurobiology. Students should have previous experience in Neurobiology courses or research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 852",
+    "title": "Seminar in Plant Systematics",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in plant systematics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 853",
+    "title": "Seminar in Plant Morphology and Anatomy",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in plant morphology and anatomy.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 854",
+    "title": "Seminar in Neurophysiology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in neurophysiology. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 855",
+    "title": "Seminar in Invertebrate Zoology",
+    "credits": 1.0,
+    "description": "Advanced seminar in invertebrate zoology. May be repeated for credit.",
+    "requisites_text": "Prerequisite, BIOL\u00a0475 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 475"
+    ]
+  },
+  {
+    "code": "BIOL 856",
+    "title": "Seminar in Vertebrate Evolutionary Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in vertebrate evolutionary biology. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 857",
+    "title": "Seminar in Comparative Animal Behavior",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in comparative animal behavior. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 858",
+    "title": "Seminar in Comparative Physiology",
+    "credits": 1.0,
+    "description": "Advanced seminar in comparative physiology.",
+    "requisites_text": "Prerequisite, BIOL\u00a0451 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOL 451"
+    ]
+  },
+  {
+    "code": "BIOL 859",
+    "title": "Seminar in Marine Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Advanced seminar in marine biology. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 861",
+    "title": "Statistical Analysis in Ecology and Evolution using R",
+    "credits": 1.0,
+    "description": "Graduate standing in biology, ecology or genetics required. Introduction to statistical analysis and modeling of ecological and evolutionary data using the R programming environment.",
+    "requisites_text": "Prerequisite, STOR\u00a0155 .",
+    "requisite_codes": [
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "BIOL 890",
+    "title": "Special Topics in Biology",
+    "credits": 1.0,
+    "description": "Permission of the instructor. Consideration of special topics in biology. May be repeated once for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 891",
+    "title": "Graduate Seminar in Biology",
+    "credits": 2.0,
+    "description": "Graduate standing or permission of the instructor. This course will increase students' intellectual depth across the fields of ecology, evolution, and organismal biology (EEOB). Students will read and discuss papers, attend seminars, and present research ideas. Required of all candidates for the degree in biology in the EEOB graduate program.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 892",
+    "title": "Special Topics in Biology for Graduate Students",
+    "credits": 1.0,
+    "description": "This course is designed to allow graduate students to explore areas of biology outside their direct area of specialization. Three credits lecture only. Four credits lecture and lab.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 901",
+    "title": "Introduction to Graduate Research",
+    "credits": 1.0,
+    "description": "Graduate research for six weeks in two laboratories. Designed primarily to acquaint first-year students with research techniques and to assess their propensity for research. Arranged by mutual agreement of students and faculty members during fall orientation. May be repeated once for credit. Six to nine hours per week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 921",
+    "title": "Research in Genetics",
+    "credits": 1.0,
+    "description": "May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 931",
+    "title": "Research in Molecular Biology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 932",
+    "title": "Research in Plant Molecular Biology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 941",
+    "title": "Research in Cytology and Cell Biology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 942",
+    "title": "Research in Embryology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 943",
+    "title": "Research in Physiology: Cellular, Comparative, Neurophysiology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 951",
+    "title": "Research in Neurobiology",
+    "credits": 3.0,
+    "description": "Permission of the department. Research in various aspects of neurobiology. Six to 24 hours a week.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 952",
+    "title": "Research in Ethology and Animal Behavior",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 954",
+    "title": "Research in Marine Sciences on Mollusca, Crustacea, Ichthyology, or Oceanography",
+    "credits": 1.0,
+    "description": "Permission of the department. At the Institute for Marine Sciences, Morehead City, NC.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 955",
+    "title": "Research in Vertebrate or Invertebrate Zoology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 957",
+    "title": "Research in Plant Systematics",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 958",
+    "title": "Research in Plant Morphology and Anatomy",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement for student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 959",
+    "title": "Research in Paleobotany",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 961",
+    "title": "Research in Ecology",
+    "credits": 1.0,
+    "description": "Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of the student and faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 992",
+    "title": "Master's (Non-Thesis)",
+    "credits": 3.0,
+    "description": "Course for graduate students expecting to receive the degree of Master of Arts in Biology.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 993",
+    "title": "Master's Research and Thesis",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "BIOL 994",
+    "title": "Doctoral Research and Dissertation",
+    "credits": 3.0,
+    "description": "",
+    "requisites_text": "",
+    "requisite_codes": []
+  }
+]

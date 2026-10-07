@@ -1,0 +1,237 @@
+{
+  "major": "Computer Science Major, B.S.",
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-bs/",
+  "total_hours": 65.0,
+  "sections": [
+    {
+      "name": "Gateway Course",
+      "required_courses": [
+        {
+          "code": "COMP 110",
+          "title": "Introduction to Programming",
+          "hours": 3.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": []
+    },
+    {
+      "name": "Core Requirements",
+      "required_courses": [
+        {
+          "code": "COMP 210",
+          "title": "Data Structures and Analysis",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "COMP 211",
+          "title": "Systems Fundamentals",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "COMP 301",
+          "title": "Foundations of Programming",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "COMP 311",
+          "title": "Computer Organization",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "COMP 283",
+          "title": "Discrete Structures",
+          "hours": 3.0,
+          "alternatives": [
+            {
+              "code": "MATH 381",
+              "title": "Discrete Mathematics"
+            },
+            {
+              "code": "STOR 315",
+              "title": "Discrete Mathematics for Data Science"
+            }
+          ]
+        },
+        {
+          "code": "COMP 455",
+          "title": "Models of Languages and Computation",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "COMP 550",
+          "title": "Algorithms and Analysis",
+          "hours": 3.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": [
+        "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP\u00a0496 and COMP\u00a0692H ). 2 15"
+      ]
+    },
+    {
+      "name": "Additional Requirements",
+      "required_courses": [
+        {
+          "code": "MATH 231",
+          "title": "Calculus of Functions of One Variable I",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "MATH 232",
+          "title": "Calculus of Functions of One Variable II",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "MATH 233",
+          "title": "Calculus of Functions of Several Variables",
+          "hours": 4.0,
+          "alternatives": [
+            {
+              "code": "STOR 235",
+              "title": "Mathematics for Data Science"
+            }
+          ]
+        },
+        {
+          "code": "MATH 347",
+          "title": "Linear Algebra for Applications",
+          "hours": 3.0,
+          "alternatives": [
+            {
+              "code": "MATH 577",
+              "title": "Linear Algebra"
+            }
+          ]
+        },
+        {
+          "code": "STOR 435",
+          "title": "Introduction to Probability",
+          "hours": 3.0,
+          "alternatives": [
+            {
+              "code": "STOR 535",
+              "title": "Probability for Data Science"
+            },
+            {
+              "code": "BIOS 650",
+              "title": "Basic Elements of Probability and Statistical Inference I"
+            }
+          ]
+        }
+      ],
+      "choose_groups": [
+        {
+          "n": 2,
+          "trigger_text": "Two science courses chosen from: 1 8",
+          "options": [
+            {
+              "code": "BIOL 101&101L",
+              "title": "Principles of Biology and Introductory Biology Laboratory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "BIOL 202",
+              "title": "Molecular Biology and Genetics",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "BIOL 205",
+              "title": "Cellular and Developmental Biology",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "BIOL 220",
+              "title": "Molecular Genetics",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "BIOL 240",
+              "title": "Cell Biology",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "CHEM 101&101L",
+              "title": "General Descriptive Chemistry I and Quantitative Chemistry Laboratory I",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "CHEM 102&102L",
+              "title": "General Descriptive Chemistry II and Quantitative Chemistry Laboratory II",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "EMES 101&101L",
+              "title": "Planet Earth and Planet Earth Laboratory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "EMES 103&103L",
+              "title": "The Marine Environment and The Marine Environment Laboratory",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 114",
+              "title": "General Physics I: For Students of the Life Sciences",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 115",
+              "title": "General Physics II: For Students of the Life Sciences",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 118",
+              "title": "Introductory Calculus-based Mechanics and Relativity",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 119",
+              "title": "Introductory Calculus-based Electromagnetism and Quanta",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 451",
+              "title": "Electronics I",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "PHYS 452",
+              "title": "Electronics II",
+              "hours": null,
+              "alternatives": []
+            }
+          ],
+          "notes": [
+            "ASTR\u00a0100 / 100L or ASTR\u00a0101 / 100L or ASTR\u00a0102 / 100L or ASTR\u00a0103 / 100L",
+            "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements."
+          ]
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

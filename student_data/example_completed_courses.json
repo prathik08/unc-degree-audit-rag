@@ -1,0 +1,9 @@
+{
+  "major": "computer-science-bs",
+  "completed_courses": [
+    {"code": "COMP 110", "grade": "A"},
+    {"code": "COMP 210", "grade": "B+"},
+    {"code": "MATH 231", "grade": "A-"},
+    {"code": "MATH 232", "grade": "B"}
+  ]
+}

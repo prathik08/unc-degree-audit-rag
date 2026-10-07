@@ -1,0 +1,136 @@
+{
+  "major": "Economics Major, B.S.",
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/economics-major-bs/",
+  "total_hours": 51.0,
+  "sections": [
+    {
+      "name": "Gateway Requirement",
+      "required_courses": [
+        {
+          "code": "ECON 101",
+          "title": "Introduction to Economics (with a grade of C or better)",
+          "hours": 4.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": []
+    },
+    {
+      "name": "Core Requirements",
+      "required_courses": [
+        {
+          "code": "ECON 400",
+          "title": "Introduction to Data Science and Econometrics (with a grade of C or better)",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "ECON 410",
+          "title": "Intermediate Microeconomics (with a grade of C or better)",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "ECON 420",
+          "title": "Intermediate Macroeconomics",
+          "hours": 3.0,
+          "alternatives": []
+        },
+        {
+          "code": "ECON 470",
+          "title": "Econometrics",
+          "hours": 3.0,
+          "alternatives": []
+        }
+      ],
+      "choose_groups": [],
+      "notes": [
+        "Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher 1, 3 15"
+      ]
+    },
+    {
+      "name": "Additional Requirements",
+      "required_courses": [
+        {
+          "code": "MATH 231",
+          "title": "Calculus of Functions of One Variable I",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "MATH 232",
+          "title": "Calculus of Functions of One Variable II",
+          "hours": 4.0,
+          "alternatives": []
+        },
+        {
+          "code": "MATH 233",
+          "title": "Calculus of Functions of Several Variables",
+          "hours": 4.0,
+          "alternatives": [
+            {
+              "code": "MATH 235",
+              "title": "Mathematics for Data Science"
+            }
+          ]
+        }
+      ],
+      "choose_groups": [
+        {
+          "n": 2,
+          "trigger_text": "Select two of the following: 6",
+          "options": [
+            {
+              "code": "COMP 110",
+              "title": "Introduction to Programming",
+              "hours": null,
+              "alternatives": [
+                {
+                  "code": "COMP 116",
+                  "title": "Introduction to Scientific Programming"
+                }
+              ]
+            },
+            {
+              "code": "MATH 347",
+              "title": "Linear Algebra for Applications",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "MATH 381",
+              "title": "Discrete Mathematics",
+              "hours": null,
+              "alternatives": [
+                {
+                  "code": "COMP 283",
+                  "title": "Discrete Structures"
+                }
+              ]
+            },
+            {
+              "code": "STOR 415",
+              "title": "Introduction to Optimization",
+              "hours": null,
+              "alternatives": []
+            },
+            {
+              "code": "STOR 435",
+              "title": "Introduction to Probability",
+              "hours": null,
+              "alternatives": [
+                {
+                  "code": "STOR 535",
+                  "title": "Probability for Data Science"
+                }
+              ]
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

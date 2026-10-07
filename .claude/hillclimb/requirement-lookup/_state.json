@@ -1,0 +1,13 @@
+{
+  "metrics": [
+    {"id": "choose_group_framing", "label": "group framing", "kind": "binary"},
+    {"id": "called_correct_tool", "label": "right tool", "kind": "binary"},
+    {"id": "no_hallucination", "label": "no hallucin.", "kind": "binary"},
+    {"id": "missing_recall", "label": "missing recall", "kind": "float"}
+  ],
+  "perf_fields": [
+    {"id": "cost_usd", "label": "cost", "unit": "$"},
+    {"id": "latency_s", "label": "latency", "unit": "s"},
+    {"id": "tool_calls", "label": "tool calls"}
+  ]
+}

@@ -1,0 +1,1082 @@
+[
+  {
+    "code": "STOR 52",
+    "title": "First-Year Seminar: Decisions, Decisions, Decisions",
+    "credits": 3.0,
+    "description": "In this course, we will investigate the structure of these decision problems, show how they can be solved (at least in principle), and solve some simple problems.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 53",
+    "title": "FYS: Networks: Degrees of Separation and Other Phenomena Relating to Connected Systems",
+    "credits": 3.0,
+    "description": "Networks, mathematical structures that are composed of nodes and a set of lines joining the nodes, are used to model a wide variety of familiar systems.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 54",
+    "title": "First-Year Seminar: Adventures in Statistics",
+    "credits": 3.0,
+    "description": "This seminar aims to show that contrary to common belief, statistics can be exciting and fun.  The seminar will consist of three modules: statistics in our lives, randomness, and principles of statistical reasoning.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 55",
+    "title": "First-Year Seminar: Risk and Uncertainty in the Real World",
+    "credits": 3.0,
+    "description": "The aim of this class is to study the role of uncertainty in our daily lives, to explore the cognitive biases that impair us, and to understand how one uses quantitative models to make decisions under uncertainty in a wide array of fields including medicine, law, finance, and the sciences.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 56",
+    "title": "First-Year Seminar: The Art and Science of Decision Making in War and Peace",
+    "credits": 3.0,
+    "description": "This seminar will use recently assembled historical material to tell the exciting story of the origins and development of operations research during and after World War II.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 60",
+    "title": "First-Year Seminar: Statistical Decision-Making Concepts",
+    "credits": 3.0,
+    "description": "We will study some basic statistical decision-making procedures and the errors and losses they lead to. We will analyze the effects of randomness on decision making using computer experimentation and physical experiments with real random mechanisms like dice, cards, and so on.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 61",
+    "title": "First-Year Seminar: Statistics for Environmental Change",
+    "credits": 3.0,
+    "description": "Studies the Environmental Protection Agency's Criteria Document, mandated by the Clean Air Act; this document reviews current scientific evidence concerning airborne particulate matter. Students learn some of the statistical methods used to assess the connections between air pollution and mortality, and prepare reports on studies covered in the Criteria Document.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 62",
+    "title": "First-Year Seminar: Probability and Paradoxes",
+    "credits": 3.0,
+    "description": "The theory of probability, which can be used to model the uncertainty and chance that exist in the real world, often leads to surprising conclusions and seeming paradoxes. We survey and study these, along with other paradoxes and puzzling situations arising in logic, mathematics, and human behavior.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 63",
+    "title": "FYS: Statistics, Biostatistics, and Bioinformatics: An Introduction to the Ongoing Evolution",
+    "credits": 3.0,
+    "description": "This course is designed to emphasize the motivation, philosophy, and cultivation of statistical reasoning in the interdisciplinary areas of statistical science and bioinformatics.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 64",
+    "title": "First-Year Seminar: A Random Walk down Wall Street",
+    "credits": 3.0,
+    "description": "Introduces basic concepts in finance and economics, useful tools for collecting and summarizing financial data, and simple probability models for quantification of market uncertainty.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 66",
+    "title": "First-Year Seminar: Visualizing Data",
+    "credits": 3.0,
+    "description": "This seminar looks at a variety of ways in which modern computational tools allow easy and informative viewing of data. Students will also study the kinds of choices that have to be made in data presentation and viewing.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 72",
+    "title": "First-Year Seminar: Unlocking the Genetic Code",
+    "credits": 3.0,
+    "description": "Introduces students to the world of genetics and DNA and to the use of computers to organize and understand the complex systems associated with the structure and dynamics of DNA and heredity.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 89",
+    "title": "First-Year Seminar: Special Topics",
+    "credits": 3.0,
+    "description": "Special Topics Course. Contents will vary each semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 113",
+    "title": "Decision Models for Business and Economics",
+    "credits": 3.0,
+    "description": "An introduction to multivariable quantitative models in economics. Mathematical techniques for formulating and solving optimization and equilibrium problems will be developed, including elementary models under uncertainty.",
+    "requisites_text": "Prerequisite, MATH\u00a0110 .",
+    "requisite_codes": [
+      "MATH 110"
+    ]
+  },
+  {
+    "code": "STOR 115",
+    "title": "Reasoning with Data: Navigating a Quantitative World",
+    "credits": 3.0,
+    "description": "Students will use mathematical and statistical methods to address societal problems, make personal decisions, and reason critically about the world. Authentic contexts may include voting, health and risk, digital humanities, finance, and human behavior. This course does not count as credit towards the psychology or neuroscience majors.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 120",
+    "title": "Foundations of Statistics and Data Science",
+    "credits": 4.0,
+    "description": "The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design. Honors version available.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 151",
+    "title": "Introduction to Data Analysis",
+    "credits": 3.0,
+    "description": "Elementary introduction to statistical reasoning, including sampling, elementary probability, statistical inference, and data analysis. STOR\u00a0151 may not be taken for credit by students who have credit for ECON\u00a0400 or PSYC\u00a0210 .",
+    "requisites_text": "Prerequisite, MATH\u00a0110 .",
+    "requisite_codes": [
+      "MATH 110"
+    ]
+  },
+  {
+    "code": "STOR 155",
+    "title": "Introduction to Data Models and Inference",
+    "credits": 3.0,
+    "description": "Data analysis; correlation and regression; sampling and experimental design; basic probability (random variables, expected values, normal and binomial distributions); hypothesis testing and confidence intervals for means, proportions, and regression parameters; use of spreadsheet software. Honors version available.",
+    "requisites_text": "Prerequisite, MATH\u00a0110 .",
+    "requisite_codes": [
+      "MATH 110"
+    ]
+  },
+  {
+    "code": "STOR 190",
+    "title": "Special Topics",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research. Course description is available from the department office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 199",
+    "title": "Special Topics, FC-QUANT",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 215",
+    "title": "Foundations of Decision Sciences",
+    "credits": 3.0,
+    "description": "Introduction to basic concepts and techniques of discrete mathematics with applications to business and social and physical sciences. Topics include logic, sets, functions, combinatorics, discrete probability, graphs, and networks.",
+    "requisites_text": "Prerequisite, MATH\u00a0110 .",
+    "requisite_codes": [
+      "MATH 110"
+    ]
+  },
+  {
+    "code": "STOR 235",
+    "title": "Mathematics for Data Science",
+    "credits": 4.0,
+    "description": "This course introduces students to some of the key mathematical tools underlying algorithmic data science. The primary focus of the course is matrix algebra and multivariable calculus. The mathematical topics covered in the course will be motivated and connected by concrete applications in data science, with an emphasis on machine learning and optimization.",
+    "requisites_text": "Prerequisites, MATH\u00a0231 and MATH\u00a0232 .",
+    "requisite_codes": [
+      "MATH 231",
+      "MATH 232"
+    ]
+  },
+  {
+    "code": "STOR 290",
+    "title": "Special Topics",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research. Course description is available from the department office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 291",
+    "title": "Undergraduate Learning Assistantship",
+    "credits": 1.0,
+    "description": "Experience includes preparations, demonstrations, assistance, and attendance at weekly meetings and lab sections. This course will enable you to deepen your understanding of topics in statistics and data science by learning the material with an eye toward explaining it to other less-experienced students, and; develop pedagogical skills, such as developing a rapport with learners, engaging in clear oral and written communication, and taking the perspective of less experienced students.",
+    "requisites_text": "Prerequisite, STOR\u00a0120 grade of A- or higher.",
+    "requisite_codes": [
+      "STOR 120"
+    ]
+  },
+  {
+    "code": "STOR 305",
+    "title": "Introduction to Decision Analytics",
+    "credits": 3.0,
+    "description": "Students cannot enroll in STOR\u00a0305 if they have already taken STOR\u00a0415 . The use of mathematics to describe and analyze large-scale decision problems. Situations involving the allocation of resources, making decisions in a competitive environment, and dealing with uncertainty are modeled and solved using suitable software packages.",
+    "requisites_text": "Prerequisite, STOR\u00a0120 , 155 , or MATH\u00a0152 .",
+    "requisite_codes": [
+      "STOR 120",
+      "STOR 155",
+      "MATH 152"
+    ]
+  },
+  {
+    "code": "STOR 315",
+    "title": "Discrete Mathematics for Data Science",
+    "credits": 3.0,
+    "description": "The course gives a solid introduction to rigorous mathematical thinking and problem solving, all of which are fundamental in data science. It covers proofs, mathematical induction, counting, and the basics of graph theory.",
+    "requisites_text": "Prerequisite, MATH\u00a0232 .",
+    "requisite_codes": [
+      "MATH 232"
+    ]
+  },
+  {
+    "code": "STOR 320",
+    "title": "Methods and Models of Data Science",
+    "credits": 4.0,
+    "description": "Development of basic skill set for data analysis from obtaining data to data carpentry, exploration, modeling, and communication. Topics covered include regression, clustering, classification, algorithmic thinking, and non-standard data objects (networks and text data). Students may not receive credit for both STOR\u00a0320 and STOR\u00a0520 .",
+    "requisites_text": "Prerequisite, STOR\u00a0120 or 155 .",
+    "requisite_codes": [
+      "STOR 120",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "STOR 323I",
+    "title": "Ethics of Machine Learning in Society",
+    "credits": 3.0,
+    "description": "Modern Statistics and Machine Learning introduces several normative issues. Concerns surrounding algorithmic bias, data privacy, and methodological transparency arise from our methods, but our methods are not capable of fully ameliorating them.  A more complete answer must be sought in moral philosophy.  This course is positioned at the intersection of these disciplines.  It will combine rigorous analysis of modern data sets alongside open-ended philosophical discussion. Students leaving this class will be able to defend when their methods are not only technically sound but morally just.",
+    "requisites_text": "Prerequisite, STOR\u00a0120 or STOR\u00a0320 .",
+    "requisite_codes": [
+      "STOR 120",
+      "STOR 320"
+    ]
+  },
+  {
+    "code": "STOR 358",
+    "title": "Sample Survey Methodology",
+    "credits": 4.0,
+    "description": "Fundamental principles and methods of sampling populations, with emphasis on simple, random, stratified, and cluster sampling. Sample weights, nonsampling error, and analysis of data from complex designs are covered. Practical experience through participation in the design, execution, and analysis of a sampling project.",
+    "requisites_text": "Prerequisite, BIOS\u00a0650 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "BIOS 650"
+    ]
+  },
+  {
+    "code": "STOR 390",
+    "title": "Special Topics in Statistics and Operations Research",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research. Course description is available from the department office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 399",
+    "title": "Special Topics, FC-VALUES",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 415",
+    "title": "Introduction to Optimization",
+    "credits": 3.0,
+    "description": "Linear, integer, nonlinear, and dynamic programming, classical optimization problems, network theory. Honors version available.",
+    "requisites_text": "Prerequisites, MATH\u00a0347 and STOR\u00a0315 , 215 , COMP\u00a0283 or MATH\u00a0381 .",
+    "requisite_codes": [
+      "MATH 347",
+      "STOR 315",
+      "STOR 215",
+      "COMP 283",
+      "MATH 381"
+    ]
+  },
+  {
+    "code": "STOR 435",
+    "title": "Introduction to Probability",
+    "credits": 3.0,
+    "description": "Introduction to mathematical theory of probability covering random variables; moments; binomial, Poisson, normal and related distributions; generating functions; sums and sequences of random variables; and statistical applications. Students may not receive credit for both STOR\u00a0435 and STOR\u00a0535 . Honors version available.",
+    "requisites_text": "Prerequisites,  MATH/ STOR\u00a0235 or MATH\u00a0233 ; and STOR\u00a0215 or STOR\u00a0315 or MATH\u00a0381 or COMP\u00a0283 .",
+    "requisite_codes": [
+      "STOR 235",
+      "MATH 233",
+      "STOR 215",
+      "STOR 315",
+      "MATH 381",
+      "COMP 283"
+    ]
+  },
+  {
+    "code": "STOR 445",
+    "title": "Stochastic Modeling",
+    "credits": 3.0,
+    "description": "Introduction to Markov chains, Poisson process, continuous-time Markov chains, renewal theory. Applications to queueing systems, inventory, and reliability, with emphasis on systems modeling, design, and control.",
+    "requisites_text": "Prerequisite, BIOS\u00a0660 , STOR\u00a0435 or 535 .",
+    "requisite_codes": [
+      "BIOS 660",
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 455",
+    "title": "Methods of Data Analysis",
+    "credits": 3.0,
+    "description": "Review of basic inference; two-sample comparisons; correlation; introduction to matrices; simple and multiple regression (including significance tests, diagnostics, variable selection); analysis of variance; use of statistical software. Honors version available.",
+    "requisites_text": "Prerequisite, STOR\u00a0120 , or 155 .",
+    "requisite_codes": [
+      "STOR 120",
+      "STOR 155"
+    ]
+  },
+  {
+    "code": "STOR 470",
+    "title": "Fundamentals of Actuarial Mathematics",
+    "credits": 3.0,
+    "description": "This course focuses on an intensive study of foundations of short-term and long-term actuarial models, including loss modeling, pricing and reserving, mortality and life contingencies.",
+    "requisites_text": "Prerequisite, MATH\u00a0232 .",
+    "requisite_codes": [
+      "MATH 232"
+    ]
+  },
+  {
+    "code": "STOR 471",
+    "title": "Long-Term Actuarial Models",
+    "credits": 3.0,
+    "description": "Probability models for long-term insurance and pension systems that involve future contingent payments and failure-time random variables. Introduction to survival distributions and measures of interest and annuities-certain.",
+    "requisites_text": "Prerequisite, STOR\u00a0435 , or 535 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 472",
+    "title": "Short Term Actuarial Models",
+    "credits": 3.0,
+    "description": "Short term probability models for potential losses and their applications to both traditional insurance systems and conventional business decisions. Introduction to stochastic process models of solvency requirements.",
+    "requisites_text": "Prerequisite, STOR\u00a0435 , or 535 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 473",
+    "title": "Financial Mathematics for Actuarial Science",
+    "credits": 3.0,
+    "description": "This course develops the mathematical tools used to evaluate and manage financial transactions over time. Students will study interest theory, annuities, loan repayment schemes, and bond valuation, along with selected topics in risk management and derivative instruments. Emphasis is placed on modeling cash flows, analyzing investment projects, and understanding the principles that underlie pricing and reserving in insurance and finance. The course serves both as preparation for the SOA Exam FM and as a gateway to advanced actuarial coursework in life contingencies, financial economics, and asset-liability management.",
+    "requisites_text": "Prerequisite, MATH\u00a0232 .",
+    "requisite_codes": [
+      "MATH 232"
+    ]
+  },
+  {
+    "code": "STOR 475",
+    "title": "Healthcare Risk Analytics",
+    "credits": 3.0,
+    "description": "This course will introduce students to the healthcare industry and provide hands-on experience with key actuarial and analytical concepts that apply across the actuarial field. Using real world situations, the course will focus on how mathematics and the principles of risk management are used to help insurance companies and employers make better decisions regarding employee benefit insurance products and programs.",
+    "requisites_text": "Prerequisite, STOR\u00a0435 , or 535 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 490",
+    "title": "Special Topics",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research. Course description is available from the department office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 493",
+    "title": "Internship in Statistics and Operations Research",
+    "credits": 3.0,
+    "description": "Requires permission of the department. Statistics and analytics majors only. An opportunity to obtain credit for an internship related to statistics, operations research, or actuarial science. Pass/Fail only. Does not count toward the statistics and analytics major or minor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 496",
+    "title": "Undergraduate Reading and Research in Statistics and Operations Research",
+    "credits": 1.0,
+    "description": "Permission of the director of undergraduate studies. This course is intended mainly for students working on honors projects. May be repeated for credit.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 512",
+    "title": "Optimization for Machine Learning and Neural Networks",
+    "credits": 3.0,
+    "description": "This is an upper-level course focusing on optimization aspects of common and practical problems and topics in statistical learning, machine learning, neural networks, and modern AI. It covers several topics such as optimization perspective of linear regression, nonlinear regression, matrix factorization, stochastic gradient descent, regularization techniques, neural networks, deep learning techniques, and minimax models.",
+    "requisites_text": "Prerequisites, STOR\u00a0415 or STOR\u00a0612 ; or MATH\u00a0233 and MATH\u00a0347 , or MATH\u00a0235 , and COMP\u00a0110 or COMP\u00a0116 ; or permission of instructor.",
+    "requisite_codes": [
+      "STOR 415",
+      "STOR 612",
+      "MATH 233",
+      "MATH 347",
+      "MATH 235",
+      "COMP 110",
+      "COMP 116"
+    ]
+  },
+  {
+    "code": "STOR 520",
+    "title": "Statistical Computing for Data Science",
+    "credits": 4.0,
+    "description": "This course provides hands-on experience working with data sets provided in class and downloaded from certain public websites. Lectures cover basic topics such as R programming, visualization, data wrangling and cleaning, exploratory data analysis, web scraping, data merging, predictive modeling, and elements of machine learning. Programming analyses in more advanced areas of data science. Students may not receive credit for both STOR\u00a0320 and STOR\u00a0520 .",
+    "requisites_text": "Prerequisites, STOR\u00a0435 or 535 , and STOR\u00a0455 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535",
+      "STOR 455"
+    ]
+  },
+  {
+    "code": "STOR 535",
+    "title": "Probability for Data Science",
+    "credits": 3.0,
+    "description": "This course is an advanced undergraduate course in probability with the aim to give students the technical and computational tools for advanced courses in data analysis and machine learning. It covers random variables, moments, binomial, Poisson, normal and related distributions, generating functions, sums and sequences of random variables, statistical applications, Markov chains, multivariate normal and prediction analytics. Students may not receive credit for both STOR\u00a0435 and STOR\u00a0535 .",
+    "requisites_text": "Prerequisites,  MATH/ STOR\u00a0235 or MATH\u00a0233 ; and STOR\u00a0215 or STOR\u00a0315 or MATH\u00a0381 or COMP\u00a0283 .",
+    "requisite_codes": [
+      "STOR 235",
+      "MATH 233",
+      "STOR 215",
+      "STOR 315",
+      "MATH 381",
+      "COMP 283"
+    ]
+  },
+  {
+    "code": "STOR 536",
+    "title": "Advanced Methods in Probability",
+    "credits": 3.0,
+    "description": "This course is aimed at advanced undergraduate and MS students as a 'bridge' between an introductory probability course (like STOR\u00a0435 ) and an advanced measure-theoretic probability course (like STOR\u00a0634 ). Several topics, including laws of large numbers, central limit theorems, elementary large deviation and concentration of measure, modes of convergence, martingales and Markov chains, will be covered (in a non-measure-theoretic way) to introduce students to advanced probabilistic reasoning.",
+    "requisites_text": "Prerequisite, STOR\u00a0435 or STOR\u00a0535 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 538",
+    "title": "Sports Analytics",
+    "credits": 3.0,
+    "description": "This course will survey the history of sports analytics across multiple areas and challenge students in team-based projects to practice sports analytics.  Students will learn how applied statistics and mathematics help decision makers gain competitive advantages for on-field performance and off-field business decisions.",
+    "requisites_text": "Prerequisite, STOR\u00a0320 or STOR\u00a0455 .",
+    "requisite_codes": [
+      "STOR 320",
+      "STOR 455"
+    ]
+  },
+  {
+    "code": "STOR 543",
+    "title": "Dynamic Decision Analytics",
+    "credits": 3.0,
+    "description": "An introduction to algorithms and modeling techniques that use knowledge gained from prior experience to make intelligent decisions in real time. Topics include Markov decision processes, dynamic programming, multiplicative weights update, exploration vs. exploitation, multi-armed bandits, and two player games. Previously offered as STOR 515.",
+    "requisites_text": "Prerequisites, STOR\u00a0435 or 535 , and MATH\u00a0347 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535",
+      "MATH 347"
+    ]
+  },
+  {
+    "code": "STOR 545",
+    "title": "Stochastic Models and their Applications",
+    "credits": 3.0,
+    "description": "This course is structured into modules, each of which describes a real-world problem that can be solved using stochastic modeling techniques, including discrete-time Markov chains, stochastic arrival processes, continuous-time Markov chains and Brownian motion. The course focuses on identifying the sources of randomness, the interactions between them, and the choice of parameters for the specified model. Students in the course will use general programming languages to create simulations as well as specialized simulation software.",
+    "requisites_text": "Prerequisite, STOR\u00a0445 .",
+    "requisite_codes": [
+      "STOR 445"
+    ]
+  },
+  {
+    "code": "STOR 555",
+    "title": "Mathematical Statistics",
+    "credits": 3.0,
+    "description": "Functions of random samples and their probability distributions, introductory theory of point and interval estimation and hypothesis testing, elementary decision theory.",
+    "requisites_text": "Prerequisite, STOR\u00a0435 , or 535 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 556",
+    "title": "Time Series Data Analysis",
+    "credits": 3.0,
+    "description": "This course covers the fundamental theory and methods for time series data,  as well as related statistical software and real-world data applications. Topics include the autocorrelation function, estimation and elimination of trend and seasonality, estimation and forecasting procedures in ARMA models and nonstationary time series models.",
+    "requisites_text": "Prerequisites, STOR\u00a0435 or 535 , and STOR\u00a0455 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535",
+      "STOR 455"
+    ]
+  },
+  {
+    "code": "STOR 557",
+    "title": "Advanced Methods of Data Analysis",
+    "credits": 3.0,
+    "description": "The course covers advanced data analysis methods beyond those in STOR\u00a0455 and how to apply them in a modern computer package, specifically R or R-Studio which are the primary statistical packages for this kind of analysis. Specific topics include (a) Generalized Linear Models; (b) Random Effects; (c) Bayesian Statistics; (d) Nonparametric Methods (kernels, splines and related techniques).",
+    "requisites_text": "Prerequisites, STOR\u00a0435 or 535 , and STOR\u00a0455 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535",
+      "STOR 455"
+    ]
+  },
+  {
+    "code": "STOR 565",
+    "title": "Machine Learning",
+    "credits": 3.0,
+    "description": "Introduction to theory and methods of machine learning including classification; Bayes risk/rule, linear discriminant analysis, logistic regression, nearest neighbors, and support vector machines; clustering algorithms; overfitting, estimation error, cross validation.",
+    "requisites_text": "Prerequisites, STOR\u00a0215 or 315 or MATH\u00a0381 , and STOR\u00a0435 or 535 .",
+    "requisite_codes": [
+      "STOR 215",
+      "STOR 315",
+      "MATH 381",
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 566",
+    "title": "Introduction to Deep Learning",
+    "credits": 3.0,
+    "description": "Deep neural networks (DNNs) have been widely used for tackling numerous machine learning problems that were once believed to be challenging. With their remarkable ability of fitting training data, DNNs have achieved revolutionary successes in many fields such as computer vision, natural language progressing, and robotics. This is an introduction course to deep learning.",
+    "requisites_text": "Prerequisites, STOR\u00a0415 or 512 ; and COMP\u00a0110 or 116 .",
+    "requisite_codes": [
+      "STOR 415",
+      "STOR 512",
+      "COMP 110",
+      "COMP 116"
+    ]
+  },
+  {
+    "code": "STOR 572",
+    "title": "Simulation for Analytics",
+    "credits": 3.0,
+    "description": "This upper-level-undergraduate and beginning-graduate-level course introduces the concepts of modeling, programming, and statistical analysis as they arise in stochastic computer simulations. Topics include modeling static and discrete-event simulations of stochastic systems, random number generation, random variate generation, simulation programming, and statistical analysis of simulation input and output.",
+    "requisites_text": "Prerequisites, STOR\u00a0120 or 155 , and STOR\u00a0435 or 535 .",
+    "requisite_codes": [
+      "STOR 120",
+      "STOR 155",
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 590",
+    "title": "Special Topics in Statistics and Operations Research",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research. Course description is available from the department office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 612",
+    "title": "Foundations of Optimization",
+    "credits": 3.0,
+    "description": "STOR\u00a0612 consists of three major parts: linear programming, quadratic programming, and unconstrained optimization. Topics: Modeling, theory and algorithms for linear programming; modeling, theory and algorithms for quadratic programming; convex sets and functions; first-order and second-order methods such as stochastic gradient methods, accelerated gradient methods and quasi-Newton methods for unconstrained optimization.",
+    "requisites_text": "Prerequisites, MATH\u00a0347 and 521 or permission of the instructor.",
+    "requisite_codes": [
+      "MATH 347",
+      "MATH 521"
+    ]
+  },
+  {
+    "code": "STOR 614",
+    "title": "Advanced Optimization",
+    "credits": 3.0,
+    "description": "STOR\u00a0614 consists of three major parts: Integer programming, conic programming, and nonlinear optimization. Topics: modeling, theory and algorithms for integer programming; second-order cone and semidefinite programming; theory and algorithms for constrained optimization; dynamic programming; networks.",
+    "requisites_text": "Prerequisite, STOR\u00a0612 or equivalent (or permission of instructor).",
+    "requisite_codes": [
+      "STOR 612"
+    ]
+  },
+  {
+    "code": "STOR 634",
+    "title": "Probability I",
+    "credits": 3.0,
+    "description": "Required preparation, advanced calculus. Lebesgue and abstract measure and integration, convergence theorems, differentiation. Radon-Nikodym theorem, product measures. Fubini theorems. Lp spaces.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 635",
+    "title": "Probability II",
+    "credits": 3.0,
+    "description": "Foundations of probability. Basic classical theorems. Modes of probabilistic convergence. Central limit problem. Generating functions, characteristic functions. Conditional probability and expectation.",
+    "requisites_text": "Prerequisite, STOR\u00a0634 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 634"
+    ]
+  },
+  {
+    "code": "STOR 641",
+    "title": "Stochastic Modeling I",
+    "credits": 3.0,
+    "description": "The aim of this 3-credit graduate course is to introduce stochastic modeling that is commonly used in various fields such as operations research, data science, engineering, business, and life sciences. Although it is the first course in a sequence of three courses, it can also serve as a standalone introductory course in stochastic modeling and analysis. The course covers the following topics: discrete-time Markov chains, Poisson processes, and continuous-time Markov chains.",
+    "requisites_text": "Prerequisite,  Probability background at the level of STOR\u00a0435 or STOR\u00a0535 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 535"
+    ]
+  },
+  {
+    "code": "STOR 642",
+    "title": "Stochastic Modeling II",
+    "credits": 3.0,
+    "description": "This 3-credit course is the second graduate-level course on stochastic modeling that expands upon the material taught in STOR\u00a0641 . The course covers the following topics: renewal and regenerative processes, queueing models, and Markov decision processes.",
+    "requisites_text": "Prerequisite, STOR\u00a0641 .",
+    "requisite_codes": [
+      "STOR 641"
+    ]
+  },
+  {
+    "code": "STOR 654",
+    "title": "Statistical Theory I",
+    "credits": 3.0,
+    "description": "Required preparation, two semesters of advanced calculus. Probability spaces. Random variables, distributions, expectation. Conditioning. Generating functions. Limit theorems: LLN, CLT, Slutsky, delta-method, big-O in probability. Inequalities. Distribution theory: normal, chi-squared, beta, gamma, Cauchy, other multivariate distributions. Distribution theory for linear models.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 655",
+    "title": "Statistical Theory II",
+    "credits": 3.0,
+    "description": "Point estimation. Hypothesis testing and confidence sets. Contingency tables, nonparametric goodness-of-fit. Linear model optimality theory: BLUE, MVU, MLE. Multivariate tests. Introduction to decision theory and Bayesian inference.",
+    "requisites_text": "Prerequisite, STOR\u00a0654 .",
+    "requisite_codes": [
+      "STOR 654"
+    ]
+  },
+  {
+    "code": "STOR 664",
+    "title": "Applied Statistics I",
+    "credits": 3.0,
+    "description": "Permission of the instructor. Basics of linear models: matrix formulation, least squares, tests. Computing environments: SAS, MATLAB, S+. Visualization: histograms, scatterplots, smoothing, QQ plots. Transformations: log, Box-Cox, etc. Diagnostics and model selection.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 665",
+    "title": "Applied Statistics II",
+    "credits": 3.0,
+    "description": "ANOVA (including nested and crossed models, multiple comparisons). GLM basics: exponential families, link functions, likelihood, quasi-likelihood, conditional likelihood. Numerical analysis: numerical linear algebra, optimization; GLM diagnostics. Simulation: transformation, rejection, Gibbs sampler.",
+    "requisites_text": "Prerequisite, STOR\u00a0664 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 664"
+    ]
+  },
+  {
+    "code": "STOR 672",
+    "title": "Simulation Modeling and Analysis",
+    "credits": 3.0,
+    "description": "Introduces students to modeling, programming, and statistical analysis applicable to computer simulations. Emphasizes statistical analysis of simulation output for decision-making. Focuses on discrete-event simulations and discusses other simulation methodologies such as Monte Carlo and agent-based simulations. Students model, program, and run simulations using specialized software. Familiarity with computer programming recommended.",
+    "requisites_text": "Prerequisites, STOR\u00a0555 and 641 .",
+    "requisite_codes": [
+      "STOR 555",
+      "STOR 641"
+    ]
+  },
+  {
+    "code": "STOR 674",
+    "title": "Statistical and Computational Tools for Reproducible Data Science",
+    "credits": 3.0,
+    "description": "The purpose of this course is to provide a strong foundation in computational skills needed for reproducible research in data science and statistics. Topics will include computational tools and programming skills to facilitate reproducibility, as well as procedures and methods for reproducible conclusions.",
+    "requisites_text": "Prerequisite, STOR\u00a0320 or 664 .",
+    "requisite_codes": [
+      "STOR 320",
+      "STOR 664"
+    ]
+  },
+  {
+    "code": "STOR 690",
+    "title": "Special Topics",
+    "credits": 3.0,
+    "description": "Examines selected topics from statistics and operations research. Course description is available from the department office.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 691H",
+    "title": "Honors in Statistics and Analytics",
+    "credits": 3.0,
+    "description": "Permission of the department. Majors only. Individual reading, study, or project supervised by a faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 692H",
+    "title": "Honors in Statistics and Analytics",
+    "credits": 3.0,
+    "description": "Permission of the department. Majors only. Individual reading, study, or project supervised by a faculty member.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 697",
+    "title": "Capstone",
+    "credits": 3.0,
+    "description": "This course is designed to give Statistics & Analytics (STAN) majors an opportunity to integrate and apply the knowledge and skills acquired throughout the STAN degree. At the beginning of the semester, the instructor will present to the class a broad description of several problems originating from external industry partners, and covering a wide range of statistics, modeling, optimization, and data science topics. Students will work on these problems throughout the remainder of the semester.",
+    "requisites_text": "Prerequisite,  Students are expected to have completed at least 75% of the core requirements for the STAN major.",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 701",
+    "title": "Statistics and Operations Research Colloquium",
+    "credits": 1.0,
+    "description": "This seminar course is intended to give Ph.D. students exposure to cutting edge research topics in statistics and operations research and assist them in their choice of a dissertation topic. The course also provides a forum for students to meet and learn from major researchers in the field.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 702",
+    "title": "Seminar in Teaching",
+    "credits": 1.0,
+    "description": "This seminar course is intended to give Ph.D. students exposure to various issues and pedagogy in teaching statistics and operations research. The course also provides a forum for students to observe and learn from current teaching faculty. Students should register for one credit only. STOR Ph.D. students only.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 712",
+    "title": "Optimization for Machine Learning and Data Science",
+    "credits": 3.0,
+    "description": "This course will provide a detailed and deep treatment for commonly used methods in continuous optimization, with applications in machine learning, statistics, data science, operations research, among others.",
+    "requisites_text": "Prerequisite, STOR\u00a0612 or equivalent.",
+    "requisite_codes": [
+      "STOR 612"
+    ]
+  },
+  {
+    "code": "STOR 713",
+    "title": "Mathematical Programming II",
+    "credits": 3.0,
+    "description": "Advanced theory for nonlinear optimization. Algorithms for unconstrained and constrained problems.",
+    "requisites_text": "Prerequisite, STOR\u00a0712 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 712"
+    ]
+  },
+  {
+    "code": "STOR 722",
+    "title": "Integer Programming",
+    "credits": 3.0,
+    "description": "Techniques for formulating and solving discrete valued and combinatorial optimization problems. Topics include enumerative and cutting plane methods, Lagrangian relaxation, Benders' decomposition, knapsack problems, and matching and covering problems.",
+    "requisites_text": "Prerequisite, STOR\u00a0614 ; permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 614"
+    ]
+  },
+  {
+    "code": "STOR 734",
+    "title": "Stochastic Processes",
+    "credits": 3.0,
+    "description": "Discrete and continuous parameter Markov chains, Brownian motion, stationary processes.",
+    "requisites_text": "Prerequisite, STOR\u00a0435 .",
+    "requisite_codes": [
+      "STOR 435"
+    ]
+  },
+  {
+    "code": "STOR 743",
+    "title": "Reinforcement Learning and Markov Decision Processes",
+    "credits": 3.0,
+    "description": "Markov decision processes (stochastic dynamic programming): finite horizon, infinite horizon, discounted and average-cost criteria; reinforcement learning(RL): design and analysis of model-free, model-based, value-based, and policy-based RL algorithms, RL algorithms in continuous and discrete state and action space, and RL with functional approximation. These algorithms include but are not limited to (deep) Q-learning, asynchronous advantage actor-critic, soft actor-critic, and proximal policy optimization.",
+    "requisites_text": "Prerequisite, STOR\u00a0641 or permission of instructor.",
+    "requisite_codes": [
+      "STOR 641"
+    ]
+  },
+  {
+    "code": "STOR 754",
+    "title": "Time Series and Multivariate Analysis",
+    "credits": 3.0,
+    "description": "Introduction to time series: exploratory analysis, time-domain analysis and ARMA models, Fourier analysis, state space analysis. Introduction to multivariate analysis: principal components, canonical correlation, classification and clustering, dimension reduction.",
+    "requisites_text": "Prerequisites, STOR\u00a0435 and 555 .",
+    "requisite_codes": [
+      "STOR 435",
+      "STOR 555"
+    ]
+  },
+  {
+    "code": "STOR 755",
+    "title": "Estimation, Hypothesis Testing, and Statistical Decision",
+    "credits": 3.0,
+    "description": "Bayes procedures for estimation and testing. Minimax procedures. Unbiased estimators. Unbiased tests and similar tests. Invariant procedures. Sufficient statistics. Confidence sets. Large sample theory. Statistical decision theory.",
+    "requisites_text": "Prerequisites, STOR\u00a0635 and 655 .",
+    "requisite_codes": [
+      "STOR 635",
+      "STOR 655"
+    ]
+  },
+  {
+    "code": "STOR 757",
+    "title": "Bayesian Statistics and Generalized Linear Models",
+    "credits": 3.0,
+    "description": "Bayes factors, empirical Bayes theory, applications of generalized linear models.",
+    "requisites_text": "Prerequisite, STOR\u00a0555 .",
+    "requisite_codes": [
+      "STOR 555"
+    ]
+  },
+  {
+    "code": "STOR 765",
+    "title": "Statistical Consulting",
+    "credits": 1.5,
+    "description": "Application of statistics to real problems presented by researchers from the University and local companies and institutes. (Taught over two semesters for a total of 3 credits.)",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 766",
+    "title": "Leading Research Teams",
+    "credits": 3.0,
+    "description": "Graduate students will lead groups of four to five undergraduate students to complete a project for an external client.  Clients from an array of industries, as well as those from within UNC, will submit project requests that are feasible within a 12-week semester.  The course will offer graduate students an authentic learning experience to develop management skills and professional attributes, such as teamwork, communication, and project management, in preparation for workforce entry.",
+    "requisites_text": "Prerequisites, STOR\u00a0664 , STOR\u00a0665 and STOR\u00a0765 , or Instructor's Permission.",
+    "requisite_codes": [
+      "STOR 664",
+      "STOR 665",
+      "STOR 765"
+    ]
+  },
+  {
+    "code": "STOR 767",
+    "title": "Advanced Statistical Machine Learning",
+    "credits": 3.0,
+    "description": "This is a graduate course on statistical machine learning.",
+    "requisites_text": "Prerequisites, STOR\u00a0654 , 655 , 664 , 665 and permission of the instructor.",
+    "requisite_codes": [
+      "STOR 654",
+      "STOR 655",
+      "STOR 664",
+      "STOR 665"
+    ]
+  },
+  {
+    "code": "STOR 790",
+    "title": "Operations Research and Systems Analysis Student Seminar",
+    "credits": 1.0,
+    "description": "Survey of literature in operations research and systems analysis.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 797",
+    "title": "Capstone Project",
+    "credits": 3.0,
+    "description": "This course is designed to give graduate students an opportunity to integrate and apply the knowledge and skills acquired throughout the program. At the beginning of the semester, the instructor will present to the class a broad description of several problems originating from external industry partners, and covering a wide range of statistics, modeling, optimization, and data science topics. Students will work on these problems throughout the remainder of the semester.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 822",
+    "title": "Topics in Discrete Optimization",
+    "credits": 3.0,
+    "description": "Topics may include polynomial algorithms, computational complexity, matching and matroid problems, and the traveling salesman problem.",
+    "requisites_text": "Prerequisite, STOR\u00a0712 ; Permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 712"
+    ]
+  },
+  {
+    "code": "STOR 824",
+    "title": "Computational Methods in Mathematical Programming",
+    "credits": 3.0,
+    "description": "Advanced topics such as interior point methods, parallel algorithms, branch and cut methods, and subgradient optimization.",
+    "requisites_text": "Prerequisite, STOR\u00a0712 ; Permission of the instructor for students lacking the prerequisite.",
+    "requisite_codes": [
+      "STOR 712"
+    ]
+  },
+  {
+    "code": "STOR 831",
+    "title": "Advanced Probability",
+    "credits": 3.0,
+    "description": "Advanced theoretic course, covering topics selected from weak convergence theory, central limit theorems, laws of large numbers, stable laws, infinitely divisible laws, random walks, martingales.",
+    "requisites_text": "Prerequisites, STOR\u00a0634 and 635 .",
+    "requisite_codes": [
+      "STOR 634",
+      "STOR 635"
+    ]
+  },
+  {
+    "code": "STOR 832",
+    "title": "Stochastic Processes",
+    "credits": 3.0,
+    "description": "Advanced theoretic course including topics selected from foundations of stochastic processes, renewal processes, Markov processes, martingales, point processes.",
+    "requisites_text": "Prerequisites, STOR\u00a0634 and 635 .",
+    "requisite_codes": [
+      "STOR 634",
+      "STOR 635"
+    ]
+  },
+  {
+    "code": "STOR 834",
+    "title": "Extreme Value Theory",
+    "credits": 3.0,
+    "description": "This course covers both mathematical theory and statistical methodology concerned with extreme values in sequences of random variables. IID theory: the three types of extreme value distributions, statistical methods by block maxima and threshold exceedances. Extensions to dependent stochastic sequences: the extremal index and related concepts. Multivariate and spatial extremes, max-stable process. Applications in: engineering and strength of materials; finance and insurance; environment and climate.",
+    "requisites_text": "Prerequisites, STOR\u00a0635 and 654 .",
+    "requisite_codes": [
+      "STOR 635",
+      "STOR 654"
+    ]
+  },
+  {
+    "code": "STOR 835",
+    "title": "Point Processes",
+    "credits": 3.0,
+    "description": "Random measures and point processes on general spaces, Poisson and related processes, regularity, compounding. Point processes on the real line stationarity, Palm distributions, Palm-Khintchine formulae. Convergence and related topics.",
+    "requisites_text": "Prerequisite, STOR\u00a0635 .",
+    "requisite_codes": [
+      "STOR 635"
+    ]
+  },
+  {
+    "code": "STOR 836",
+    "title": "Stochastic Analysis",
+    "credits": 3.0,
+    "description": "Brownian motion, semimartingale theory, stochastic integrals, stochastic differential equations, diffusions, Girsanov's theorem, connections with elliptic PDE, Feynman-Kac formula. Applications: mathematical finance, stochastic networks, biological modeling.",
+    "requisites_text": "Prerequisites, STOR\u00a0634 and 635 .",
+    "requisite_codes": [
+      "STOR 634",
+      "STOR 635"
+    ]
+  },
+  {
+    "code": "STOR 854",
+    "title": "Statistical Large Sample Theory",
+    "credits": 3.0,
+    "description": "Asymptotically efficient estimators; maximum likelihood estimators. Asymptotically optimal tests; likelihood ratio tests.",
+    "requisites_text": "Prerequisites, STOR\u00a0635 and 655 .",
+    "requisite_codes": [
+      "STOR 635",
+      "STOR 655"
+    ]
+  },
+  {
+    "code": "STOR 871",
+    "title": "Convex Analysis and Optimization Theory",
+    "credits": 3.0,
+    "description": "Convex analysis and optimization including sets, functions, basic concepts, minimax theory, duality, and optimality conditions.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 881",
+    "title": "Object Oriented Data Analysis",
+    "credits": 1.0,
+    "description": "Object Oriented Data Analysis (OODA) is the statistical analysis of populations of complex objects. Examples include data sets where the data points could be curves, images, shapes, movies, or tree structured objects.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 890",
+    "title": "Special Problems",
+    "credits": 1.0,
+    "description": "Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 891",
+    "title": "Special Problems",
+    "credits": 1.0,
+    "description": "Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 892",
+    "title": "Special Topics in Operations Research and Systems Analysis",
+    "credits": 1.0,
+    "description": "Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 893",
+    "title": "Special Topics",
+    "credits": 1.0,
+    "description": "Advance topics in current research in statistics and operations research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 894",
+    "title": "Special Topics at SAMSI",
+    "credits": 3.0,
+    "description": "Advanced topics in current research in statistics and operations research.  This course is held at SAMSI.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 910",
+    "title": "Directed Reading in Statistics and Operations Research",
+    "credits": 1.0,
+    "description": "Students will read selected works under supervision of instructor, and attend discussion meetings.  Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 930",
+    "title": "Advanced Research",
+    "credits": 1.0,
+    "description": "Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 940",
+    "title": "Seminar in Theoretical Statistics",
+    "credits": 1.0,
+    "description": "",
+    "requisites_text": "Prerequisite, STOR\u00a0655 .",
+    "requisite_codes": [
+      "STOR 655"
+    ]
+  },
+  {
+    "code": "STOR 950",
+    "title": "Advanced Research",
+    "credits": 0.5,
+    "description": "Permission of the instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 960",
+    "title": "Seminar in Theoretical Statistics",
+    "credits": 0.5,
+    "description": "",
+    "requisites_text": "Prerequisite, STOR\u00a0655 .",
+    "requisite_codes": [
+      "STOR 655"
+    ]
+  },
+  {
+    "code": "STOR 970",
+    "title": "Practicum",
+    "credits": 1.0,
+    "description": "Students work with other organizations (Industrial/Governmental) to gain practical experience in Statistics and Operations Research.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 992",
+    "title": "Master's (Non-Thesis)",
+    "credits": 3.0,
+    "description": "Permission of instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  },
+  {
+    "code": "STOR 994",
+    "title": "Doctoral Research and Dissertation",
+    "credits": 3.0,
+    "description": "Permission of instructor.",
+    "requisites_text": "",
+    "requisite_codes": []
+  }
+]
