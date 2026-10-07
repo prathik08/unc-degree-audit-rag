@@ -1,13 +1,40 @@
 # UNC Degree-Audit RAG
 
-Ask natural-language questions about UNC degree requirements and prerequisite
-chains, grounded in the real catalog (catalog.unc.edu) plus your own
-completed-courses file - e.g. "what am I missing for the CS major" or "what
-can I take next semester."
+Ask natural-language questions about UNC Chapel Hill degree requirements and
+prerequisite chains, grounded in the real catalog (catalog.unc.edu) plus your
+own completed-courses list - e.g. "what am I missing for the CS major" or
+"what can I take next semester."
 
-Architecture: this is not a plain RAG app. Requirement checking and prereq
-logic are exact-match problems (has the student taken the 7 required courses
-or not), which vector search handles badly. So:
+**Stack:** Python · Streamlit · Anthropic Claude API (Haiku 4.5 / Sonnet 5) ·
+ChromaDB + sentence-transformers · SQLite · BeautifulSoup
+
+## Highlights
+
+- **Hybrid architecture, not naive RAG.** Requirement checking is an
+  exact-match problem (has the student taken the 7 required courses or not) -
+  vector search handles that badly. Structured Python logic answers those
+  questions exactly; RAG only handles genuinely fuzzy questions (course
+  content, gen-ed policy text). See Architecture below.
+- **Built and ran a real eval, not vibes.** 17 cases, hybrid programmatic +
+  LLM-judge grading, and it caught a genuine model-quality bug: the app
+  misidentified a course when asked a narrowly-phrased question, even though
+  the correct answer was sitting in the tool response it had just read.
+- **Measured a model-routing decision instead of guessing.** Side-by-side
+  Haiku vs. Sonnet on real questions before picking a default - quantified
+  the quality/cost/latency tradeoff (Sonnet ran ~3-4x the cost, ~2x the
+  latency, with a real quality gain only on ambiguous reasoning questions)
+  rather than assuming.
+- **Parsed real, messy data into structure.** One scraper generalizes across
+  5 majors in unrelated departments by reverse-engineering UNC's actual
+  HTML template - 1,206 courses, zero manual data entry.
+- **Full pipeline, not a notebook demo.** Scraping -> structured data ->
+  vector index -> LLM tool-use orchestration -> persistent storage -> a
+  polished multi-view UI.
+
+## Architecture
+
+This is not a plain RAG app. Requirement checking and prereq logic are
+exact-match problems, which vector search handles badly. So:
 
 - **Structured data** (`scraper/`) - scrapes catalog.unc.edu into JSON: major
   requirements (`data/majors/`) and course details + prerequisites
@@ -19,7 +46,83 @@ or not), which vector search handles badly. So:
 - **Claude + tool use** (`agent/`) - routes each question to the structured
   functions and/or RAG retrieval, then answers.
 
-## Status
+## Setup
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env   # fill in ANTHROPIC_API_KEY
+```
+
+## Scraping the catalog
+
+```bash
+python3 -m scraper.run_scrape
+```
+
+Scrapes every major/department listed in `scraper/majors.py` into
+`data/majors/*.json` and `data/courses/*.json`. Raw HTML is cached in
+`data/raw/` (gitignored) so re-runs during development don't re-hit UNC's
+servers.
+
+To add a major: find its slug from its catalog.unc.edu URL and add it to
+`MAJORS` in `scraper/majors.py`. To add a department's courses, verify the
+slug first (`curl -s -o /dev/null -w "%{http_code}" catalog.unc.edu/courses/<slug>/`
+should return 200 - department slugs don't always match the obvious
+abbreviation, e.g. political science is `poli`, not `plsc`).
+
+## Running the app
+
+```bash
+streamlit run app/streamlit_app.py
+```
+
+`app/streamlit_app.py` inserts the project root onto `sys.path` at the top of
+the file before importing `agent`/`scraper` - Streamlit only auto-adds the
+script's own directory (`app/`), not the project root, so without that line
+the app fails immediately with `ModuleNotFoundError: No module named 'agent'`
+regardless of what directory you run the command from. Found by actually
+testing in a browser, not just checking the process started (an `HTTP 200`
+from the server proved nothing here - the import error only shows up once the
+page renders).
+
+## Known limitations (v0 scraper)
+
+- `requisite_codes` on a course is a flat list of every course code
+  mentioned in its "Requisites:" text - it doesn't yet distinguish
+  prerequisite vs. corequisite, or AND vs. OR between alternatives. The raw
+  text is kept in `requisites_text` for now.
+- Elective buckets described as a *rule* rather than a list (e.g. "five
+  additional COMP courses numbered 420 or higher" - no explicit candidates
+  to check against, just a department/number pattern) land in a section's
+  `notes` field as raw text, not as a structured, checkable rule. (Buckets
+  described as "choose N from this explicit list" - e.g. "two science
+  courses chosen from: [14 options]" - *are* structured, as `choose_groups`;
+  this only affects the rule-shaped ones with no list to check.)
+- `requisite_codes` only catches course codes that are hyperlinked in UNC's
+  HTML - occasionally a mentioned code isn't linked (seen on COMP 283's "MATH
+  231 or MATH 241", where MATH 241 has no link) and is invisible to
+  `eligible_next_courses()`'s check, though still present in the raw
+  `requisites_text` it also returns.
+- No rate limiting on the chat endpoint, and auth is a plain typed username
+  with no password (see "Persistent conversation history" below) - this
+  project stayed a local/personal deployment throughout and was never
+  hardened for public hosting.
+
+## Your own progress
+
+Not scraped from any authenticated system (e.g. ConnectCarolina) - maintain
+your completed courses yourself in a JSON file shaped like
+`student_data/example_completed_courses.json`.
+
+---
+
+## Development log
+
+The detailed build history below - what was built in what order, every real
+bug found and how it was diagnosed, and the reasoning behind each design
+decision. Kept in full rather than summarized, since the process (how a bug
+was actually found and fixed) is more informative than just the outcome.
 
 - [x] Week 1: catalog scraper (majors + department course pages), verified
       against 5 majors across different departments
@@ -139,7 +242,7 @@ or not), which vector search handles badly. So:
       single local/personal deployment. Anyone who types the same username
       sees that history; real authentication was never built - this project
       stayed local/single-deployment throughout (see "Running the app"
-      below for what that does and doesn't cover). Each conversation is one
+      above for what that does and doesn't cover). Each conversation is one
       row, upserted after every exchange (insert on the first message,
       update in place after that) so a browser crash mid-chat doesn't lose
       anything already sent. "Clear chat" starts a fresh row instead of
@@ -148,8 +251,18 @@ or not), which vector search handles badly. So:
       same username, see the conversation listed, click to reload its full
       history; confirmed a different username sees none of it, and
       confirmed no duplicate/stray rows from repeated testing.
+- [x] Two small front-end fixes from a direct visual bug report:
+      - Major dropdown showed "Bs"/"Ba" instead of "BS"/"BA" - Python's
+        `.title()` only capitalizes the first letter of each word. Replaced
+        with a formatter that uppercases the degree-suffix word specifically.
+      - The Major box's and Completed Courses box's text looked like
+        different fonts - turned out to be identical font-family/weight
+        (confirmed via computed style) but different *color*: one input's
+        text was still forced to the light sidebar-label color from an
+        earlier CSS pass, which only became obvious once compared side by
+        side against the (already-fixed) Major box.
 
-Gaps found during testing, and what's actually fixed:
+### Fixed during testing: `choose_groups` bug and gen-ed retrieval
 
 - **Fixed:** `choose_groups` bug - "choose N from a list" electives (e.g.
   "two science courses chosen from: [14 options]") were being audited as if
@@ -187,68 +300,3 @@ Gaps found during testing, and what's actually fixed:
   reasonably. No local embedding model is going to be perfect on every
   query; this is a real, expected trade-off of the swap, not a bug to
   chase further right now.
-
-## Setup
-
-```bash
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env   # fill in ANTHROPIC_API_KEY
-```
-
-## Scraping the catalog
-
-```bash
-python3 -m scraper.run_scrape
-```
-
-Scrapes every major/department listed in `scraper/majors.py` into
-`data/majors/*.json` and `data/courses/*.json`. Raw HTML is cached in
-`data/raw/` (gitignored) so re-runs during development don't re-hit UNC's
-servers.
-
-To add a major: find its slug from its catalog.unc.edu URL and add it to
-`MAJORS` in `scraper/majors.py`. To add a department's courses, verify the
-slug first (`curl -s -o /dev/null -w "%{http_code}" catalog.unc.edu/courses/<slug>/`
-should return 200 - department slugs don't always match the obvious
-abbreviation, e.g. political science is `poli`, not `plsc`).
-
-## Running the app
-
-```bash
-streamlit run app/streamlit_app.py
-```
-
-`app/streamlit_app.py` inserts the project root onto `sys.path` at the top of
-the file before importing `agent`/`scraper` - Streamlit only auto-adds the
-script's own directory (`app/`), not the project root, so without that line
-the app fails immediately with `ModuleNotFoundError: No module named 'agent'`
-regardless of what directory you run the command from. Found by actually
-testing in a browser, not just checking the process started (an `HTTP 200`
-from the server proved nothing here - the import error only shows up once the
-page renders).
-
-## Known limitations (v0 scraper)
-
-- `requisite_codes` on a course is a flat list of every course code
-  mentioned in its "Requisites:" text - it doesn't yet distinguish
-  prerequisite vs. corequisite, or AND vs. OR between alternatives. The raw
-  text is kept in `requisites_text` for now.
-- Elective buckets described as a *rule* rather than a list (e.g. "five
-  additional COMP courses numbered 420 or higher" - no explicit candidates
-  to check against, just a department/number pattern) land in a section's
-  `notes` field as raw text, not as a structured, checkable rule. (Buckets
-  described as "choose N from this explicit list" - e.g. "two science
-  courses chosen from: [14 options]" - *are* structured, as `choose_groups`;
-  this only affects the rule-shaped ones with no list to check.)
-- `requisite_codes` only catches course codes that are hyperlinked in UNC's
-  HTML - occasionally a mentioned code isn't linked (seen on COMP 283's "MATH
-  231 or MATH 241", where MATH 241 has no link) and is invisible to
-  `eligible_next_courses()`'s check, though still present in the raw
-  `requisites_text` it also returns.
-
-## Your own progress
-
-Not scraped from any authenticated system (e.g. ConnectCarolina) - maintain
-your completed courses yourself in a JSON file shaped like
-`student_data/example_completed_courses.json`.
