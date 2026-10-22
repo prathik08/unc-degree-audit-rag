@@ -5,3 +5,4 @@ sentence-transformers
 chromadb
 streamlit
 python-dotenv
+Authlib>=1.3.2

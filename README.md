@@ -52,7 +52,25 @@ exact-match problems, which vector search handles badly. So:
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env   # fill in ANTHROPIC_API_KEY
+cp .streamlit/secrets.toml.example .streamlit/secrets.toml   # see "Auth" below
 ```
+
+### Auth
+
+Sign-in uses Google OAuth via Streamlit's native `st.login()` (OIDC-only -
+GitHub's OAuth doesn't support OIDC, so Google was the simplest real-auth
+option rather than a GitHub-branded login). To run locally:
+
+1. Create a Google Cloud OAuth 2.0 Client ID (Web application) at
+   [console.cloud.google.com](https://console.cloud.google.com) ->
+   **APIs & Services -> Credentials**, with `http://localhost:8501/oauth2callback`
+   as an authorized redirect URI.
+2. Fill `client_id` / `client_secret` into `.streamlit/secrets.toml`, plus a
+   random `cookie_secret` (`python3 -c "import secrets; print(secrets.token_hex(32))"`).
+3. `ANTHROPIC_API_KEY` can live in either `.env` or `secrets.toml` - Streamlit
+   syncs top-level `secrets.toml` scalars into `os.environ`, so both paths
+   reach the same `os.environ["ANTHROPIC_API_KEY"]` read in
+   `agent/claude_agent.py`.
 
 ## Scraping the catalog
 
@@ -104,10 +122,12 @@ page renders).
   231 or MATH 241", where MATH 241 has no link) and is invisible to
   `eligible_next_courses()`'s check, though still present in the raw
   `requisites_text` it also returns.
-- No rate limiting on the chat endpoint, and auth is a plain typed username
-  with no password (see "Persistent conversation history" below) - this
-  project stayed a local/personal deployment throughout and was never
-  hardened for public hosting.
+- Spend/request caps (see "Auth + rate limiting" in the dev log below) are
+  enforced against a local SQLite ledger, which isn't guaranteed durable on
+  a host with an ephemeral filesystem (e.g. a container restart on
+  Streamlit Community Cloud resets it to zero). The caps are a courtesy,
+  not the backstop - the actual backstop is a spend limit set on the
+  Anthropic API key itself, in the Anthropic Console.
 
 ## Your own progress
 
@@ -261,6 +281,40 @@ was actually found and fixed) is more informative than just the outcome.
         text was still forced to the light sidebar-label color from an
         earlier CSS pass, which only became obvious once compared side by
         side against the (already-fixed) Major box.
+
+- [x] Real auth + rate limiting, ahead of making the app a public link.
+      Replaced the typed-username scheme with Google OAuth via Streamlit's
+      native `st.login()`/`st.user`/`st.logout()`. Tried GitHub first since
+      it's the more natural fit for a dev-facing demo, but `st.login()`
+      requires OIDC discovery (`server_metadata_url`) and GitHub's OAuth
+      doesn't expose an OIDC endpoint - confirmed via Streamlit's own docs
+      before switching to Google, which is OIDC-native. Conversation
+      history and all caps below are now keyed on the verified Google
+      email (`st.user.email`), not a self-reported string.
+
+      Layered three independent limits rather than one, since a dollar cap
+      alone doesn't bound much on its own - it only trips after the spend
+      it was supposed to prevent has already happened, and says nothing
+      about how many cheap requests get through before then:
+      - Global spend cap ($5) and per-user spend cap ($0.25), checked
+        against `storage.total_cost_usd()` / `user_cost_usd()` before every
+        `ask()` call.
+      - A flat per-user request cap (15 questions), independent of cost -
+        bounds request volume regardless of how cheap any single question
+        turns out to be.
+      - A minimum interval between questions (3s), to stop a single session
+        from firing requests faster than a human could plausibly read the
+        last answer.
+
+      Caught one real gap via a second pass before trusting any of this:
+      the SQLite ledger these caps read from is gitignored and lives on
+      local disk, which is not durable on a host with an ephemeral
+      filesystem - a container restart would silently reset the global
+      cap to zero. Documented this plainly rather than treating the in-app
+      cap as sufficient on its own (see "Known limitations" above) - the
+      real backstop for a public deployment is a spend limit set on the
+      Anthropic API key itself, which no amount of in-app logic can be
+      reset around.
 
 ### Fixed during testing: `choose_groups` bug and gen-ed retrieval
 

@@ -1,8 +1,16 @@
-"""Local SQLite storage for conversation history, keyed by a simple
-username typed into the UI - no password, no real authentication. Anyone
-who types a given username sees that username's history; this is "view my
-previous conversations" for a single personal/local deployment, not access
-control. Real auth is listed as deferred production work in the README.
+"""Local SQLite storage for conversation history, keyed by an identity
+string - the caller's job to supply a trustworthy one (app/streamlit_app.py
+uses the verified email from Google login, not a typed username). Also
+tracks spend and request counts across stored conversations for the
+public-deploy rate limits (see total_cost_usd / user_cost_usd /
+user_request_count) - a public link calling a paid API with no limit is a
+real cost risk, not a hypothetical one.
+
+Caveat: this ledger lives in a SQLite file on local disk. On a host with an
+ephemeral filesystem (e.g. Streamlit Community Cloud across a container
+restart), it resets to zero - these in-app caps are a courtesy, not the
+backstop. The actual backstop is a spend limit set on the Anthropic API key
+itself, in the Anthropic Console.
 """
 
 import json
@@ -87,3 +95,50 @@ def load_conversation(conversation_id: int) -> dict | None:
     data = dict(row)
     data["messages"] = json.loads(data["messages_json"])
     return data
+
+
+def _sum_cost(messages_json: str) -> float:
+    messages = json.loads(messages_json)
+    return sum(
+        (m.get("meta") or {}).get("cost_usd", 0.0)
+        for m in messages
+        if m["role"] == "assistant"
+    )
+
+
+def total_cost_usd() -> float:
+    """Spend across every stored conversation, all users combined - the
+    number the global spending cap checks. Deliberately not per-session:
+    a cap a visitor can reset just by starting a new session protects
+    nothing."""
+    with _connect() as conn:
+        rows = conn.execute("SELECT messages_json FROM conversations").fetchall()
+    return sum(_sum_cost(row["messages_json"]) for row in rows)
+
+
+def user_cost_usd(username: str) -> float:
+    """Spend across one identity's conversations - the per-user cap, on top
+    of (not instead of) the global one."""
+    with _connect() as conn:
+        rows = conn.execute(
+            "SELECT messages_json FROM conversations WHERE username = ?", (username,)
+        ).fetchall()
+    return sum(_sum_cost(row["messages_json"]) for row in rows)
+
+
+def user_request_count(username: str) -> int:
+    """Number of questions one identity has actually sent to the model
+    (assistant messages with a meta - i.e. not the free structured-data
+    answers). A dollar cap alone lets many cheap questions slip through
+    before it trips; a flat count bounds that regardless of per-question
+    cost."""
+    with _connect() as conn:
+        rows = conn.execute(
+            "SELECT messages_json FROM conversations WHERE username = ?", (username,)
+        ).fetchall()
+    return sum(
+        1
+        for row in rows
+        for m in json.loads(row["messages_json"])
+        if m["role"] == "assistant" and m.get("meta")
+    )

@@ -7,6 +7,7 @@ Run with: streamlit run app/streamlit_app.py
 
 import html
 import sys
+import time
 from pathlib import Path
 
 # Streamlit only adds this script's own directory (app/) to sys.path, not
@@ -424,6 +425,21 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+if not st.user.is_logged_in:
+    st.info("Sign in with Google to use the assistant and save your conversation history.")
+    if st.button("Log in with Google", type="primary"):
+        st.login()
+    st.stop()
+
+# A real, verified identity (not a typed string) - this is both the
+# conversation-history key and what the spending caps below are keyed on.
+user_email = st.user.email
+
+GLOBAL_SPEND_CAP_USD = 5.00
+PER_USER_SPEND_CAP_USD = 0.25
+PER_USER_REQUEST_CAP = 15
+MIN_SECONDS_BETWEEN_QUESTIONS = 3
+
 
 @st.cache_data
 def load_course_titles() -> dict[str, str]:
@@ -437,6 +453,11 @@ def load_course_titles() -> dict[str, str]:
 course_titles = load_course_titles()
 
 with st.sidebar:
+    with st.container(key="account-card"):
+        st.caption(f"Signed in as {user_email}")
+        if st.button("Log out", use_container_width=True):
+            st.logout()
+
     with st.container(key="view-nav"):
         view = st.radio(
             "View",
@@ -494,28 +515,17 @@ if view == "Chat":
     if "current_conversation_id" not in st.session_state:
         st.session_state.current_conversation_id = None
 
-    username = st.text_input(
-        "Username",
-        key="username",
-        placeholder="Enter a username to save and revisit your conversations",
-        label_visibility="collapsed",
-    )
-
-    if username:
-        previous = storage.list_conversations(username)
-        if previous:
-            with st.expander(f"Previous conversations ({len(previous)})"):
-                for convo in previous:
-                    when = convo["updated_at"][:16].replace("T", " ")
-                    label = f"{convo['title']} — {when}"
-                    if st.button(label, key=f"load_convo_{convo['id']}", use_container_width=True):
-                        loaded = storage.load_conversation(convo["id"])
-                        st.session_state.messages = loaded["messages"]
-                        st.session_state.current_conversation_id = convo["id"]
-                        st.rerun()
-    else:
-        st.caption("Enter a username above to save and revisit your conversations across visits. "
-                    "No password - anyone who types the same username sees that history.")
+    previous = storage.list_conversations(user_email)
+    if previous:
+        with st.expander(f"Previous conversations ({len(previous)})"):
+            for convo in previous:
+                when = convo["updated_at"][:16].replace("T", " ")
+                label = f"{convo['title']} — {when}"
+                if st.button(label, key=f"load_convo_{convo['id']}", use_container_width=True):
+                    loaded = storage.load_conversation(convo["id"])
+                    st.session_state.messages = loaded["messages"]
+                    st.session_state.current_conversation_id = convo["id"]
+                    st.rerun()
 
     if not st.session_state.messages:
         st.markdown("**Try asking:**")
@@ -547,22 +557,52 @@ if view == "Chat":
 
         meta = None
         with st.chat_message("assistant"):
-            with st.spinner("Checking the catalog..."):
-                try:
-                    result = ask(question, major_slug, completed_courses)
-                    answer = result["answer"]
-                    meta = {
-                        "model": result["model"],
-                        "cost_usd": result["cost_usd"],
-                        "elapsed_s": result["elapsed_s"],
-                    }
-                except KeyError:
-                    answer = (
-                        "No `ANTHROPIC_API_KEY` found. Add one to `.env` "
-                        "(see `.env.example`) and restart the app."
-                    )
-                except Exception as exc:
-                    answer = f"Something went wrong: {exc}"
+            total_spent = storage.total_cost_usd()
+            user_spent = storage.user_cost_usd(user_email)
+            user_requests = storage.user_request_count(user_email)
+            last_asked = st.session_state.get("last_question_time")
+            seconds_since_last = time.monotonic() - last_asked if last_asked else None
+            # Checked before every call, not just at login - spend and
+            # request counts accrue across the whole demo's lifetime, so a
+            # check only enforced once wouldn't catch a session that pushes
+            # a cap over mid-chat.
+            if total_spent >= GLOBAL_SPEND_CAP_USD:
+                answer = (
+                    f"This demo has hit its ${GLOBAL_SPEND_CAP_USD:.2f} total spending cap "
+                    "(shared across everyone who's tried it) and has stopped answering to "
+                    "avoid further API cost. Reach out if you'd like to see it running live."
+                )
+            elif user_spent >= PER_USER_SPEND_CAP_USD:
+                answer = (
+                    f"You've reached this demo's ${PER_USER_SPEND_CAP_USD:.2f} per-person "
+                    "spending cap. Reach out if you'd like to keep exploring."
+                )
+            elif user_requests >= PER_USER_REQUEST_CAP:
+                answer = (
+                    f"You've reached this demo's {PER_USER_REQUEST_CAP}-question limit per "
+                    "person. Reach out if you'd like to keep exploring."
+                )
+            elif seconds_since_last is not None and seconds_since_last < MIN_SECONDS_BETWEEN_QUESTIONS:
+                answer = "One moment - please wait a few seconds between questions."
+            else:
+                st.session_state.last_question_time = time.monotonic()
+                with st.spinner("Checking the catalog..."):
+                    try:
+                        result = ask(question, major_slug, completed_courses)
+                        answer = result["answer"]
+                        meta = {
+                            "model": result["model"],
+                            "cost_usd": result["cost_usd"],
+                            "elapsed_s": result["elapsed_s"],
+                        }
+                    except KeyError:
+                        answer = (
+                            "No `ANTHROPIC_API_KEY` found. Add one to `.env` locally "
+                            "(see `.env.example`) or to this app's secrets if deployed, "
+                            "then restart."
+                        )
+                    except Exception as exc:
+                        answer = f"Something went wrong: {exc}"
             st.markdown(answer)
             if meta:
                 st.caption(
@@ -571,13 +611,12 @@ if view == "Chat":
 
         st.session_state.messages.append({"role": "assistant", "content": answer, "meta": meta})
 
-        if username:
-            st.session_state.current_conversation_id = storage.save_conversation(
-                st.session_state.current_conversation_id,
-                username,
-                major_slug,
-                st.session_state.messages,
-            )
+        st.session_state.current_conversation_id = storage.save_conversation(
+            st.session_state.current_conversation_id,
+            user_email,
+            major_slug,
+            st.session_state.messages,
+        )
 
 else:
     st.caption("Computed instantly from the scraped catalog - no API call, no cost.")
