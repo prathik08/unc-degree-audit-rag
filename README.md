@@ -8,6 +8,10 @@ own completed-courses list - e.g. "what am I missing for the CS major" or
 **Stack:** Python · Streamlit · Anthropic Claude API (Haiku 4.5 / Sonnet 5) ·
 ChromaDB + sentence-transformers · SQLite · BeautifulSoup
 
+**[Try the live demo →](https://unc-degree-audit-rag.streamlit.app)** (Google
+sign-in required; rate-limited to keep the demo's API costs bounded - see
+"Auth" below)
+
 ## Highlights
 
 - **Hybrid architecture, not naive RAG.** Requirement checking is an
